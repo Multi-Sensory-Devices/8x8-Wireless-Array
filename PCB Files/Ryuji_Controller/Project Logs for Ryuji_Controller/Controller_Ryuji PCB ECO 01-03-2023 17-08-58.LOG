@@ -1,0 +1,14 @@
+Added Component: Designator=5V_SEL(1X03)
+Add component (AddParameter): Name = "DeviceName"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "CONN_03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "J$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SparkFun-Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1X03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PROD_ID"; Value = "XXX-00000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "CONN_03"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EXT_5V Pin=5V_SEL-1
+Added Pin To Net: NetName=5V Pin=5V_SEL-2
+Added Pin To Net: NetName=VDD Pin=5V_SEL-3
+Added Member To Class: ClassName=Headers_Controller Member=Component 5V_SEL
+Added Member To Class: ClassName=Headers_Controller Member=Component C2 0.33uF
+Added Member To Class: ClassName=Headers_Controller Member=Component J6 Pulled out pins

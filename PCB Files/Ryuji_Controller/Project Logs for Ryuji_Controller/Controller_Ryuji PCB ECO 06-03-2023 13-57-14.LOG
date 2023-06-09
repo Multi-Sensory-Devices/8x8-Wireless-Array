@@ -1,0 +1,303 @@
+Removed Pin From Net: NetName=3.3V Pin=3V3-P$1
+Removed Pin From Net: NetName=GND Pin=3V3_EN-1
+Removed Pin From Net: NetName=Feather_EN Pin=3V3_EN-2
+Removed Pin From Net: NetName=GND Pin=5VREG-GND
+Removed Pin From Net: NetName=VS Pin=5VREG-IN
+Removed Pin From Net: NetName=EXT_5V Pin=5VREG-OUT
+Removed Pin From Net: NetName=IO_39 Pin=39-P$1
+Removed Pin From Net: NetName=IO_43 Pin=43-P$1
+Removed Pin From Net: NetName=D2 Pin=D2-P$1
+Removed Pin From Net: NetName=PD_D+ Pin=D+-P$1
+Removed Pin From Net: NetName=PD_D- Pin=D--P$1
+Removed Pin From Net: NetName=GND Pin=J1-01
+Removed Pin From Net: NetName=VS Pin=J1-02
+Removed Pin From Net: NetName=sigB29 Pin=J1-03
+Removed Pin From Net: NetName=sigA30 Pin=J1-04
+Removed Pin From Net: NetName=sigA29 Pin=J1-05
+Removed Pin From Net: NetName=sigB30 Pin=J1-06
+Removed Pin From Net: NetName=sigB25 Pin=J1-07
+Removed Pin From Net: NetName=sigA26 Pin=J1-08
+Removed Pin From Net: NetName=sigA25 Pin=J1-09
+Removed Pin From Net: NetName=sigB26 Pin=J1-10
+Removed Pin From Net: NetName=sigB21 Pin=J1-11
+Removed Pin From Net: NetName=sigA22 Pin=J1-12
+Removed Pin From Net: NetName=sigA21 Pin=J1-13
+Removed Pin From Net: NetName=sigB22 Pin=J1-14
+Removed Pin From Net: NetName=sigB17 Pin=J1-15
+Removed Pin From Net: NetName=sigA18 Pin=J1-16
+Removed Pin From Net: NetName=sigA17 Pin=J1-17
+Removed Pin From Net: NetName=sigB18 Pin=J1-18
+Removed Pin From Net: NetName=GND Pin=J1-19
+Removed Pin From Net: NetName=VS Pin=J1-20
+Removed Pin From Net: NetName=GND Pin=J2-01
+Removed Pin From Net: NetName=VS Pin=J2-02
+Removed Pin From Net: NetName=sigB13 Pin=J2-03
+Removed Pin From Net: NetName=sigA14 Pin=J2-04
+Removed Pin From Net: NetName=sigA13 Pin=J2-05
+Removed Pin From Net: NetName=sigB14 Pin=J2-06
+Removed Pin From Net: NetName=sigB9 Pin=J2-07
+Removed Pin From Net: NetName=sigA10 Pin=J2-08
+Removed Pin From Net: NetName=sigA9 Pin=J2-09
+Removed Pin From Net: NetName=sigB10 Pin=J2-10
+Removed Pin From Net: NetName=sigB5 Pin=J2-11
+Removed Pin From Net: NetName=sigA6 Pin=J2-12
+Removed Pin From Net: NetName=sigA5 Pin=J2-13
+Removed Pin From Net: NetName=sigB6 Pin=J2-14
+Removed Pin From Net: NetName=sigB1 Pin=J2-15
+Removed Pin From Net: NetName=sigA2 Pin=J2-16
+Removed Pin From Net: NetName=sigA1 Pin=J2-17
+Removed Pin From Net: NetName=sigB2 Pin=J2-18
+Removed Pin From Net: NetName=GND Pin=J2-19
+Removed Pin From Net: NetName=VS Pin=J2-20
+Removed Pin From Net: NetName=sigB31 Pin=J3-03
+Removed Pin From Net: NetName=sigA32 Pin=J3-04
+Removed Pin From Net: NetName=sigA31 Pin=J3-05
+Removed Pin From Net: NetName=sigB32 Pin=J3-06
+Removed Pin From Net: NetName=sigB27 Pin=J3-07
+Removed Pin From Net: NetName=sigA28 Pin=J3-08
+Removed Pin From Net: NetName=sigA27 Pin=J3-09
+Removed Pin From Net: NetName=sigB28 Pin=J3-10
+Removed Pin From Net: NetName=sigB23 Pin=J3-11
+Removed Pin From Net: NetName=sigA24 Pin=J3-12
+Removed Pin From Net: NetName=sigA23 Pin=J3-13
+Removed Pin From Net: NetName=sigB24 Pin=J3-14
+Removed Pin From Net: NetName=sigB19 Pin=J3-15
+Removed Pin From Net: NetName=sigA20 Pin=J3-16
+Removed Pin From Net: NetName=sigA19 Pin=J3-17
+Removed Pin From Net: NetName=sigB20 Pin=J3-18
+Removed Pin From Net: NetName=sigB15 Pin=J4-03
+Removed Pin From Net: NetName=sigA16 Pin=J4-04
+Removed Pin From Net: NetName=sigA15 Pin=J4-05
+Removed Pin From Net: NetName=sigB16 Pin=J4-06
+Removed Pin From Net: NetName=sigB11 Pin=J4-07
+Removed Pin From Net: NetName=sigA12 Pin=J4-08
+Removed Pin From Net: NetName=sigA11 Pin=J4-09
+Removed Pin From Net: NetName=sigB12 Pin=J4-10
+Removed Pin From Net: NetName=sigB7 Pin=J4-11
+Removed Pin From Net: NetName=sigA8 Pin=J4-12
+Removed Pin From Net: NetName=sigA7 Pin=J4-13
+Removed Pin From Net: NetName=sigB8 Pin=J4-14
+Removed Pin From Net: NetName=sigB3 Pin=J4-15
+Removed Pin From Net: NetName=sigA4 Pin=J4-16
+Removed Pin From Net: NetName=sigA3 Pin=J4-17
+Removed Pin From Net: NetName=sigB4 Pin=J4-18
+Removed Pin From Net: NetName=Feather_RESET Pin=J5-1
+Removed Pin From Net: NetName=Feather_3V3 Pin=J5-2
+Removed Pin From Net: NetName=Feather_AREF Pin=J5-3
+Removed Pin From Net: NetName=GND Pin=J5-4
+Removed Pin From Net: NetName=PDO3 Pin=J5-5
+Removed Pin From Net: NetName=PDO2 Pin=J5-6
+Removed Pin From Net: NetName=A2 Pin=J5-7
+Removed Pin From Net: NetName=A3 Pin=J5-8
+Removed Pin From Net: NetName=A4 Pin=J5-9
+Removed Pin From Net: NetName=A5 Pin=J5-10
+Removed Pin From Net: NetName=VBAT Pin=J6-1
+Removed Pin From Net: NetName=Feather_EN Pin=J6-2
+Removed Pin From Net: NetName=VBUS_Feather Pin=J6-3
+Removed Pin From Net: NetName=D13 Pin=J6-4
+Removed Pin From Net: NetName=TXD Pin=T6-P$1
+Removed Pin From Net: NetName=RXD Pin=T9-P$1
+Removed Pin From Net: NetName=D5 Pin=T12-P$1
+Removed Pin From Net: NetName=MISO Pin=T13-P$1
+Removed Pin From Net: NetName=D6 Pin=T16-P$1
+Removed Pin From Net: NetName=MOSI Pin=T17-P$1
+Removed Pin From Net: NetName=D9 Pin=T20-P$1
+Removed Pin From Net: NetName=SCK Pin=T21-P$1
+Removed Pin From Net: NetName=D10 Pin=T24-P$1
+Removed Pin From Net: NetName=D11 Pin=T26-P$1
+Removed Pin From Net: NetName=D12 Pin=T27-P$1
+Removed Pin From Net: NetName=SCL Pin=T53-P$1
+Removed Pin From Net: NetName=SDA Pin=T56-P$1
+Removed Member From Class: ClassName=Headers_Controller Member=3V3_EN
+Removed Member From Class: ClassName=Headers_Controller Member=3V3
+Removed Member From Class: ClassName=Headers_Controller Member=5VREG
+Removed Member From Class: ClassName=Headers_Controller Member=39
+Removed Member From Class: ClassName=Headers_Controller Member=43
+Removed Member From Class: ClassName=Headers_Controller Member=D2
+Removed Member From Class: ClassName=Headers_Controller Member=D+
+Removed Member From Class: ClassName=Headers_Controller Member=D-
+Removed Member From Class: ClassName=Headers_Controller Member=T16
+Removed Member From Class: ClassName=Headers_Controller Member=T17
+Removed Member From Class: ClassName=Headers_Controller Member=T20
+Removed Member From Class: ClassName=Headers_Controller Member=T21
+Removed Member From Class: ClassName=Headers_Controller Member=T24
+Removed Member From Class: ClassName=Headers_Controller Member=T26
+Removed Member From Class: ClassName=Headers_Controller Member=T27
+Removed Member From Class: ClassName=Headers_Controller Member=T53
+Removed Member From Class: ClassName=Headers_Controller Member=T56
+Change Component Footprint: Designator=J6 Old Footprint=1X04_LOCK - header New Footprint=SAMTEC_TSSH-110-01-L-D
+Change Component Footprint: Designator=J5 Old Footprint=1X10 _ LOCK - header New Footprint=SAMTEC_TSSH-110-01-L-D
+Change Component Footprint: Designator=J2 Old Footprint=SAMTEC_TSSH-110-01-L-D New Footprint=1X04_LOCK - header
+Change Component Footprint: Designator=J1 Old Footprint=SAMTEC_TSSH-110-01-L-D New Footprint=1X10 _ LOCK - header
+Change Component Comment : Designator=J5 Old Comment= New Comment=TSSH-110-01-L-D
+Change Component Comment : Designator=J6 Old Comment=Pulled out pins New Comment=TSSH-110-01-L-D
+Change Component Comment : Designator=J1 Old Comment=TSSH-110-01-L-D New Comment=
+Change Component Comment : Designator=J2 Old Comment=TSSH-110-01-L-D New Comment=Pulled out pins
+Change component parameters: Designator = "J1" ("J1"); Footprint = "SAMTEC_TSSH-110-01-L-D"; UniqueID = "\JTASQKKN" ("\JTASQKKN")
+Change component parameters: Designator = "J2" ("J2"); Footprint = "SAMTEC_TSSH-110-01-L-D"; UniqueID = "\YSDQBGPH" ("\YSDQBGPH")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-09696"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J5" ("J5"); Footprint = "1X10 _ LOCK - header"; UniqueID = "\EZKTRKWO" ("\EZKTRKWO")
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TSSH-110-01-L-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J6" ("J6"); Footprint = "1X04_LOCK - header"; UniqueID = "\MIDUEUQR" ("\MIDUEUQR")
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TSSH-110-01-L-D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=1(SMT-JUMPER_2_NC_TRACE_SILK)
+Added Component: Designator=2(PAD.03X.05)
+Added Component: Designator=3(PAD.03X.05)
+Added Component: Designator=4(PAD.03X.05)
+Added Component: Designator=D1(PAD.03X.05)
+Added Component: Designator=D+1(PAD.03X.05)
+Added Component: Designator=D-1(PAD.03X.05)
+Added Component: Designator=T1(PAD.03X.05)
+Added Component: Designator=T2(PAD.03X.05)
+Added Component: Designator=T3(PAD.03X.05)
+Added Component: Designator=T4(PAD.03X.05)
+Added Component: Designator=T5(PAD.03X.05)
+Added Component: Designator=T7(PAD.03X.05)
+Added Component: Designator=T8(PAD.03X.05)
+Added Component: Designator=T10(PAD.03X.05)
+Added Component: Designator=T11(PAD.03X.05)
+Added Component: Designator=VR1(OOKA-78SR)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.farnell.com/datasheets/1904473.pdf?_ga=2.85272922.296638663.1549285494-96194751.1546862067"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline Package 2.54 mm Pitch, 15.1 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "D2PAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=1-1
+Added Pin To Net: NetName=Feather_EN Pin=1-2
+Added Pin To Net: NetName=3.3V Pin=2-P$1
+Added Pin To Net: NetName=IO_43 Pin=3-P$1
+Added Pin To Net: NetName=IO_39 Pin=4-P$1
+Added Pin To Net: NetName=D2 Pin=D1-P$1
+Added Pin To Net: NetName=PD_D+ Pin=D+1-P$1
+Added Pin To Net: NetName=PD_D- Pin=D-1-P$1
+Added Pin To Net: NetName=Feather_RESET Pin=J1-1
+Added Pin To Net: NetName=Feather_3V3 Pin=J1-2
+Added Pin To Net: NetName=Feather_AREF Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=PDO3 Pin=J1-5
+Added Pin To Net: NetName=PDO2 Pin=J1-6
+Added Pin To Net: NetName=A2 Pin=J1-7
+Added Pin To Net: NetName=A3 Pin=J1-8
+Added Pin To Net: NetName=A4 Pin=J1-9
+Added Pin To Net: NetName=A5 Pin=J1-10
+Added Pin To Net: NetName=VBAT Pin=J2-1
+Added Pin To Net: NetName=Feather_EN Pin=J2-2
+Added Pin To Net: NetName=VBUS_Feather Pin=J2-3
+Added Pin To Net: NetName=D13 Pin=J2-4
+Added Pin To Net: NetName=sigB29 Pin=J3-03
+Added Pin To Net: NetName=sigA30 Pin=J3-04
+Added Pin To Net: NetName=sigA29 Pin=J3-05
+Added Pin To Net: NetName=sigB30 Pin=J3-06
+Added Pin To Net: NetName=sigB25 Pin=J3-07
+Added Pin To Net: NetName=sigA26 Pin=J3-08
+Added Pin To Net: NetName=sigA25 Pin=J3-09
+Added Pin To Net: NetName=sigB26 Pin=J3-10
+Added Pin To Net: NetName=sigB21 Pin=J3-11
+Added Pin To Net: NetName=sigA22 Pin=J3-12
+Added Pin To Net: NetName=sigA21 Pin=J3-13
+Added Pin To Net: NetName=sigB22 Pin=J3-14
+Added Pin To Net: NetName=sigB17 Pin=J3-15
+Added Pin To Net: NetName=sigA18 Pin=J3-16
+Added Pin To Net: NetName=sigA17 Pin=J3-17
+Added Pin To Net: NetName=sigB18 Pin=J3-18
+Added Pin To Net: NetName=sigB13 Pin=J4-03
+Added Pin To Net: NetName=sigA14 Pin=J4-04
+Added Pin To Net: NetName=sigA13 Pin=J4-05
+Added Pin To Net: NetName=sigB14 Pin=J4-06
+Added Pin To Net: NetName=sigB9 Pin=J4-07
+Added Pin To Net: NetName=sigA10 Pin=J4-08
+Added Pin To Net: NetName=sigA9 Pin=J4-09
+Added Pin To Net: NetName=sigB10 Pin=J4-10
+Added Pin To Net: NetName=sigB5 Pin=J4-11
+Added Pin To Net: NetName=sigA6 Pin=J4-12
+Added Pin To Net: NetName=sigA5 Pin=J4-13
+Added Pin To Net: NetName=sigB6 Pin=J4-14
+Added Pin To Net: NetName=sigB1 Pin=J4-15
+Added Pin To Net: NetName=sigA2 Pin=J4-16
+Added Pin To Net: NetName=sigA1 Pin=J4-17
+Added Pin To Net: NetName=sigB2 Pin=J4-18
+Added Pin To Net: NetName=GND Pin=J5-01
+Added Pin To Net: NetName=VS Pin=J5-02
+Added Pin To Net: NetName=sigB31 Pin=J5-03
+Added Pin To Net: NetName=sigA32 Pin=J5-04
+Added Pin To Net: NetName=sigA31 Pin=J5-05
+Added Pin To Net: NetName=sigB32 Pin=J5-06
+Added Pin To Net: NetName=sigB27 Pin=J5-07
+Added Pin To Net: NetName=sigA28 Pin=J5-08
+Added Pin To Net: NetName=sigA27 Pin=J5-09
+Added Pin To Net: NetName=sigB28 Pin=J5-10
+Added Pin To Net: NetName=sigB23 Pin=J5-11
+Added Pin To Net: NetName=sigA24 Pin=J5-12
+Added Pin To Net: NetName=sigA23 Pin=J5-13
+Added Pin To Net: NetName=sigB24 Pin=J5-14
+Added Pin To Net: NetName=sigB19 Pin=J5-15
+Added Pin To Net: NetName=sigA20 Pin=J5-16
+Added Pin To Net: NetName=sigA19 Pin=J5-17
+Added Pin To Net: NetName=sigB20 Pin=J5-18
+Added Pin To Net: NetName=GND Pin=J5-19
+Added Pin To Net: NetName=VS Pin=J5-20
+Added Pin To Net: NetName=GND Pin=J6-01
+Added Pin To Net: NetName=VS Pin=J6-02
+Added Pin To Net: NetName=sigB15 Pin=J6-03
+Added Pin To Net: NetName=sigA16 Pin=J6-04
+Added Pin To Net: NetName=sigA15 Pin=J6-05
+Added Pin To Net: NetName=sigB16 Pin=J6-06
+Added Pin To Net: NetName=sigB11 Pin=J6-07
+Added Pin To Net: NetName=sigA12 Pin=J6-08
+Added Pin To Net: NetName=sigA11 Pin=J6-09
+Added Pin To Net: NetName=sigB12 Pin=J6-10
+Added Pin To Net: NetName=sigB7 Pin=J6-11
+Added Pin To Net: NetName=sigA8 Pin=J6-12
+Added Pin To Net: NetName=sigA7 Pin=J6-13
+Added Pin To Net: NetName=sigB8 Pin=J6-14
+Added Pin To Net: NetName=sigB3 Pin=J6-15
+Added Pin To Net: NetName=sigA4 Pin=J6-16
+Added Pin To Net: NetName=sigA3 Pin=J6-17
+Added Pin To Net: NetName=sigB4 Pin=J6-18
+Added Pin To Net: NetName=GND Pin=J6-19
+Added Pin To Net: NetName=VS Pin=J6-20
+Added Pin To Net: NetName=TXD Pin=T1-P$1
+Added Pin To Net: NetName=D5 Pin=T2-P$1
+Added Pin To Net: NetName=RXD Pin=T3-P$1
+Added Pin To Net: NetName=MISO Pin=T4-P$1
+Added Pin To Net: NetName=D6 Pin=T5-P$1
+Added Pin To Net: NetName=D9 Pin=T6-P$1
+Added Pin To Net: NetName=MOSI Pin=T7-P$1
+Added Pin To Net: NetName=D10 Pin=T8-P$1
+Added Pin To Net: NetName=SCK Pin=T9-P$1
+Added Pin To Net: NetName=D11 Pin=T10-P$1
+Added Pin To Net: NetName=D12 Pin=T11-P$1
+Added Pin To Net: NetName=SCL Pin=T12-P$1
+Added Pin To Net: NetName=SDA Pin=T13-P$1
+Added Pin To Net: NetName=GND Pin=VR1-GND
+Added Pin To Net: NetName=VS Pin=VR1-IN
+Added Pin To Net: NetName=EXT_5V Pin=VR1-OUT
+Added Member To Class: ClassName=Headers_Controller Member=Component 1 Normally closed trace jumper    This jumper has a trace between two pads so it's normally closed (NC). Use a razor knife to open the connection. For best results follow the IPC guidelines for cutting traces: Cutout at least 0.063 mm (0.005 in).  Remove all loose material to clean up the cut area.  Seal the cut with an approved epoxy.       Reapply solder to reclose the connection.
+Added Member To Class: ClassName=Headers_Controller Member=Component 2 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component 3 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component 4 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component D1 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component D+1 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component D-1 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T1 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T2 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T3 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T4 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T5 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T7 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T8 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T10 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T11 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component VR1 OKI-78SR-5

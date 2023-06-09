@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=J5-68
+Added Pin To Net: NetName=GND Pin=J5-46
+Add Class Member: Failed to add class member : Component J6 Sparkfun STUSB4500

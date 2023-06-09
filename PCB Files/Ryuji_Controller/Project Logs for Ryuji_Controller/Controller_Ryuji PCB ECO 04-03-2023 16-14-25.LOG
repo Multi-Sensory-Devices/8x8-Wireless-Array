@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=SYNC Pin=Daisy-01
+Removed Pin From Net: NetName=Passthrough'd_Sync Pin=Daisy-02
+Removed Pin From Net: NetName=SYNC Pin=J8-2
+Added Pin To Net: NetName=Passthrough'd_Sync Pin=Daisy-01
+Added Pin To Net: NetName=SYNC Pin=Daisy-02

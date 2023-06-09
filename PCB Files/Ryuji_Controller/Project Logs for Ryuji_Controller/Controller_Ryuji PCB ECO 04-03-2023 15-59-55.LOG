@@ -1,0 +1,6 @@
+Added Component: Designator=33(PAD.03X.05)
+Added Component: Designator=38(PAD.03X.05)
+Added Pin To Net: NetName=MS Pin=33-P$1
+Added Pin To Net: NetName=SYNC Pin=38-P$1
+Added Member To Class: ClassName=Headers_Controller Member=Component 33 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component 38 TEST-POINT3X5

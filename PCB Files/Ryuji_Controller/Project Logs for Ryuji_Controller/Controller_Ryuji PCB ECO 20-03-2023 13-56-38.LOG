@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=LINK_A NewDesignator=LA
+Change Component Designator: OldDesignator=LINK_B NewDesignator=LB
+Change Net Name : Old Net Name=NetLINK_A_1 New Net Name=NetLA_1
+Change Net Name : Old Net Name=NetLINK_B_1 New Net Name=NetLB_1
+Added Member To Class: ClassName=Headers_Controller Member=Component LA Normally closed trace jumper    This jumper has a trace between two pads so it's normally closed (NC). Use a razor knife to open the connection. For best results follow the IPC guidelines for cutting traces: Cutout at least 0.063 mm (0.005 in).  Remove all loose material to clean up the cut area.  Seal the cut with an approved epoxy.       Reapply solder to reclose the connection.
+Added Member To Class: ClassName=Headers_Controller Member=Component LB Normally closed trace jumper    This jumper has a trace between two pads so it's normally closed (NC). Use a razor knife to open the connection. For best results follow the IPC guidelines for cutting traces: Cutout at least 0.063 mm (0.005 in).  Remove all loose material to clean up the cut area.  Seal the cut with an approved epoxy.       Reapply solder to reclose the connection.

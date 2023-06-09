@@ -1,0 +1,26 @@
+Removed Member From Class: ClassName=Headers_Controller Member=J?
+Added Component: Designator=J8(2X3)
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-09701"; VariantName = "[No Variations]"
+Added Component: Designator=MONITOR(2X8)
+Added Pin To Net: NetName=IO_43 Pin=J8-1
+Added Pin To Net: NetName=IO_39 Pin=J8-2
+Added Pin To Net: NetName=IO_1 Pin=J8-3
+Added Pin To Net: NetName=IO_3 Pin=J8-4
+Added Pin To Net: NetName=IO_7 Pin=J8-5
+Added Pin To Net: NetName=IO_2 Pin=J8-6
+Added Pin To Net: NetName=VS Pin=MONITOR-1
+Added Pin To Net: NetName=VS Pin=MONITOR-2
+Added Pin To Net: NetName=VS Pin=MONITOR-3
+Added Pin To Net: NetName=VS Pin=MONITOR-4
+Added Pin To Net: NetName=5V Pin=MONITOR-7
+Added Pin To Net: NetName=5V Pin=MONITOR-8
+Added Pin To Net: NetName=5V Pin=MONITOR-9
+Added Pin To Net: NetName=5V Pin=MONITOR-10
+Added Pin To Net: NetName=GND Pin=MONITOR-13
+Added Pin To Net: NetName=GND Pin=MONITOR-14
+Added Pin To Net: NetName=GND Pin=MONITOR-15
+Added Pin To Net: NetName=GND Pin=MONITOR-16
+Added Member To Class: ClassName=Headers_Controller Member=Component J8 FPGA IO
+Added Member To Class: ClassName=Headers_Controller Member=Component LINK_A 35RASMT4BHNTRX
+Added Member To Class: ClassName=Headers_Controller Member=Component LINK_B 35RASMT4BHNTRX
+Added Member To Class: ClassName=Headers_Controller Member=Component MONITOR Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    You can populate with any combo of single row headers, but if you'd like an exact match, check this:  Header - 2x8 (Male, 0.1") (PRT-13156)       On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)

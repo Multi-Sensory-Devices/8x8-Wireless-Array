@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=3V3_EN-1
+Removed Pin From Net: NetName=Feather_EN Pin=3V3_EN-2
+Removed Member From Class: ClassName=Headers_Controller Member=3V3_EN
+Added Pin To Net: NetName=VBUS_Feather Pin=VBUS_Jumper-2

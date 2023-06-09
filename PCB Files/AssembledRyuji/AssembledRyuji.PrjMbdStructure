@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=AssembledRyuji.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\Ryuji_8x8\Ryuji_8x8.PrjPcb
+Record=SubProject|SourceDocument=AssembledRyuji.MbsDoc|ProjectPath=..\Ryuji_8x8\Ryuji_8x8.PrjPcb
+Record=DiagramHierarchy|SourceDocument=AssembledRyuji.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\Ryuji_Controller\Ryuji_Controller.PrjPcb
+Record=SubProject|SourceDocument=AssembledRyuji.MbsDoc|ProjectPath=..\Ryuji_Controller\Ryuji_Controller.PrjPcb

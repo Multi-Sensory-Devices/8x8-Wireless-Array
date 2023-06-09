@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=5V Pin=VDD_Jumper-1
+Removed Pin From Net: NetName=VDD Pin=VDD_Jumper-2
+Change Component Footprint: Designator=VDD_Jumper Old Footprint=1X02_LOCK_ New Footprint=SAMTEC_TSW-102-09-G-S-RA
+Change Component Comment : Designator=VDD_Jumper Old Comment=Short to connect VS to Vsink, open to add filters New Comment=TSW-102-09-G-S-RA
+Change component parameters: Designator = "VDD_Jumper" ("VDD_Jumper"); Footprint = "1X02_LOCK_"; UniqueID = "\ZKJUQHZG" ("\ZKJUQHZG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samtec Inc.'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TSW-102-09-G-S-RA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=VDD_Jumper-01
+Added Pin To Net: NetName=5V Pin=VDD_Jumper-02

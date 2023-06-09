@@ -1,0 +1,8 @@
+Added Component: Designator=HOLE1(M3 STAND OFF - RING)
+Added Component: Designator=HOLE2(M3 STAND OFF - RING)
+Added Component: Designator=HOLE3(M3 STAND OFF - RING)
+Added Component: Designator=HOLE4(M3 STAND OFF - RING)
+Added Member To Class: ClassName=Headers_Controller Member=Component HOLE1 M3 Mounting Hole
+Added Member To Class: ClassName=Headers_Controller Member=Component HOLE2 M3 Mounting Hole
+Added Member To Class: ClassName=Headers_Controller Member=Component HOLE3 M3 Mounting Hole
+Added Member To Class: ClassName=Headers_Controller Member=Component HOLE4 M3 Mounting Hole

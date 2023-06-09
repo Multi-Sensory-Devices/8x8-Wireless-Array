@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=D9 NewDesignator=T6
+Change Component Designator: OldDesignator=SCK NewDesignator=T9
+Change Component Designator: OldDesignator=SCL NewDesignator=T12
+Change Component Designator: OldDesignator=SDA NewDesignator=T13

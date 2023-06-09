@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=DS1 Pin=Header2-2
+Added Pin To Net: NetName=DS3 Pin=Header2-10
+Added Pin To Net: NetName=DS4 Pin=Header2-14
+Added Pin To Net: NetName=DS5 Pin=Header2-18
+Added Pin To Net: NetName=DS6 Pin=Header2-22
+Added Pin To Net: NetName=DS7 Pin=Header2-26
+Added Pin To Net: NetName=DS8 Pin=Header2-30
+Added Pin To Net: NetName=DS2 Pin=U1_S2-14

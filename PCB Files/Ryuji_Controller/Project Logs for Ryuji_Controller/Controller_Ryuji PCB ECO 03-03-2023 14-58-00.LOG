@@ -1,0 +1,25 @@
+Added Component: Designator=33(PAD.03X.05)
+Added Component: Designator=38(PAD.03X.05)
+Added Component: Designator=39(PAD.03X.05)
+Added Component: Designator=42(PAD.03X.05)
+Added Component: Designator=43(PAD.03X.05)
+Added Pin To Net: NetName=Net33_P$1 Pin=33-P$1
+Added Pin To Net: NetName=Net33_P$1 Pin=EP4CE6-61
+Added Net: Name=Net33_P$1
+Added Pin To Net: NetName=Net38_P$1 Pin=38-P$1
+Added Pin To Net: NetName=Net38_P$1 Pin=EP4CE6-59
+Added Net: Name=Net38_P$1
+Added Pin To Net: NetName=Net39_P$1 Pin=39-P$1
+Added Pin To Net: NetName=Net39_P$1 Pin=EP4CE6-60
+Added Net: Name=Net39_P$1
+Added Pin To Net: NetName=Net42_P$1 Pin=42-P$1
+Added Pin To Net: NetName=Net42_P$1 Pin=EP4CE6-57
+Added Net: Name=Net42_P$1
+Added Pin To Net: NetName=Net43_P$1 Pin=43-P$1
+Added Pin To Net: NetName=Net43_P$1 Pin=EP4CE6-58
+Added Net: Name=Net43_P$1
+Added Member To Class: ClassName=Headers_Controller Member=Component 33 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component 38 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component 39 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component 42 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component 43 TEST-POINT3X5

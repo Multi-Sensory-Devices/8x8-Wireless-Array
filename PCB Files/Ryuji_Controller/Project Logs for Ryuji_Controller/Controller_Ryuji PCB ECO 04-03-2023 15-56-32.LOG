@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=SYNC Pin=38-P$1
+Removed Pin From Net: NetName=SYNC Pin=EP4CE6-59
+Removed Pin From Net: NetName=MS Pin=EP4CE6-61
+Change Component Designator: OldDesignator=Daisy NewDesignator=Daisy Chain
+Added Component: Designator=33(PAD.03X.05)
+Added Component: Designator=39(PAD.03X.05)
+Added Pin To Net: NetName=SYNC Pin=33-P$1
+Added Pin To Net: NetName=MS Pin=39-P$1
+Added Pin To Net: NetName=MS Pin=EP4CE6-60
+Added Pin To Net: NetName=SYNC Pin=EP4CE6-61
+Added Pin To Net: NetName=IO_38 Pin=38-P$1
+Added Pin To Net: NetName=IO_38 Pin=EP4CE6-59
+Added Net: Name=IO_38
+Added Member To Class: ClassName=Headers_Controller Member=Component 33 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component 39 TEST-POINT3X5

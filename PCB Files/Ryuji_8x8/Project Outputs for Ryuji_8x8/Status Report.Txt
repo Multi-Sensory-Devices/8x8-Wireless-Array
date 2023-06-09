@@ -1,0 +1,22 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Ryuji_8x8.PrjPcb]
+   Generated File[ArrayBoard.GTO]
+   Generated File[ArrayBoard.GTP]
+   Generated File[ArrayBoard.GTS]
+   Generated File[ArrayBoard.GTL]
+   Generated File[ArrayBoard.G1]
+   Generated File[ArrayBoard.G2]
+   Generated File[ArrayBoard.GBL]
+   Generated File[ArrayBoard.GBS]
+   Generated File[ArrayBoard.GBP]
+   Generated File[ArrayBoard.GBO]
+   Generated File[ArrayBoard.GKO]
+   Generated File[ArrayBoard.EXTREP]
+   Generated File[ArrayBoard.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 14:02:36 On 20/03/2023

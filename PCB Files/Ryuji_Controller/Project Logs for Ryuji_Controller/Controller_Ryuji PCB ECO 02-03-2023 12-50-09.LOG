@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=5V_SEL Old DesignItemId=CONN_03 New DesignItemId=CONN_03LOCK
+Change Component Footprint: Designator=5V_SEL Old Footprint=1X03 New Footprint=1X03_LOCK
+Change Component Comment : Designator=5V_SEL Old Comment= New Comment=Jumper to short the 5V source
+Change Component Library : Designator=5V_SEL Old Library=SparkFun-Connectors.IntLib New Library=InteractLab.SchLib
+Change component parameters: Designator = "5V_SEL" ("5V_SEL"); Footprint = "1X03"; UniqueID = "\ZZBHBPSF" ("\ZZBHBPSF")
+Added Pin To Net: NetName=GND Pin=C1-C

@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=18 Member=41
+Removed Member From Class: ClassName=18 Member=42
+Change Component Designator: OldDesignator=1.10 NewDesignator=46
+Change Component Designator: OldDesignator=1.11 NewDesignator=48
+Change Component Designator: OldDesignator=1.12 NewDesignator=50
+Change Component Designator: OldDesignator=2.10 NewDesignator=45
+Change Component Designator: OldDesignator=2.11 NewDesignator=47
+Change Component Designator: OldDesignator=2.12 NewDesignator=49
+Change Class Name : Old Net Name=1.10_Nets New Net Name=46_Nets
+Change Class Name : Old Net Name=1.11_Nets New Net Name=48_Nets
+Change Class Name : Old Net Name=1.12_Nets New Net Name=50_Nets
+Change Class Name : Old Net Name=2.10_Nets New Net Name=45_Nets
+Change Class Name : Old Net Name=2.11_Nets New Net Name=47_Nets
+Change Class Name : Old Net Name=2.12_Nets New Net Name=49_Nets
+Added Member To Class: ClassName=18 Member=Component 29 (2) EMIT
+Added Member To Class: ClassName=18 Member=Component 30 (1) EMIT

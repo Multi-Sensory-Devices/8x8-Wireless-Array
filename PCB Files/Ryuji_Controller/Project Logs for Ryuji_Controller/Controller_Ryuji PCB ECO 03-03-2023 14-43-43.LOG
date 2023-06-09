@@ -1,0 +1,6 @@
+Added Component: Designator=3V3(PAD.03X.05)
+Added Component: Designator=D2(PAD.03X.05)
+Added Pin To Net: NetName=3.3V Pin=3V3-P$1
+Added Pin To Net: NetName=D2 Pin=D2-P$1
+Added Member To Class: ClassName=Headers_Controller Member=Component 3V3 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component D2 TEST-POINT3X5

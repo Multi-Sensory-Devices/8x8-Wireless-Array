@@ -1,0 +1,7 @@
+Added Component: Designator=MS?(Feather BLE nRF52480)
+Add component (AddParameter): Name = "DeviceName"; Value = "_NODIM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "FEATHERWING"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "microbuilder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "MICROSHIELD"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Headers_Controller Member=Component MS? Adafruit Feather nRF52480

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=sigB7 Pin=EP4CE6-37
+Removed Pin From Net: NetName=sigA8 Pin=EP4CE6-38
+Removed Pin From Net: NetName=sigA7 Pin=EP4CE6-39
+Removed Pin From Net: NetName=sigB8 Pin=EP4CE6-40
+Removed Pin From Net: NetName=sigB3 Pin=EP4CE6-41
+Removed Pin From Net: NetName=sigA4 Pin=EP4CE6-42
+Removed Pin From Net: NetName=sigA3 Pin=EP4CE6-43
+Removed Pin From Net: NetName=sigB4 Pin=EP4CE6-44
+Added Pin To Net: NetName=sigA8 Pin=EP4CE6-37
+Added Pin To Net: NetName=sigB7 Pin=EP4CE6-38
+Added Pin To Net: NetName=sigB8 Pin=EP4CE6-39
+Added Pin To Net: NetName=sigA7 Pin=EP4CE6-40
+Added Pin To Net: NetName=sigA4 Pin=EP4CE6-41
+Added Pin To Net: NetName=sigB3 Pin=EP4CE6-42
+Added Pin To Net: NetName=sigB4 Pin=EP4CE6-43
+Added Pin To Net: NetName=sigA3 Pin=EP4CE6-44

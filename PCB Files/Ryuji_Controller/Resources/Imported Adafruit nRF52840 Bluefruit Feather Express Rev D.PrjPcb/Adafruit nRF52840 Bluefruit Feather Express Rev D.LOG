@@ -1,0 +1,170 @@
+Importer Log Report
+Project : Adafruit nRF52840 Bluefruit Feather Express Rev D.PrjPcb
+
+Section : Analyze Document - C:\Users\benka\Dropbox\DeskPCB\Ryuji_Controller\Resources\Adafruit nRF52840 Bluefruit Feather Express Rev D.brd
+    Analyzing data of C:\Users\benka\Dropbox\DeskPCB\Ryuji_Controller\Resources\Adafruit nRF52840 Bluefruit Feather Express Rev D.brd
+    Load settings
+    Load layers 152
+    Load board
+    Load Library "microbuilder"
+    Load Packages 18
+    Load Library "adafruit2"
+    Load Packages 1
+    Load Library "testpad"
+    Load Packages 2
+    ERROR: Unhandled typepackages3d
+    Load Library "feather_silks"
+    Load Packages 2
+    ERROR: Unhandled typemfgpreviewcolors
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - C:\Users\benka\Dropbox\DeskPCB\Ryuji_Controller\Resources\Adafruit nRF52840 Bluefruit Feather Express Rev D.sch
+    Analyzing data of C:\Users\benka\Dropbox\DeskPCB\Ryuji_Controller\Resources\Adafruit nRF52840 Bluefruit Feather Express Rev D.sch
+    Load settings
+    Load layers 152
+    Load schematic
+    Load Libraries 3
+    Load Library "microbuilder"
+    Load Packages 87
+    Load Symbols 24
+    Load DeviceSets 23
+    Load Library "adafruit2"
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "testpad"
+    Load Packages 38
+    ERROR: Unhandled typepackages3d
+    Load Symbols 1
+    Load DeviceSets 1
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    Load Attributes 4
+    Load Classes 2
+    Load Parts 91
+    Load Sheets 1
+    ERROR: Unhandled type <errors>
+EndSection
+
+Section : Analyze Document - C:\Users\benka\Dropbox\DeskPCB\Ryuji_Controller\Resources\Adafruit nRF52840 Bluefruit Feather Express Rev D.brd
+    Analyzing data of C:\Users\benka\Dropbox\DeskPCB\Ryuji_Controller\Resources\Adafruit nRF52840 Bluefruit Feather Express Rev D.brd
+    Load settings
+    Load layers 152
+    Load board
+    Load Library "microbuilder"
+    Load Packages 18
+    Load Library "adafruit2"
+    Load Packages 1
+    Load Library "testpad"
+    Load Packages 2
+    ERROR: Unhandled typepackages3d
+    Load Library "feather_silks"
+    Load Packages 2
+    ERROR: Unhandled typemfgpreviewcolors
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - C:\Users\benka\Dropbox\DeskPCB\Ryuji_Controller\Resources\Adafruit nRF52840 Bluefruit Feather Express Rev D.sch
+    Analyzing data of C:\Users\benka\Dropbox\DeskPCB\Ryuji_Controller\Resources\Adafruit nRF52840 Bluefruit Feather Express Rev D.sch
+    Load settings
+    Load layers 152
+    Load schematic
+    Load Libraries 3
+    Load Library "microbuilder"
+    Load Packages 87
+    Load Symbols 24
+    Load DeviceSets 23
+    Load Library "adafruit2"
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "testpad"
+    Load Packages 38
+    ERROR: Unhandled typepackages3d
+    Load Symbols 1
+    Load DeviceSets 1
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    ERROR: Unhandled typepackage3dinstances
+    Load Attributes 4
+    Load Classes 2
+    Load Parts 91
+    Load Sheets 1
+    ERROR: Unhandled type <errors>
+EndSection
+
+Section : Import Document - C:\Users\benka\Dropbox\DeskPCB\Ryuji_Controller\Resources\Adafruit nRF52840 Bluefruit Feather Express Rev D.sch
+    ERROR: Incorrect configuration of multipart component R12
+EndSection

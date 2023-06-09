@@ -1,0 +1,162 @@
+Removed Pin From Net: NetName=sigA1 Pin=Header1-5
+Removed Pin From Net: NetName=sigB1 Pin=Header1-6
+Removed Pin From Net: NetName=sigA2 Pin=Header1-7
+Removed Pin From Net: NetName=sigB2 Pin=Header1-8
+Removed Pin From Net: NetName=sigA3 Pin=Header1-9
+Removed Pin From Net: NetName=sigB3 Pin=Header1-10
+Removed Pin From Net: NetName=sigA4 Pin=Header1-11
+Removed Pin From Net: NetName=sigB4 Pin=Header1-12
+Removed Pin From Net: NetName=sigA5 Pin=Header1-13
+Removed Pin From Net: NetName=sigB5 Pin=Header1-14
+Removed Pin From Net: NetName=sigA6 Pin=Header1-15
+Removed Pin From Net: NetName=sigB6 Pin=Header1-16
+Removed Pin From Net: NetName=sigA7 Pin=Header1-17
+Removed Pin From Net: NetName=sigB7 Pin=Header1-18
+Removed Pin From Net: NetName=sigA8 Pin=Header1-19
+Removed Pin From Net: NetName=sigB8 Pin=Header1-20
+Removed Pin From Net: NetName=sigA9 Pin=Header1-21
+Removed Pin From Net: NetName=sigB9 Pin=Header1-22
+Removed Pin From Net: NetName=sigA10 Pin=Header1-23
+Removed Pin From Net: NetName=sigB10 Pin=Header1-24
+Removed Pin From Net: NetName=sigA11 Pin=Header1-25
+Removed Pin From Net: NetName=sigB11 Pin=Header1-26
+Removed Pin From Net: NetName=sigA12 Pin=Header1-27
+Removed Pin From Net: NetName=sigB12 Pin=Header1-28
+Removed Pin From Net: NetName=sigA13 Pin=Header1-29
+Removed Pin From Net: NetName=sigB13 Pin=Header1-30
+Removed Pin From Net: NetName=sigA14 Pin=Header1-31
+Removed Pin From Net: NetName=sigB14 Pin=Header1-32
+Removed Pin From Net: NetName=sigA15 Pin=Header1-33
+Removed Pin From Net: NetName=sigB15 Pin=Header1-34
+Removed Pin From Net: NetName=sigA16 Pin=Header1-35
+Removed Pin From Net: NetName=sigB16 Pin=Header1-36
+Removed Pin From Net: NetName=sigA17 Pin=Header4-5
+Removed Pin From Net: NetName=sigB17 Pin=Header4-6
+Removed Pin From Net: NetName=sigA18 Pin=Header4-7
+Removed Pin From Net: NetName=sigB18 Pin=Header4-8
+Removed Pin From Net: NetName=sigA19 Pin=Header4-9
+Removed Pin From Net: NetName=sigB19 Pin=Header4-10
+Removed Pin From Net: NetName=sigA20 Pin=Header4-11
+Removed Pin From Net: NetName=sigB20 Pin=Header4-12
+Removed Pin From Net: NetName=sigA21 Pin=Header4-13
+Removed Pin From Net: NetName=sigB21 Pin=Header4-14
+Removed Pin From Net: NetName=sigA22 Pin=Header4-15
+Removed Pin From Net: NetName=sigB22 Pin=Header4-16
+Removed Pin From Net: NetName=sigA23 Pin=Header4-17
+Removed Pin From Net: NetName=sigB23 Pin=Header4-18
+Removed Pin From Net: NetName=sigA24 Pin=Header4-19
+Removed Pin From Net: NetName=sigB24 Pin=Header4-20
+Removed Pin From Net: NetName=sigA25 Pin=Header4-21
+Removed Pin From Net: NetName=sigB25 Pin=Header4-22
+Removed Pin From Net: NetName=sigA26 Pin=Header4-23
+Removed Pin From Net: NetName=sigB26 Pin=Header4-24
+Removed Pin From Net: NetName=sigA27 Pin=Header4-25
+Removed Pin From Net: NetName=sigB27 Pin=Header4-26
+Removed Pin From Net: NetName=sigA28 Pin=Header4-27
+Removed Pin From Net: NetName=sigB28 Pin=Header4-28
+Removed Pin From Net: NetName=sigA29 Pin=Header4-29
+Removed Pin From Net: NetName=sigB29 Pin=Header4-30
+Removed Pin From Net: NetName=sigA30 Pin=Header4-31
+Removed Pin From Net: NetName=sigB30 Pin=Header4-32
+Removed Pin From Net: NetName=sigA31 Pin=Header4-33
+Removed Pin From Net: NetName=sigB31 Pin=Header4-34
+Removed Pin From Net: NetName=sigA32 Pin=Header4-35
+Removed Pin From Net: NetName=sigB32 Pin=Header4-36
+Removed Member From Class: ClassName=Header1_Nets Member=sigA3
+Removed Member From Class: ClassName=Header1_Nets Member=sigA4
+Removed Member From Class: ClassName=Header1_Nets Member=sigA7
+Removed Member From Class: ClassName=Header1_Nets Member=sigA8
+Removed Member From Class: ClassName=Header1_Nets Member=sigA11
+Removed Member From Class: ClassName=Header1_Nets Member=sigA12
+Removed Member From Class: ClassName=Header1_Nets Member=sigA15
+Removed Member From Class: ClassName=Header1_Nets Member=sigA16
+Removed Member From Class: ClassName=Header4_Nets Member=sigA17
+Removed Member From Class: ClassName=Header4_Nets Member=sigA18
+Removed Member From Class: ClassName=Header4_Nets Member=sigA19
+Removed Member From Class: ClassName=Header4_Nets Member=sigA20
+Removed Member From Class: ClassName=Header4_Nets Member=sigA21
+Removed Member From Class: ClassName=Header4_Nets Member=sigA22
+Removed Member From Class: ClassName=Header4_Nets Member=sigA23
+Removed Member From Class: ClassName=Header4_Nets Member=sigA24
+Removed Member From Class: ClassName=Header4_Nets Member=sigA25
+Removed Member From Class: ClassName=Header4_Nets Member=sigA26
+Removed Member From Class: ClassName=Header4_Nets Member=sigA27
+Removed Member From Class: ClassName=Header4_Nets Member=sigA28
+Removed Member From Class: ClassName=Header4_Nets Member=sigA29
+Removed Member From Class: ClassName=Header4_Nets Member=sigA30
+Removed Member From Class: ClassName=Header4_Nets Member=sigA31
+Removed Member From Class: ClassName=Header4_Nets Member=sigA32
+Removed Member From Class: ClassName=Header1_Nets Member=sigB3
+Removed Member From Class: ClassName=Header1_Nets Member=sigB4
+Removed Member From Class: ClassName=Header1_Nets Member=sigB7
+Removed Member From Class: ClassName=Header1_Nets Member=sigB8
+Removed Member From Class: ClassName=Header1_Nets Member=sigB11
+Removed Member From Class: ClassName=Header1_Nets Member=sigB12
+Removed Member From Class: ClassName=Header1_Nets Member=sigB15
+Removed Member From Class: ClassName=Header1_Nets Member=sigB16
+Removed Member From Class: ClassName=Header4_Nets Member=sigB17
+Removed Member From Class: ClassName=Header4_Nets Member=sigB18
+Removed Member From Class: ClassName=Header4_Nets Member=sigB19
+Removed Member From Class: ClassName=Header4_Nets Member=sigB20
+Removed Member From Class: ClassName=Header4_Nets Member=sigB21
+Removed Member From Class: ClassName=Header4_Nets Member=sigB22
+Removed Member From Class: ClassName=Header4_Nets Member=sigB23
+Removed Member From Class: ClassName=Header4_Nets Member=sigB24
+Removed Member From Class: ClassName=Header4_Nets Member=sigB25
+Removed Member From Class: ClassName=Header4_Nets Member=sigB26
+Removed Member From Class: ClassName=Header4_Nets Member=sigB27
+Removed Member From Class: ClassName=Header4_Nets Member=sigB28
+Removed Member From Class: ClassName=Header4_Nets Member=sigB29
+Removed Member From Class: ClassName=Header4_Nets Member=sigB30
+Removed Member From Class: ClassName=Header4_Nets Member=sigB31
+Removed Member From Class: ClassName=Header4_Nets Member=sigB32
+Change Component Designator: OldDesignator=Header4 NewDesignator=Header2
+Added Pin To Net: NetName=sigB29 Pin=Header1-5
+Added Pin To Net: NetName=sigA30 Pin=Header1-6
+Added Pin To Net: NetName=sigA29 Pin=Header1-7
+Added Pin To Net: NetName=sigB30 Pin=Header1-8
+Added Pin To Net: NetName=sigB25 Pin=Header1-9
+Added Pin To Net: NetName=sigA26 Pin=Header1-10
+Added Pin To Net: NetName=sigA25 Pin=Header1-11
+Added Pin To Net: NetName=sigB26 Pin=Header1-12
+Added Pin To Net: NetName=sigB21 Pin=Header1-13
+Added Pin To Net: NetName=sigA22 Pin=Header1-14
+Added Pin To Net: NetName=sigA21 Pin=Header1-15
+Added Pin To Net: NetName=sigB22 Pin=Header1-16
+Added Pin To Net: NetName=sigB17 Pin=Header1-17
+Added Pin To Net: NetName=sigA18 Pin=Header1-18
+Added Pin To Net: NetName=sigA17 Pin=Header1-19
+Added Pin To Net: NetName=sigB18 Pin=Header1-20
+Added Pin To Net: NetName=sigB13 Pin=Header1-21
+Added Pin To Net: NetName=sigA14 Pin=Header1-22
+Added Pin To Net: NetName=sigA13 Pin=Header1-23
+Added Pin To Net: NetName=sigB14 Pin=Header1-24
+Added Pin To Net: NetName=sigB9 Pin=Header1-25
+Added Pin To Net: NetName=sigA10 Pin=Header1-26
+Added Pin To Net: NetName=sigA9 Pin=Header1-27
+Added Pin To Net: NetName=sigB10 Pin=Header1-28
+Added Pin To Net: NetName=sigB5 Pin=Header1-29
+Added Pin To Net: NetName=sigA6 Pin=Header1-30
+Added Pin To Net: NetName=sigA5 Pin=Header1-31
+Added Pin To Net: NetName=sigB6 Pin=Header1-32
+Added Pin To Net: NetName=sigB1 Pin=Header1-33
+Added Pin To Net: NetName=sigA2 Pin=Header1-34
+Added Pin To Net: NetName=sigA1 Pin=Header1-35
+Added Pin To Net: NetName=sigB2 Pin=Header1-36
+Change Class Name : Old Net Name=Header4_Nets New Net Name=Header2_Nets
+Added Member To Class: ClassName=Header1_Nets Member=Element[16]: sigA
+Added Member To Class: ClassName=Header1_Nets Member=Element[17]: sigA
+Added Member To Class: ClassName=Header1_Nets Member=Element[20]: sigA
+Added Member To Class: ClassName=Header1_Nets Member=Element[21]: sigA
+Added Member To Class: ClassName=Header1_Nets Member=Element[24]: sigA
+Added Member To Class: ClassName=Header1_Nets Member=Element[25]: sigA
+Added Member To Class: ClassName=Header1_Nets Member=Element[28]: sigA
+Added Member To Class: ClassName=Header1_Nets Member=Element[29]: sigA
+Added Member To Class: ClassName=Header1_Nets Member=Element[16]: sigB
+Added Member To Class: ClassName=Header1_Nets Member=Element[17]: sigB
+Added Member To Class: ClassName=Header1_Nets Member=Element[20]: sigB
+Added Member To Class: ClassName=Header1_Nets Member=Element[21]: sigB
+Added Member To Class: ClassName=Header1_Nets Member=Element[24]: sigB
+Added Member To Class: ClassName=Header1_Nets Member=Element[25]: sigB
+Added Member To Class: ClassName=Header1_Nets Member=Element[28]: sigB
+Added Member To Class: ClassName=Header1_Nets Member=Element[29]: sigB

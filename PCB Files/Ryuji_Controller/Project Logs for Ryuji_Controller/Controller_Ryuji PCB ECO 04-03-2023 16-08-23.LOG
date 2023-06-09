@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=SYNC Pin=Daisy Chain-1
+Removed Pin From Net: NetName=Passthrough'd_Sync Pin=Daisy Chain-2
+Removed Pin From Net: NetName=MS Pin=MS-1
+Removed Pin From Net: NetName=GND Pin=MS-2
+Change Component DesignItemId : Designator=Daisy Chain Old DesignItemId=Header 2 New DesignItemId=TSW-102-09-G-S-RA
+Change Component DesignItemId : Designator=MS Old DesignItemId=Header 2 New DesignItemId=TSW-102-09-G-S-RA
+Change Component Footprint: Designator=Daisy Chain Old Footprint=1X02_LOCK_ New Footprint=SAMTEC_TSW-102-09-G-S-RA
+Change Component Footprint: Designator=MS Old Footprint=1X02_LOCK_ New Footprint=SAMTEC_TSW-102-09-G-S-RA
+Change Component Comment : Designator=MS Old Comment=Short this to emit a clock signal from SYNC, else make SYNC an input New Comment=TSW-102-09-G-S-RA
+Change Component Comment : Designator=Daisy Chain Old Comment=Short to Daisy Chain Sync New Comment=TSW-102-09-G-S-RA
+Change Component Description : Designator=Daisy Chain Old Description=Header, 2-Pin New Description=
+Change Component Description : Designator=MS Old Description=Header, 2-Pin New Description=
+Change Component Library : Designator=Daisy Chain Old Library=Miscellaneous Connectors.IntLib New Library=SnapEDA_Library.IntLib
+Change Component Library : Designator=MS Old Library=Miscellaneous Connectors.IntLib New Library=SnapEDA_Library.IntLib
+Change component parameters: Designator = "Daisy Chain" ("Daisy Chain"); Footprint = "1X02_LOCK_"; UniqueID = "\WEJKKUVX" ("\WEJKKUVX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samtec Inc.'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TSW-102-09-G-S-RA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "MS" ("MS"); Footprint = "1X02_LOCK_"; UniqueID = "\VGOOPSLB" ("\VGOOPSLB")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samtec Inc.'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "TSW-102-09-G-S-RA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(SAMTEC_TSW-102-09-G-S-RA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samtec Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-102-09-G-S-RA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SYNC Pin=Daisy Chain-01
+Added Pin To Net: NetName=Passthrough'd_Sync Pin=Daisy Chain-02
+Added Pin To Net: NetName=MS Pin=MS-01
+Added Pin To Net: NetName=GND Pin=MS-02
+Added Member To Class: ClassName=Headers_Controller Member=Component J? TSW-102-09-G-S-RA

@@ -1,0 +1,56 @@
+Change Component Footprint: Designator=J1 Old Footprint=SAMTEC_SSW-110-22-G-D-VS New Footprint=B27C SMT2x10
+Change Component Footprint: Designator=J2 Old Footprint=SAMTEC_SSW-110-22-G-D-VS New Footprint=B27C SMT2x10
+Change Component Footprint: Designator=J3 Old Footprint=SAMTEC_SSW-110-22-G-D-VS New Footprint=B27C SMT2x10
+Change Component Footprint: Designator=J4 Old Footprint=SAMTEC_SSW-110-22-G-D-VS New Footprint=B27C SMT2x10
+Added Pin To Net: NetName=GND Pin=J1-01
+Added Pin To Net: NetName=sigB29 Pin=J1-03
+Added Pin To Net: NetName=sigA29 Pin=J1-05
+Added Pin To Net: NetName=sigB25 Pin=J1-07
+Added Pin To Net: NetName=sigA25 Pin=J1-09
+Added Pin To Net: NetName=GND Pin=J2-01
+Added Pin To Net: NetName=sigB13 Pin=J2-03
+Added Pin To Net: NetName=sigA13 Pin=J2-05
+Added Pin To Net: NetName=sigB9 Pin=J2-07
+Added Pin To Net: NetName=sigA9 Pin=J2-09
+Added Pin To Net: NetName=GND Pin=J3-01
+Added Pin To Net: NetName=sigB31 Pin=J3-03
+Added Pin To Net: NetName=sigA31 Pin=J3-05
+Added Pin To Net: NetName=sigB27 Pin=J3-07
+Added Pin To Net: NetName=sigA27 Pin=J3-09
+Added Pin To Net: NetName=GND Pin=J4-01
+Added Pin To Net: NetName=sigB15 Pin=J4-03
+Added Pin To Net: NetName=sigA15 Pin=J4-05
+Added Pin To Net: NetName=sigB11 Pin=J4-07
+Added Pin To Net: NetName=sigA11 Pin=J4-09
+Added Room: Name=1
+Added Room: Name=2
+Added Room: Name=3
+Added Room: Name=4
+Added Room: Name=5
+Added Room: Name=6
+Added Room: Name=7
+Added Room: Name=8
+Added Room: Name=9
+Added Room: Name=10
+Added Room: Name=11
+Added Room: Name=12
+Added Room: Name=13
+Added Room: Name=14
+Added Room: Name=15
+Added Room: Name=16
+Added Room: Name=17
+Added Room: Name=18
+Added Room: Name=19
+Added Room: Name=20
+Added Room: Name=21
+Added Room: Name=22
+Added Room: Name=23
+Added Room: Name=24
+Added Room: Name=25
+Added Room: Name=26
+Added Room: Name=27
+Added Room: Name=28
+Added Room: Name=29
+Added Room: Name=30
+Added Room: Name=31
+Added Room: Name=32

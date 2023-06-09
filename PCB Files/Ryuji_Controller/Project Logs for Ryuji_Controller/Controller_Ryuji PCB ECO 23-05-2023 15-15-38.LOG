@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VDD Pin=VDD_Jumper-01
+Removed Pin From Net: NetName=5V Pin=VDD_Jumper-02
+Removed Member From Class: ClassName=Headers_Controller Member=VDD_Jumper

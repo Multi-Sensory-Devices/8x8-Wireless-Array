@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=Daisy Chain NewDesignator=Daisy
+Change Pin Designator/Name:  Old Designator=EP4CE6-59 Old Name=59 New Designator =60 New Name=60
+Change Pin Designator/Name:  Old Designator=EP4CE6-60 Old Name=60 New Designator =61 New Name=61
+Change Pin Designator/Name:  Old Designator=EP4CE6-61 Old Name=61 New Designator =59 New Name=59

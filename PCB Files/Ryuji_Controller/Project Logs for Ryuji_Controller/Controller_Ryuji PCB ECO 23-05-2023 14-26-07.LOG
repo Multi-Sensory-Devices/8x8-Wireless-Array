@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=5V Pin=5V_SEL-2
+Removed Pin From Net: NetName=PD_VIN Pin=5V_SEL-3
+Removed Member From Class: ClassName=Headers_Controller Member=5V_SEL
+Added Pin To Net: NetName=5V Pin=5VREG-OUT
+Added Pin To Net: NetName=5V Pin=C1-A
+Change Net Name : Old Net Name=5V New Net Name=EXT_5V

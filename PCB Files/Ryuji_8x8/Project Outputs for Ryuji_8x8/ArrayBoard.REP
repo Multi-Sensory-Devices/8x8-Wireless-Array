@@ -1,0 +1,191 @@
+*************************************************************
+FileName = ArrayBoard.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Copper
+      File : ArrayBoard.GTL
+
+    Adding Layer      : Top Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D18
+    D19
+    D20
+    D21
+    D28
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : VS
+      File : ArrayBoard.G2
+
+    Adding Layer      : VS
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Copper
+      File : ArrayBoard.GBL
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D30
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ArrayBoard.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D31
+    D37
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : ArrayBoard.G1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D33
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ArrayBoard.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ArrayBoard.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Top Mask
+      File : ArrayBoard.GTS
+
+    Adding Layer      : Top Mask
+
+    Adding Layer      : Top Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Bottom Mask
+      File : ArrayBoard.GBS
+
+    Adding Layer      : Bottom Mask
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ArrayBoard.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ArrayBoard.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+

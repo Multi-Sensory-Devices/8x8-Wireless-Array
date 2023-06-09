@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=TXD Pin=T6-P$1
+Removed Pin From Net: NetName=RXD Pin=T9-P$1
+Removed Pin From Net: NetName=D5 Pin=T12-P$1
+Removed Pin From Net: NetName=MISO Pin=T13-P$1
+Removed Pin From Net: NetName=D6 Pin=T16-P$1
+Removed Pin From Net: NetName=MOSI Pin=T17-P$1
+Removed Pin From Net: NetName=D9 Pin=T20-P$1
+Removed Pin From Net: NetName=SCK Pin=T21-P$1
+Removed Pin From Net: NetName=D10 Pin=T24-P$1
+Removed Pin From Net: NetName=D11 Pin=T26-P$1
+Removed Pin From Net: NetName=D12 Pin=T27-P$1
+Removed Pin From Net: NetName=SCL Pin=T53-P$1
+Removed Pin From Net: NetName=SDA Pin=T56-P$1
+Change Component Designator: OldDesignator=T6 NewDesignator=D9
+Change Component Designator: OldDesignator=T9 NewDesignator=SCK
+Change Component Designator: OldDesignator=T12 NewDesignator=SCL
+Change Component Designator: OldDesignator=T13 NewDesignator=SDA
+Added Component: Designator=D5(PAD.03X.05)
+Added Component: Designator=D6(PAD.03X.05)
+Added Component: Designator=D10(PAD.03X.05)
+Added Component: Designator=D11(PAD.03X.05)
+Added Component: Designator=D12(PAD.03X.05)
+Added Component: Designator=MISO(PAD.03X.05)
+Added Component: Designator=MOSI(PAD.03X.05)
+Added Component: Designator=RX(PAD.03X.05)
+Added Component: Designator=TX(PAD.03X.05)
+Added Pin To Net: NetName=D5 Pin=D5-P$1
+Added Pin To Net: NetName=D6 Pin=D6-P$1
+Added Pin To Net: NetName=D9 Pin=D9-P$1
+Added Pin To Net: NetName=D10 Pin=D10-P$1
+Added Pin To Net: NetName=D11 Pin=D11-P$1
+Added Pin To Net: NetName=D12 Pin=D12-P$1
+Added Pin To Net: NetName=MISO Pin=MISO-P$1
+Added Pin To Net: NetName=MOSI Pin=MOSI-P$1
+Added Pin To Net: NetName=RXD Pin=RX-P$1
+Added Pin To Net: NetName=SCK Pin=SCK-P$1
+Added Pin To Net: NetName=SCL Pin=SCL-P$1
+Added Pin To Net: NetName=SDA Pin=SDA-P$1
+Added Pin To Net: NetName=TXD Pin=TX-P$1
+Added Member To Class: ClassName=Headers_Controller Member=Component D5 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component D6 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component D9 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component D10 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component D11 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component D12 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component MISO TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component MOSI TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component RX TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component SCK TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component SCL TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component SDA TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component TX TEST-POINT3X5

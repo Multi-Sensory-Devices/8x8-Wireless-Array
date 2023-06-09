@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VS Pin=VS_Jumper-2
+Removed Member From Class: ClassName=Headers_Controller Member=VS_Jumper
+Added Pin To Net: NetName=VS Pin=PD SINK-14
+Added Pin To Net: NetName=VS Pin=PD SINK-14

@@ -1,0 +1,64 @@
+Added Pin To Net: NetName=sigB31 Pin=Header2-5
+Added Pin To Net: NetName=sigA32 Pin=Header2-6
+Added Pin To Net: NetName=sigA31 Pin=Header2-7
+Added Pin To Net: NetName=sigB32 Pin=Header2-8
+Added Pin To Net: NetName=sigB27 Pin=Header2-9
+Added Pin To Net: NetName=sigA28 Pin=Header2-10
+Added Pin To Net: NetName=sigA27 Pin=Header2-11
+Added Pin To Net: NetName=sigB28 Pin=Header2-12
+Added Pin To Net: NetName=sigB23 Pin=Header2-13
+Added Pin To Net: NetName=sigA24 Pin=Header2-14
+Added Pin To Net: NetName=sigA23 Pin=Header2-15
+Added Pin To Net: NetName=sigB24 Pin=Header2-16
+Added Pin To Net: NetName=sigB19 Pin=Header2-17
+Added Pin To Net: NetName=sigA20 Pin=Header2-18
+Added Pin To Net: NetName=sigA19 Pin=Header2-19
+Added Pin To Net: NetName=sigB20 Pin=Header2-20
+Added Pin To Net: NetName=sigB15 Pin=Header2-21
+Added Pin To Net: NetName=sigA16 Pin=Header2-22
+Added Pin To Net: NetName=sigA15 Pin=Header2-23
+Added Pin To Net: NetName=sigB16 Pin=Header2-24
+Added Pin To Net: NetName=sigB11 Pin=Header2-25
+Added Pin To Net: NetName=sigA12 Pin=Header2-26
+Added Pin To Net: NetName=sigA11 Pin=Header2-27
+Added Pin To Net: NetName=sigB12 Pin=Header2-28
+Added Pin To Net: NetName=sigB7 Pin=Header2-29
+Added Pin To Net: NetName=sigA8 Pin=Header2-30
+Added Pin To Net: NetName=sigA7 Pin=Header2-31
+Added Pin To Net: NetName=sigB8 Pin=Header2-32
+Added Pin To Net: NetName=sigB3 Pin=Header2-33
+Added Pin To Net: NetName=sigA4 Pin=Header2-34
+Added Pin To Net: NetName=sigA3 Pin=Header2-35
+Added Pin To Net: NetName=sigB4 Pin=Header2-36
+Added Member To Class: ClassName=Header2_Nets Member=Element[2]: sigA
+Added Member To Class: ClassName=Header2_Nets Member=Element[3]: sigA
+Added Member To Class: ClassName=Header2_Nets Member=Element[6]: sigA
+Added Member To Class: ClassName=Header2_Nets Member=Element[7]: sigA
+Added Member To Class: ClassName=Header2_Nets Member=Element[10]: sigA
+Added Member To Class: ClassName=Header2_Nets Member=Element[11]: sigA
+Added Member To Class: ClassName=Header2_Nets Member=Element[14]: sigA
+Added Member To Class: ClassName=Header2_Nets Member=Element[15]: sigA
+Added Member To Class: ClassName=Header2_Nets Member=Element[18]: sigA
+Added Member To Class: ClassName=Header2_Nets Member=Element[19]: sigA
+Added Member To Class: ClassName=Header2_Nets Member=Element[22]: sigA
+Added Member To Class: ClassName=Header2_Nets Member=Element[23]: sigA
+Added Member To Class: ClassName=Header2_Nets Member=Element[26]: sigA
+Added Member To Class: ClassName=Header2_Nets Member=Element[27]: sigA
+Added Member To Class: ClassName=Header2_Nets Member=Element[30]: sigA
+Added Member To Class: ClassName=Header2_Nets Member=Element[31]: sigA
+Added Member To Class: ClassName=Header2_Nets Member=Element[2]: sigB
+Added Member To Class: ClassName=Header2_Nets Member=Element[3]: sigB
+Added Member To Class: ClassName=Header2_Nets Member=Element[6]: sigB
+Added Member To Class: ClassName=Header2_Nets Member=Element[7]: sigB
+Added Member To Class: ClassName=Header2_Nets Member=Element[10]: sigB
+Added Member To Class: ClassName=Header2_Nets Member=Element[11]: sigB
+Added Member To Class: ClassName=Header2_Nets Member=Element[14]: sigB
+Added Member To Class: ClassName=Header2_Nets Member=Element[15]: sigB
+Added Member To Class: ClassName=Header2_Nets Member=Element[18]: sigB
+Added Member To Class: ClassName=Header2_Nets Member=Element[19]: sigB
+Added Member To Class: ClassName=Header2_Nets Member=Element[22]: sigB
+Added Member To Class: ClassName=Header2_Nets Member=Element[23]: sigB
+Added Member To Class: ClassName=Header2_Nets Member=Element[26]: sigB
+Added Member To Class: ClassName=Header2_Nets Member=Element[27]: sigB
+Added Member To Class: ClassName=Header2_Nets Member=Element[30]: sigB
+Added Member To Class: ClassName=Header2_Nets Member=Element[31]: sigB

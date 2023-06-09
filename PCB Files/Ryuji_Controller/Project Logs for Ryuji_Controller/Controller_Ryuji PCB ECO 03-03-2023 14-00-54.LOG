@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=sigA19 Pin=EP4CE6-76
+Removed Pin From Net: NetName=sigA23 Pin=EP4CE6-80
+Added Pin To Net: NetName=sigA23 Pin=EP4CE6-76
+Added Pin To Net: NetName=sigA19 Pin=EP4CE6-80

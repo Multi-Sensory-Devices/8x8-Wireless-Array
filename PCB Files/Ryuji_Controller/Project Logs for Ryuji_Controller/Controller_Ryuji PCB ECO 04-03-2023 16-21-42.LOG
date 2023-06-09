@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=SYNC Pin=Daisy-02
+Removed Pin From Net: NetName=SYNC Pin=J8-2
+Change Component Designator: OldDesignator=Daisy NewDesignator=Daisy_Sync
+Change Component Designator: OldDesignator=J8 NewDesignator=LINK_A
+Change Component Designator: OldDesignator=J9 NewDesignator=LINK_B
+Added Component: Designator=Daisy_IO(SAMTEC_TSW-102-09-G-S-RA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samtec Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-102-09-G-S-RA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IO_42 Pin=Daisy_IO-02
+Added Pin To Net: NetName=IO_42 Pin=LINK_A-3
+Added Pin To Net: NetName=NetDaisy_IO_01 Pin=Daisy_IO-01
+Added Pin To Net: NetName=NetDaisy_IO_01 Pin=LINK_B-3
+Added Net: Name=NetDaisy_IO_01
+Added Pin To Net: NetName=NetDaisy_Sync_02 Pin=Daisy_Sync-02
+Added Pin To Net: NetName=NetDaisy_Sync_02 Pin=LINK_A-2
+Added Net: Name=NetDaisy_Sync_02
+Added Member To Class: ClassName=Headers_Controller Member=Component Daisy_IO TSW-102-09-G-S-RA

@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Controller_Ryuji.PcbDoc   20/03/2023  14:01:12
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : TOP to BOTTOM
+ASCII RoundHoles File : Controller_Ryuji.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      20mil (0.5mm)                                             Round             9         PTH        10.70inch (271.82mm)
+T2      35mil (0.899mm)                                           Round             88        PTH        15.10inch (383.54mm)
+T3      39mil (1.001mm)                                           Round             113       PTH        16.58inch (421.04mm)
+T4      40mil (1.016mm)                                           Round             60        PTH        13.04inch (331.33mm)
+T5      40mil (1.021mm)                                           Round             6         PTH        3.73inch (94.63mm)
+T6      47mil (1.199mm)                                           Round             2         PTH        0.14inch (3.50mm)
+T7      63mil (1.6mm)                                             Round             4         NPTH       0.98inch (25.00mm)
+T8      94mil (2.4mm)                                             Round             4         NPTH       3.92inch (99.68mm)
+T9      100mil (2.54mm)                                           Round             1         NPTH       0.00inch (0.00mm)
+T10     100mil (2.55mm)                                           Round             1         NPTH       0.00inch (0.00mm)
+T11     130mil (3.302mm)                                          Round             1         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              289
+
+Total Processing Time (hh:mm:ss) : 00:00:00

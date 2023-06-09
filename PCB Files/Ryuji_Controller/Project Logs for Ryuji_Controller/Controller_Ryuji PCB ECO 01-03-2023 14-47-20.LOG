@@ -1,0 +1,232 @@
+Added Component: Designator=J5(EP4CE6 Waveshare FPGA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "7-534206-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-23
+Added Pin To Net: NetName=GND Pin=J5-68
+Added Pin To Net: NetName=GND Pin=MS?-4
+Added Pin To Net: NetName=3.3V Pin=J5-2
+Added Pin To Net: NetName=3.3V Pin=J5-45
+Added Pin To Net: NetName=3.3V Pin=MS?-2
+Added Net: Name=3.3V
+Added Pin To Net: NetName=5V Pin=J5-24
+Added Pin To Net: NetName=5V Pin=J5-67
+Added Net: Name=5V
+Added Pin To Net: NetName=A0 Pin=MS?-5
+Added Net: Name=A0
+Added Pin To Net: NetName=A1 Pin=MS?-6
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=MS?-7
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=MS?-8
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=MS?-9
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=MS?-10
+Added Net: Name=A5
+Added Pin To Net: NetName=AREF Pin=MS?-3
+Added Net: Name=AREF
+Added Pin To Net: NetName=D2 Pin=MS?-16
+Added Net: Name=D2
+Added Pin To Net: NetName=D5 Pin=MS?-19
+Added Net: Name=D5
+Added Pin To Net: NetName=D6 Pin=MS?-20
+Added Net: Name=D6
+Added Pin To Net: NetName=D9 Pin=MS?-21
+Added Net: Name=D9
+Added Pin To Net: NetName=D10 Pin=MS?-22
+Added Net: Name=D10
+Added Pin To Net: NetName=D11 Pin=MS?-23
+Added Net: Name=D11
+Added Pin To Net: NetName=D12 Pin=MS?-24
+Added Net: Name=D12
+Added Pin To Net: NetName=D13 Pin=MS?-25
+Added Net: Name=D13
+Added Pin To Net: NetName=EN Pin=MS?-27
+Added Net: Name=EN
+Added Pin To Net: NetName=IO_1 Pin=J5-73
+Added Net: Name=IO_1
+Added Pin To Net: NetName=IO_2 Pin=J5-74
+Added Net: Name=IO_2
+Added Pin To Net: NetName=IO_3 Pin=J5-71
+Added Net: Name=IO_3
+Added Pin To Net: NetName=IO_7 Pin=J5-72
+Added Net: Name=IO_7
+Added Pin To Net: NetName=IO_10 Pin=J5-69
+Added Net: Name=IO_10
+Added Pin To Net: NetName=IO_11 Pin=J5-70
+Added Net: Name=IO_11
+Added Pin To Net: NetName=IO_28 Pin=J5-65
+Added Net: Name=IO_28
+Added Pin To Net: NetName=IO_30 Pin=J5-66
+Added Net: Name=IO_30
+Added Pin To Net: NetName=IO_31 Pin=J5-63
+Added Net: Name=IO_31
+Added Pin To Net: NetName=IO_32 Pin=J5-64
+Added Net: Name=IO_32
+Added Pin To Net: NetName=IO_33 Pin=J5-61
+Added Net: Name=IO_33
+Added Pin To Net: NetName=IO_34 Pin=J5-62
+Added Net: Name=IO_34
+Added Pin To Net: NetName=IO_38 Pin=J5-59
+Added Net: Name=IO_38
+Added Pin To Net: NetName=IO_39 Pin=J5-60
+Added Net: Name=IO_39
+Added Pin To Net: NetName=IO_42 Pin=J5-57
+Added Net: Name=IO_42
+Added Pin To Net: NetName=IO_43 Pin=J5-58
+Added Net: Name=IO_43
+Added Pin To Net: NetName=IO_44 Pin=J5-55
+Added Net: Name=IO_44
+Added Pin To Net: NetName=IO_46 Pin=J5-56
+Added Net: Name=IO_46
+Added Pin To Net: NetName=IO_49 Pin=J5-53
+Added Net: Name=IO_49
+Added Pin To Net: NetName=IO_50 Pin=J5-54
+Added Net: Name=IO_50
+Added Pin To Net: NetName=IO_51 Pin=J5-51
+Added Net: Name=IO_51
+Added Pin To Net: NetName=IO_52 Pin=J5-52
+Added Net: Name=IO_52
+Added Pin To Net: NetName=IO_53 Pin=J5-49
+Added Net: Name=IO_53
+Added Pin To Net: NetName=IO_54 Pin=J5-50
+Added Net: Name=IO_54
+Added Pin To Net: NetName=IO_55 Pin=J5-47
+Added Net: Name=IO_55
+Added Pin To Net: NetName=IO_58 Pin=J5-48
+Added Net: Name=IO_58
+Added Pin To Net: NetName=IO_59 Pin=J5-3
+Added Net: Name=IO_59
+Added Pin To Net: NetName=IO_60 Pin=J5-4
+Added Net: Name=IO_60
+Added Pin To Net: NetName=IO_64 Pin=J5-5
+Added Net: Name=IO_64
+Added Pin To Net: NetName=IO_65 Pin=J5-6
+Added Net: Name=IO_65
+Added Pin To Net: NetName=IO_66 Pin=J5-7
+Added Net: Name=IO_66
+Added Pin To Net: NetName=IO_67 Pin=J5-8
+Added Net: Name=IO_67
+Added Pin To Net: NetName=IO_68 Pin=J5-9
+Added Net: Name=IO_68
+Added Pin To Net: NetName=IO_69 Pin=J5-10
+Added Net: Name=IO_69
+Added Pin To Net: NetName=IO_70 Pin=J5-11
+Added Net: Name=IO_70
+Added Pin To Net: NetName=IO_71 Pin=J5-12
+Added Net: Name=IO_71
+Added Pin To Net: NetName=IO_72 Pin=J5-13
+Added Net: Name=IO_72
+Added Pin To Net: NetName=IO_73 Pin=J5-14
+Added Net: Name=IO_73
+Added Pin To Net: NetName=IO_74 Pin=J5-15
+Added Net: Name=IO_74
+Added Pin To Net: NetName=IO_75 Pin=J5-16
+Added Net: Name=IO_75
+Added Pin To Net: NetName=IO_76 Pin=J5-17
+Added Net: Name=IO_76
+Added Pin To Net: NetName=IO_77 Pin=J5-18
+Added Net: Name=IO_77
+Added Pin To Net: NetName=IO_80 Pin=J5-19
+Added Net: Name=IO_80
+Added Pin To Net: NetName=IO_83 Pin=J5-20
+Added Net: Name=IO_83
+Added Pin To Net: NetName=IO_84 Pin=J5-21
+Added Net: Name=IO_84
+Added Pin To Net: NetName=IO_85 Pin=J5-22
+Added Net: Name=IO_85
+Added Pin To Net: NetName=IO_86 Pin=J5-25
+Added Net: Name=IO_86
+Added Pin To Net: NetName=IO_87 Pin=J5-26
+Added Net: Name=IO_87
+Added Pin To Net: NetName=IO_98 Pin=J5-27
+Added Net: Name=IO_98
+Added Pin To Net: NetName=IO_99 Pin=J5-28
+Added Net: Name=IO_99
+Added Pin To Net: NetName=IO_100 Pin=J5-29
+Added Net: Name=IO_100
+Added Pin To Net: NetName=IO_101 Pin=J5-30
+Added Net: Name=IO_101
+Added Pin To Net: NetName=IO_103 Pin=J5-31
+Added Net: Name=IO_103
+Added Pin To Net: NetName=IO_104 Pin=J5-32
+Added Net: Name=IO_104
+Added Pin To Net: NetName=IO_105 Pin=J5-33
+Added Net: Name=IO_105
+Added Pin To Net: NetName=IO_106 Pin=J5-34
+Added Net: Name=IO_106
+Added Pin To Net: NetName=IO_110 Pin=J5-35
+Added Net: Name=IO_110
+Added Pin To Net: NetName=IO_111 Pin=J5-36
+Added Net: Name=IO_111
+Added Pin To Net: NetName=IO_112 Pin=J5-37
+Added Net: Name=IO_112
+Added Pin To Net: NetName=IO_113 Pin=J5-38
+Added Net: Name=IO_113
+Added Pin To Net: NetName=IO_114 Pin=J5-39
+Added Net: Name=IO_114
+Added Pin To Net: NetName=IO_115 Pin=J5-40
+Added Net: Name=IO_115
+Added Pin To Net: NetName=IO_119 Pin=J5-41
+Added Net: Name=IO_119
+Added Pin To Net: NetName=IO_120 Pin=J5-42
+Added Net: Name=IO_120
+Added Pin To Net: NetName=IO_121 Pin=J5-43
+Added Net: Name=IO_121
+Added Pin To Net: NetName=IO_124 Pin=J5-44
+Added Net: Name=IO_124
+Added Pin To Net: NetName=IO_126 Pin=J5-87
+Added Net: Name=IO_126
+Added Pin To Net: NetName=IO_127 Pin=J5-88
+Added Net: Name=IO_127
+Added Pin To Net: NetName=IO_128 Pin=J5-85
+Added Net: Name=IO_128
+Added Pin To Net: NetName=IO_129 Pin=J5-86
+Added Net: Name=IO_129
+Added Pin To Net: NetName=IO_132 Pin=J5-83
+Added Net: Name=IO_132
+Added Pin To Net: NetName=IO_133 Pin=J5-84
+Added Net: Name=IO_133
+Added Pin To Net: NetName=IO_135 Pin=J5-81
+Added Net: Name=IO_135
+Added Pin To Net: NetName=IO_136 Pin=J5-82
+Added Net: Name=IO_136
+Added Pin To Net: NetName=IO_137 Pin=J5-79
+Added Net: Name=IO_137
+Added Pin To Net: NetName=IO_138 Pin=J5-80
+Added Net: Name=IO_138
+Added Pin To Net: NetName=IO_141 Pin=J5-77
+Added Net: Name=IO_141
+Added Pin To Net: NetName=IO_142 Pin=J5-78
+Added Net: Name=IO_142
+Added Pin To Net: NetName=IO_143 Pin=J5-75
+Added Net: Name=IO_143
+Added Pin To Net: NetName=IO_144 Pin=J5-76
+Added Net: Name=IO_144
+Added Pin To Net: NetName=MISO Pin=MS?-13
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=MS?-12
+Added Net: Name=MOSI
+Added Pin To Net: NetName=RESET Pin=MS?-1
+Added Net: Name=RESET
+Added Pin To Net: NetName=RXD Pin=MS?-14
+Added Net: Name=RXD
+Added Pin To Net: NetName=SCK Pin=MS?-11
+Added Net: Name=SCK
+Added Pin To Net: NetName=SCL Pin=MS?-18
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=MS?-17
+Added Net: Name=SDA
+Added Pin To Net: NetName=TXD Pin=MS?-15
+Added Net: Name=TXD
+Added Pin To Net: NetName=VBAT Pin=MS?-28
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VBUS Pin=MS?-26
+Added Net: Name=VBUS
+Added Member To Class: ClassName=Headers_Controller Member=Component J5 Waveshare FPGA
+Add Class Member: Failed to add class member : Component J6 Sparkfun STUSB4500

@@ -1,0 +1,499 @@
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<style type="text/css">
+		h1, h2, h3, h4, h5, h6 {
+			font-family : segoe ui;
+			color : black;
+			background-color : #EDE7D9;
+			padding: 0.3em;
+		}
+
+		h1 {
+			font-size: 1.2em;
+		}		
+
+		h2 {
+			font-size: 1.2em;
+		}
+
+		body {
+			font-family : segoe ui;
+		}
+
+		td, th {
+			padding: 0.5em;
+			text-align : left;
+			width: 10em;
+		}
+		th {
+			background-color : #EEEEEE;
+
+		}
+		th.column1, td.column1 {
+			text-align: left;
+			width : auto;
+		}
+		table {
+			width : 100%;
+			font-size: 0.9em;
+		}
+
+		.DRC_summary_header {
+			padding-bottom : 0.1em;
+			border : 0px solid black;
+			width: 100%;
+			align: left;
+		}
+
+		.DRC_summary_header_col1,
+		.DRC_summary_header_col2, 
+		.DRC_summary_header_col3 {
+			color : black;
+			font-size:100%;
+			padding : 0em;
+			padding-top : 0.2em;
+			padding-bottom 0.2em;
+			border : 0px solid black;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.DRC_summary_header_col1 {
+			font-weight: bold;
+			width: 9em;
+		}
+
+		.DRC_summary_header_col2 {
+			width: 0.1em;
+		
+		}
+
+		.DRC_summary_header_col3 {
+			width : auto;
+		}
+
+		.header_holder {
+		    Width = 100%;
+		    border = 0px solid green;
+		    padding = 0;
+		}
+
+
+		.front_matter, .front_matter_column1, .front_matter_column2, .front_matter_column3
+		{
+			left : 0;
+			top : 0;
+			padding: 0em;
+			padding-top : 0.1em;
+			border : 0px solid black;
+			width : 100%;
+			vertical-align: top;
+			text-align: left;
+		}
+
+		.front_matter_column1 {
+			width : 8em;
+			font-weight: bold;
+		}
+
+		.front_matter_column2 {
+			width: 0.1em;
+		}
+
+		.front_matter_column3 {
+			width : auto;
+		}
+
+		.total_column1, .total_column {
+			font-weight : bold;
+		}
+		.total_column1 {
+			text-align : left;
+		}
+		.warning, .error {
+			color : red;
+			font-weight : bold;
+		}
+		tr.onmouseout_odd {
+			background-color : #white;
+		}
+		tr.onmouseout_even { 
+			background-color : #FAFAFA;
+		}
+		tr.onmouseover_odd, tr.onmouseover_even { 
+			background-color : #EEEEEE;
+		} 
+		a:link, a:visited, .q a:link,.q a:active,.q {
+			color: #21489e; 
+		}
+		a:link.callback, a:visited.callback { 
+			color: #21489e;
+		}
+		a:link.customize, a:visited.customize {
+			color: #C0C0C0;
+			position: absolute; 
+			right: 10px;
+		}	
+		p.contents_level1 {
+			font-weight : bold;
+			font-size : 110%;
+			margin : 0.5em;
+		}
+		p.contents_level2 {
+			position : relative;
+			left : 20px;
+			margin : 0.5em;
+		}
+	</style><script type="text/javascript">
+		function coordToMils(coord) {
+			var number = coord / 10000;
+			
+			if (number != number.toFixed(3))
+				number = number.toFixed(3);
+
+			return number + 'mil'
+		}
+
+		function coordToMM(coord) {
+			var number = 0.0254 * coord / 10000;
+			
+			if (number != number.toFixed(4))
+				number = number.toFixed(4);
+			
+			return number + 'mm'
+		}
+	
+		function convertCoord(coordNode, units) {
+			for (var i = 0; i < coordNode.childNodes.length; i++) {
+				coordNode.removeChild(coordNode.childNodes[i]);
+			}
+
+			var coord = coordNode.getAttribute('value');
+			if (coord != null) {
+				if (units == 'mm') {
+					textNode = document.createTextNode(coordToMM(coord));
+					coordNode.appendChild(textNode);
+				} else if (units == 'mil') {
+					textNode = document.createTextNode(coordToMils(coord));		
+					coordNode.appendChild(textNode);	
+				}
+			}
+		}
+	
+		function convertUnits(unitNode, units) {
+			for (var i = 0; i < unitNode.childNodes.length; i++) {
+				unitNode.removeChild(unitNode.childNodes[i]);		
+			}
+		
+			textNode = document.createTextNode(units); 
+			unitNode.appendChild(textNode);
+		}
+	
+		function changeUnits(radio_input, units) {
+			if (radio_input.checked) {
+			
+				var elements = document.getElementsByName('coordinate');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertCoord(elements[i], units);
+					}
+				}
+	
+				var elements = document.getElementsByName('units');
+				if (elements) {
+					for (var i = 0; i < elements.length; i++) {
+						convertUnits(elements[i], units);
+					}
+				}
+			}
+		}
+	</script><title>Design Rule Verification Report</title>
+</head>
+<body onload=""><img ALT="Altium" src="
+			file://C:\Users\Public\Documents\Altium\AD21\Templates\AD_logo.png
+		"><h1>Design Rule Verification Report</h1>
+<table class="header_holder">
+<td class="column1">
+<table class="front_matter">
+<tr class="front_matter">
+<td class="front_matter_column1">Date:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">20/03/2023</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">14:01:24</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Elapsed Time:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3">00:00:02</td>
+</tr>
+<tr class="front_matter">
+<td class="front_matter_column1">Filename:</td>
+<td class="front_matter_column2"></td>
+<td class="front_matter_column3"><a href="file:///C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc" class="file"><acronym title="C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc">C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc</acronym></a></td>
+</tr>
+</table>
+</td>
+<td class="column2">
+<table class="DRC_summary_header">
+<tr>
+<td class="DRC_summary_header_col1">Warnings:</td>
+<td class="DRC_summary_header_col2"></td>
+<td class="DRC_summary_header_col3">0</td></tr>
+<tr>
+<td class="DRC_summary_header_col1">Rule Violations:</td>
+<td class="DRC_summary_header_col2"></td>
+<td class="DRC_summary_header_col3" style="color : red">5</td></tr>
+<tr>
+<td class="DRC_summary_header_col1">Waived Violations:</td>
+<td class="DRC_summary_header_col2"></td>
+<td class="DRC_summary_header_col3" style="color : red">41</td></tr>
+</table>
+</td>
+</table><a name="ID0MNKXX0BWFYHFX0I1QHUTJQE2DWJKYPJBM5YBHHQNOKDY1JFIXIP"><h2>Summary</h2></a><table>
+<tr>
+<th class="column1">Warnings</th>
+<th class="column2">Count</th>
+</tr>
+<tr>
+<td style="font-weight : bold; text-align : right" class="column1">Total</td>
+<td style="font-weight : bold" class="column2">0</td>
+</tr>
+</table><br><table>
+<tr>
+<th class="column1">Rule Violations</th>
+<th class="column2">Count</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDSHW025P0TU0BBSMT5XMYPUO0RGMR1WA2AR1FMQISYCVTRYE1LDHF">Clearance Constraint (Gap=0.2mm) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#ID2HMNCO0XLHZQGUDF3QXMHGTHZDT51VFBCOX1QENPJMKTMFVUUTAM">Short-Circuit Constraint (Allowed=No) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDKQPBVHIODJ4BEQMASWOSTWI0XGLUADRHGTTPDPBPAWHQSNEQWAMH">Un-Routed Net Constraint ( (All) )</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#ID5PGFMMH23ITTC0PYCT41YVPPMH3AR3G3EZEW2EO2CU132C5ZCTPK">Modified Polygon (Allow modified: No), (Allow shelved: No)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDMRE5STMNMHMODJ4XUJZXV0Y3RKN3XPC304RVISKZ54E5DTD0VFHE">Width Constraint (Min=0.09mm) (Max=2.54mm) (Preferred=0.3mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDJT54L4Q3IVL5NWP43CS1JRKDFBXNHN4PETIJ2AF1UYCZQMYEOR4K">Power Plane Connect Rule(Relief Connect )(Expansion=0.5mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDW1MXRLZPKNSPCE4XZ1SPZ1FL2MN3U0P21JTVDNITAMWJKLTUIKHK">Minimum Annular Ring (Minimum=0.2mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDHQNRGT1WISW0KT3BESZPSLCHNOWULZ2V5V3QAOFCIDU2SURCOPCJ">Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDFZPYD33YQLKJFZVAY4KTMKH2HD2JKGPN3DZP5DKSSG4IAUFTZWLM">Hole To Hole Clearance (Gap=0.254mm) (All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDNS4QX4F5YBE0OU4TRFFTDW32AFK21TFZ0ACNBHPA11EEE1TQIL1H">Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)</a></td>
+<td class="column2">2</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDDONDQD3QOLQYONLKNAPTLJAIMIUHPWMQJSHWQEFQBWWOVK5PTLFJ">Silk To Solder Mask (Clearance=0.1mm) (Disabled)(IsPad),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDDGHNLGGQTPJXDEYQMICIHFKTSEM5UH2QZ15HULCPEADNEQPRU3ED">Silk to Silk (Clearance=0.1mm) (Disabled)(All),(All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDEWCMVUGZ5AXMPQAWGYODWSK5IDQDXWQUFDXCSHOFSTFA5HSVVWMM">Net Antennae (Tolerance=0mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#IDXKZ3GG5KXY45G5UFSN2PNQ200J2A5DOTBBOETHHLS43Q305M500P">Board Clearance Constraint (Gap=0mm) (All)</a></td>
+<td class="column2">3</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="#IDK1MZUSEIQN3NFE1AVHVW03G3GBC4KBYPPNIYB1OFHKA5BYURUJTB">Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)</a></td>
+<td class="column2">0</td>
+</tr>
+<tr>
+<td style="font-weight : bold; text-align : right" class="column1">Total</td>
+<td style="font-weight : bold" class="column2">5</td>
+</tr>
+</table><br><table>
+<tr>
+<th class="column1">Waived Violations</th>
+<th class="column2">Count</th>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="#ID5ELQAY0ZSTNMIJTKK3S4DGZ1XBIZDQXSN5120HE50SE2JLTJYIWD">Board Clearance Constraint (Gap=0mm) (All)</a></td>
+<td class="column2">41</td>
+</tr>
+<tr>
+<td style="font-weight : bold; text-align : right" class="column1">Total</td>
+<td style="font-weight : bold" class="column2">41</td>
+</tr>
+</table><br><a name="IDLXAWEG0FTOPHORZLZFSSQMPFBJYI3VBWGD3XUWMBPRJZYXRAMFUE"><h2>Rule Violations</h2></a><a name="IDNS4QX4F5YBE0OU4TRFFTDW32AFK21TFZ0ACNBHPA11EEE1TQIL1H"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="rule">Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2214.368mil|Location2.X=2225.618mil|Location1.Y=3965.058mil|Location2.Y=3978.637mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2214.368mil|Location2.X=2225.618mil|Location1.Y=3965.058mil|Location2.Y=3978.637mil|Absolute=True">Minimum Solder Mask Sliver Constraint: (0.237mm &lt; 0.254mm) Between Pad 10-+(-26.25mm,23.75mm) on Multi-Layer And Pad J1-07(-23.924mm,24.76mm) on Top Copper [Top Mask] Mask Sliver [0.237mm]</acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2214.273mil|Location2.X=2225.523mil|Location1.Y=2312.246mil|Location2.Y=2325.781mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2214.273mil|Location2.X=2225.523mil|Location1.Y=2312.246mil|Location2.Y=2325.781mil|Absolute=True">Minimum Solder Mask Sliver Constraint: (0.243mm &lt; 0.254mm) Between Pad 42-+(-26.25mm,-18.25mm) on Multi-Layer And Pad J2-07(-23.924mm,-17.22mm) on Top Copper [Top Mask] Mask Sliver [0.243mm]</acronym></a><br></td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br><a name="IDXKZ3GG5KXY45G5UFSN2PNQ200J2A5DOTBBOETHHLS43Q305M500P"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="rule">Board Clearance Constraint (Gap=0mm) (All)</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1669.182mil|Location2.X=1675.431mil|Location1.Y=1485.128mil|Location2.Y=1491.377mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1669.182mil|Location2.X=1675.431mil|Location1.Y=1485.128mil|Location2.Y=1491.377mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (-36.75mm,-36.75mm) on Bottom Overlay And Board Edge </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1531.155mil|Location2.X=1537.404mil|Location1.Y=3020.511mil|Location2.Y=3026.76mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1531.155mil|Location2.X=1537.404mil|Location1.Y=3020.511mil|Location2.Y=3026.76mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (-42mm,0mm) on Bottom Overlay And Board Edge </acronym></a><br></td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1531.155mil|Location2.X=1537.404mil|Location1.Y=3020.511mil|Location2.Y=3026.76mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1531.155mil|Location2.X=1537.404mil|Location1.Y=3020.511mil|Location2.Y=3026.76mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (-42mm,0mm) on Top Overlay And Board Edge </acronym></a><br></td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br><a name="IDI0QLKIQULI5MCEOO1BLM5FW1SEQFUDDWSGG2DJMM4BQCS4DVXUBF"><h2>Waived Violations</h2></a><a name="ID5ELQAY0ZSTNMIJTKK3S4DGZ1XBIZDQXSN5120HE50SE2JLTJYIWD"><table>
+<tr>
+<th style="text-align : left" colspan="1" class="waived">Board Clearance Constraint (Gap=0mm) (All)</th>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3824.632mil|Location2.X=3830.881mil|Location1.Y=4675.447mil|Location2.Y=4681.696mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3824.632mil|Location2.X=3830.881mil|Location1.Y=4675.447mil|Location2.Y=4681.696mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (15.75mm,36.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3824.632mil|Location2.X=3830.881mil|Location1.Y=1365.549mil|Location2.Y=1371.798mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3824.632mil|Location2.X=3830.881mil|Location1.Y=1365.549mil|Location2.Y=1371.798mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (15.75mm,-36.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2584.474mil|Location2.X=2590.723mil|Location1.Y=4675.447mil|Location2.Y=4681.696mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2584.474mil|Location2.X=2590.723mil|Location1.Y=4675.447mil|Location2.Y=4681.696mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (-15.75mm,36.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2584.474mil|Location2.X=2590.723mil|Location1.Y=1365.549mil|Location2.Y=1371.798mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2584.474mil|Location2.X=2590.723mil|Location1.Y=1365.549mil|Location2.Y=1371.798mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (-15.75mm,-36.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4238.018mil|Location2.X=4244.267mil|Location1.Y=4675.447mil|Location2.Y=4681.696mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4238.018mil|Location2.X=4244.267mil|Location1.Y=4675.447mil|Location2.Y=4681.696mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (26.25mm,36.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4238.018mil|Location2.X=4244.267mil|Location1.Y=1365.549mil|Location2.Y=1371.798mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4238.018mil|Location2.X=4244.267mil|Location1.Y=1365.549mil|Location2.Y=1371.798mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (26.25mm,-36.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2171.088mil|Location2.X=2177.337mil|Location1.Y=4675.447mil|Location2.Y=4681.696mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2171.088mil|Location2.X=2177.337mil|Location1.Y=4675.447mil|Location2.Y=4681.696mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (-26.25mm,36.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2171.088mil|Location2.X=2177.337mil|Location1.Y=1365.549mil|Location2.Y=1371.798mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2171.088mil|Location2.X=2177.337mil|Location1.Y=1365.549mil|Location2.Y=1371.798mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (-26.25mm,-36.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4859.01mil|Location2.X=4865.259mil|Location1.Y=3640.577mil|Location2.Y=3646.826mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4859.01mil|Location2.X=4865.259mil|Location1.Y=3640.577mil|Location2.Y=3646.826mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (36.75mm,15.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4859.01mil|Location2.X=4865.259mil|Location1.Y=2400.419mil|Location2.Y=2406.668mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4859.01mil|Location2.X=4865.259mil|Location1.Y=2400.419mil|Location2.Y=2406.668mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (36.75mm,-15.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1549.604mil|Location2.X=1555.853mil|Location1.Y=3640.577mil|Location2.Y=3646.826mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1549.604mil|Location2.X=1555.853mil|Location1.Y=3640.577mil|Location2.Y=3646.826mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (-36.75mm,15.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1549.604mil|Location2.X=1555.853mil|Location1.Y=2400.419mil|Location2.Y=2406.668mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1549.604mil|Location2.X=1555.853mil|Location1.Y=2400.419mil|Location2.Y=2406.668mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (-36.75mm,-15.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4859.01mil|Location2.X=4865.259mil|Location1.Y=4053.962mil|Location2.Y=4060.212mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4859.01mil|Location2.X=4865.259mil|Location1.Y=4053.962mil|Location2.Y=4060.212mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (36.75mm,26.25mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4859.01mil|Location2.X=4865.259mil|Location1.Y=1987.033mil|Location2.Y=1993.282mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4859.01mil|Location2.X=4865.259mil|Location1.Y=1987.033mil|Location2.Y=1993.282mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (36.75mm,-26.25mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1549.604mil|Location2.X=1555.853mil|Location1.Y=4053.963mil|Location2.Y=4060.212mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1549.604mil|Location2.X=1555.853mil|Location1.Y=4053.963mil|Location2.Y=4060.212mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (-36.75mm,26.25mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1549.604mil|Location2.X=1555.853mil|Location1.Y=1987.033mil|Location2.Y=1993.282mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1549.604mil|Location2.X=1555.853mil|Location1.Y=1987.033mil|Location2.Y=1993.282mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (-36.75mm,-26.25mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4739.921mil|Location2.X=4746.171mil|Location1.Y=4553.394mil|Location2.Y=4559.644mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4739.921mil|Location2.X=4746.171mil|Location1.Y=4553.394mil|Location2.Y=4559.644mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (36.75mm,36.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4739.924mil|Location2.X=4746.173mil|Location1.Y=1487.601mil|Location2.Y=1493.85mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4739.924mil|Location2.X=4746.173mil|Location1.Y=1487.601mil|Location2.Y=1493.85mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (36.75mm,-36.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1669.185mil|Location2.X=1675.434mil|Location1.Y=4555.867mil|Location2.Y=4562.116mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1669.185mil|Location2.X=1675.434mil|Location1.Y=4555.867mil|Location2.Y=4562.116mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (-36.75mm,36.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4859.01mil|Location2.X=4865.259mil|Location1.Y=3227.191mil|Location2.Y=3233.44mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4859.01mil|Location2.X=4865.259mil|Location1.Y=3227.191mil|Location2.Y=3233.44mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (36.75mm,5.25mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4859.01mil|Location2.X=4865.259mil|Location1.Y=2813.805mil|Location2.Y=2820.054mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4859.01mil|Location2.X=4865.259mil|Location1.Y=2813.805mil|Location2.Y=2820.054mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (36.75mm,-5.25mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1549.604mil|Location2.X=1555.853mil|Location1.Y=3227.191mil|Location2.Y=3233.44mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1549.604mil|Location2.X=1555.853mil|Location1.Y=3227.191mil|Location2.Y=3233.44mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (-36.75mm,5.25mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1549.604mil|Location2.X=1555.853mil|Location1.Y=2813.805mil|Location2.Y=2820.054mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1549.604mil|Location2.X=1555.853mil|Location1.Y=2813.805mil|Location2.Y=2820.054mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (-36.75mm,-5.25mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3411.246mil|Location2.X=3417.495mil|Location1.Y=4675.447mil|Location2.Y=4681.696mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3411.246mil|Location2.X=3417.495mil|Location1.Y=4675.447mil|Location2.Y=4681.696mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (5.25mm,36.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3411.246mil|Location2.X=3417.495mil|Location1.Y=1365.549mil|Location2.Y=1371.798mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3411.246mil|Location2.X=3417.495mil|Location1.Y=1365.549mil|Location2.Y=1371.798mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (5.25mm,-36.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2997.86mil|Location2.X=3004.109mil|Location1.Y=4675.447mil|Location2.Y=4681.696mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2997.86mil|Location2.X=3004.109mil|Location1.Y=4675.447mil|Location2.Y=4681.696mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (-5.25mm,36.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2997.86mil|Location2.X=3004.109mil|Location1.Y=1365.549mil|Location2.Y=1371.798mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2997.86mil|Location2.X=3004.109mil|Location1.Y=1365.549mil|Location2.Y=1371.798mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Arc (-5.25mm,-36.75mm) on Bottom Overlay And Board Edge </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:45:33</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3177.399mil|Location2.X=3183.648mil|Location1.Y=4652.599mil|Location2.Y=4658.848mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3177.399mil|Location2.X=3183.648mil|Location1.Y=4652.599mil|Location2.Y=4658.848mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Board Edge And Text "'.Designator'" (-0.6mm,40.425mm) on Bottom Overlay </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:46:05</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2726.748mil|Location2.X=2735.872mil|Location1.Y=4669.151mil|Location2.Y=4678.275mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2726.748mil|Location2.X=2735.872mil|Location1.Y=4669.151mil|Location2.Y=4678.275mil|Absolute=True">Board Outline Clearance(Outline Edge): (0.175mm &lt; 0.2mm) Between Board Edge And Text "'.Designator'" (-11.1mm,40.425mm) on Bottom Overlay </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:46:05</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4004.663mil|Location2.X=4010.912mil|Location1.Y=4652.883mil|Location2.Y=4659.132mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4004.663mil|Location2.X=4010.912mil|Location1.Y=4652.883mil|Location2.Y=4659.132mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Board Edge And Text "'.Designator'" (20.4mm,40.425mm) on Bottom Overlay </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:46:05</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2350.627mil|Location2.X=2356.876mil|Location1.Y=4652.599mil|Location2.Y=4658.848mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=2350.627mil|Location2.X=2356.876mil|Location1.Y=4652.599mil|Location2.Y=4658.848mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Board Edge And Text "'.Designator'" (-21.6mm,40.425mm) on Bottom Overlay </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:46:05</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4380.291mil|Location2.X=4389.415mil|Location1.Y=4669.151mil|Location2.Y=4678.275mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4380.291mil|Location2.X=4389.415mil|Location1.Y=4669.151mil|Location2.Y=4678.275mil|Absolute=True">Board Outline Clearance(Outline Edge): (0.175mm &lt; 0.2mm) Between Board Edge And Text "'.Designator'" (30.9mm,40.425mm) on Bottom Overlay </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:46:05</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1915.719mil|Location2.X=1924.843mil|Location1.Y=4669.151mil|Location2.Y=4678.275mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=1915.719mil|Location2.X=1924.843mil|Location1.Y=4669.151mil|Location2.Y=4678.275mil|Absolute=True">Board Outline Clearance(Outline Edge): (0.175mm &lt; 0.2mm) Between Board Edge And Text "'.Designator'" (-32.1mm,40.425mm) on Bottom Overlay </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:46:05</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4819.879mil|Location2.X=4826.128mil|Location1.Y=3847.269mil|Location2.Y=3853.518mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4819.879mil|Location2.X=4826.128mil|Location1.Y=3847.269mil|Location2.Y=3853.518mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Board Edge And Text "'.Designator'" (40.875mm,20.4mm) on Bottom Overlay </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:46:05</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4818.403mil|Location2.X=4824.652mil|Location1.Y=3020.497mil|Location2.Y=3026.747mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4818.403mil|Location2.X=4824.652mil|Location1.Y=3020.497mil|Location2.Y=3026.747mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Board Edge And Text "'.Designator'" (40.8mm,-0.625mm) on Bottom Overlay </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:46:05</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4821.847mil|Location2.X=4828.097mil|Location1.Y=2192.742mil|Location2.Y=2198.991mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4821.847mil|Location2.X=4828.097mil|Location1.Y=2192.742mil|Location2.Y=2198.991mil|Absolute=True">Board Outline Clearance(Outline Edge): (Collision &lt; 0.2mm) Between Board Edge And Text "'.Designator'" (40.975mm,-21.65mm) on Bottom Overlay </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:46:05</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4854.691mil|Location2.X=4863.815mil|Location1.Y=2622.391mil|Location2.Y=2631.515mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4854.691mil|Location2.X=4863.815mil|Location1.Y=2622.391mil|Location2.Y=2631.515mil|Absolute=True">Board Outline Clearance(Outline Edge): (0.05mm &lt; 0.2mm) Between Board Edge And Text "'.Designator'" (41.725mm,-11.475mm) on Bottom Overlay </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:46:05</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4854.691mil|Location2.X=4863.815mil|Location1.Y=4212.958mil|Location2.Y=4222.082mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4854.691mil|Location2.X=4863.815mil|Location1.Y=4212.958mil|Location2.Y=4222.082mil|Absolute=True">Board Outline Clearance(Outline Edge): (0.05mm &lt; 0.2mm) Between Board Edge And Text "'.Designator'" (41.725mm,30.525mm) on Bottom Overlay </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:46:05</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4854.691mil|Location2.X=4863.815mil|Location1.Y=1795.62mil|Location2.Y=1804.744mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4854.691mil|Location2.X=4863.815mil|Location1.Y=1795.62mil|Location2.Y=1804.744mil|Absolute=True">Board Outline Clearance(Outline Edge): (0.05mm &lt; 0.2mm) Between Board Edge And Text "'.Designator'" (41.725mm,-32.475mm) on Bottom Overlay </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:46:05</td>
+</tr>
+<tr class="onmouseout_even" onmouseover="className = 'onmouseover_even'" onmouseout="className = 'onmouseout_even'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4854.691mil|Location2.X=4863.815mil|Location1.Y=3386.186mil|Location2.Y=3395.31mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=4854.691mil|Location2.X=4863.815mil|Location1.Y=3386.186mil|Location2.Y=3395.31mil|Absolute=True">Board Outline Clearance(Outline Edge): (0.05mm &lt; 0.2mm) Between Board Edge And Text "'.Designator'" (41.725mm,9.525mm) on Bottom Overlay </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:46:05</td>
+</tr>
+<tr class="onmouseout_odd" onmouseover="className = 'onmouseover_odd'" onmouseout="className = 'onmouseout_odd'">
+<td class="column1"><a href="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3553.519mil|Location2.X=3562.643mil|Location1.Y=4669.151mil|Location2.Y=4678.275mil|Absolute=True" class="callback"><acronym title="dxpprocess://PCB:Zoom?document=C:\Users\benka\Dropbox\Ryuji\Ryuji_8x8\ArrayBoard.PcbDoc;viewname=PCBEditor;Action=AREA_DYNAMICZOOM|Location1.X=3553.519mil|Location2.X=3562.643mil|Location1.Y=4669.151mil|Location2.Y=4678.275mil|Absolute=True">Board Outline Clearance(Outline Edge): (0.175mm &lt; 0.2mm) Between Board Edge And Text "'.Designator'" (9.9mm,40.425mm) on Bottom Overlay </acronym></a><br>Waived by Ben Kazemi at 27/02/2023 13:46:05</td>
+</tr>
+</table></a><hr color="#EEEEEE"><a href="#top" style="font-size: 0.9em">Back to top</a><br><br></body>
+</html>

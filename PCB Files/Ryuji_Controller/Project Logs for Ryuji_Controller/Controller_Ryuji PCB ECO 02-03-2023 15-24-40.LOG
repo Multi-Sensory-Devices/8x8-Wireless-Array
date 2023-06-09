@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=PD_D+ Pin=J7-4
+Removed Pin From Net: NetName=PD_D- Pin=J7-5
+Removed Pin From Net: NetName=PD_VIN Pin=J7-6
+Change Component Footprint: Designator=J7 Old Footprint=1X06_LOCK New Footprint=1X04_LOCK - header
+Change Component Comment : Designator=J7 Old Comment=Pin pullout New Comment=Pulled out pins
+Change component parameters: Designator = "J7" ("J7"); Footprint = "1X06_LOCK"; UniqueID = "\TKJUDLZQ" ("\TKJUDLZQ")
+Change component parameters (AddParameter): Name = "PROD_ID"; Value = "CONN-09696"; VariantName = "[No Variations]"
+Added Component: Designator=T1(PAD.03X.05)
+Added Component: Designator=T2(PAD.03X.05)
+Added Pin To Net: NetName=PD_VIN Pin=J7-4
+Added Pin To Net: NetName=PD_D- Pin=T1-P$1
+Added Pin To Net: NetName=PD_D+ Pin=T2-P$1
+Added Member To Class: ClassName=Headers_Controller Member=Component T1 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T2 TEST-POINT3X5

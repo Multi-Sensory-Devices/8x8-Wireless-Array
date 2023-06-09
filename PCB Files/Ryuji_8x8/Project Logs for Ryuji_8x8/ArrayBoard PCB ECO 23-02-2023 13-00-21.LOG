@@ -1,0 +1,1107 @@
+Added Component: Designator=1_S1(TRANSDUCER)
+Added Component: Designator=1_S2(TRANSDUCER)
+Added Component: Designator=1_S3(TRANSDUCER)
+Added Component: Designator=1_S4(TRANSDUCER)
+Added Component: Designator=1_S5(TRANSDUCER)
+Added Component: Designator=1_S6(TRANSDUCER)
+Added Component: Designator=1_S7(TRANSDUCER)
+Added Component: Designator=1_S8(TRANSDUCER)
+Added Component: Designator=2_S1(TRANSDUCER)
+Added Component: Designator=2_S2(TRANSDUCER)
+Added Component: Designator=2_S3(TRANSDUCER)
+Added Component: Designator=2_S4(TRANSDUCER)
+Added Component: Designator=2_S5(TRANSDUCER)
+Added Component: Designator=2_S6(TRANSDUCER)
+Added Component: Designator=2_S7(TRANSDUCER)
+Added Component: Designator=2_S8(TRANSDUCER)
+Added Component: Designator=3_S1(TRANSDUCER)
+Added Component: Designator=3_S2(TRANSDUCER)
+Added Component: Designator=3_S3(TRANSDUCER)
+Added Component: Designator=3_S4(TRANSDUCER)
+Added Component: Designator=3_S5(TRANSDUCER)
+Added Component: Designator=3_S6(TRANSDUCER)
+Added Component: Designator=3_S7(TRANSDUCER)
+Added Component: Designator=3_S8(TRANSDUCER)
+Added Component: Designator=4_S1(TRANSDUCER)
+Added Component: Designator=4_S2(TRANSDUCER)
+Added Component: Designator=4_S3(TRANSDUCER)
+Added Component: Designator=4_S4(TRANSDUCER)
+Added Component: Designator=4_S5(TRANSDUCER)
+Added Component: Designator=4_S6(TRANSDUCER)
+Added Component: Designator=4_S7(TRANSDUCER)
+Added Component: Designator=4_S8(TRANSDUCER)
+Added Component: Designator=5_S1(TRANSDUCER)
+Added Component: Designator=5_S2(TRANSDUCER)
+Added Component: Designator=5_S3(TRANSDUCER)
+Added Component: Designator=5_S4(TRANSDUCER)
+Added Component: Designator=5_S5(TRANSDUCER)
+Added Component: Designator=5_S6(TRANSDUCER)
+Added Component: Designator=5_S7(TRANSDUCER)
+Added Component: Designator=5_S8(TRANSDUCER)
+Added Component: Designator=6_S1(TRANSDUCER)
+Added Component: Designator=6_S2(TRANSDUCER)
+Added Component: Designator=6_S3(TRANSDUCER)
+Added Component: Designator=6_S4(TRANSDUCER)
+Added Component: Designator=6_S5(TRANSDUCER)
+Added Component: Designator=6_S6(TRANSDUCER)
+Added Component: Designator=6_S7(TRANSDUCER)
+Added Component: Designator=6_S8(TRANSDUCER)
+Added Component: Designator=7_S1(TRANSDUCER)
+Added Component: Designator=7_S2(TRANSDUCER)
+Added Component: Designator=7_S3(TRANSDUCER)
+Added Component: Designator=7_S4(TRANSDUCER)
+Added Component: Designator=7_S5(TRANSDUCER)
+Added Component: Designator=7_S6(TRANSDUCER)
+Added Component: Designator=7_S7(TRANSDUCER)
+Added Component: Designator=7_S8(TRANSDUCER)
+Added Component: Designator=8_S1(TRANSDUCER)
+Added Component: Designator=8_S2(TRANSDUCER)
+Added Component: Designator=8_S3(TRANSDUCER)
+Added Component: Designator=8_S4(TRANSDUCER)
+Added Component: Designator=8_S5(TRANSDUCER)
+Added Component: Designator=8_S6(TRANSDUCER)
+Added Component: Designator=8_S7(TRANSDUCER)
+Added Component: Designator=8_S8(TRANSDUCER)
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Add Component: Footprint Not Found CAP0805
+Added Component: Designator=Header1(B27C-SMT2x20)
+Add component (AddParameter): Name = "PROD_ID"; Value = "B27C-2X20-BSBB1-G"; VariantName = "[No Variations]"
+Added Component: Designator=Header2(B27C-SMT2x20)
+Add component (AddParameter): Name = "PROD_ID"; Value = "B27C-2X20-BSBB1-G"; VariantName = "[No Variations]"
+Added Component: Designator=U1_S1(74*959D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-16 Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC595D%2C118/Nexperia%20USA%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1_S2(74*959D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-16 Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC595D%2C118/Nexperia%20USA%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1_S3(74*959D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-16 Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC595D%2C118/Nexperia%20USA%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1_S4(74*959D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-16 Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC595D%2C118/Nexperia%20USA%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1_S5(74*959D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-16 Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC595D%2C118/Nexperia%20USA%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1_S6(74*959D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-16 Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC595D%2C118/Nexperia%20USA%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1_S7(74*959D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-16 Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC595D%2C118/Nexperia%20USA%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U1_S8(74*959D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nexperia USA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC595D,118"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SO-16 Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC595D%2C118/Nexperia%20USA%20Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2_S1(MIC4127YME)
+Added Component: Designator=U2_S2(MIC4127YME)
+Added Component: Designator=U2_S3(MIC4127YME)
+Added Component: Designator=U2_S4(MIC4127YME)
+Added Component: Designator=U2_S5(MIC4127YME)
+Added Component: Designator=U2_S6(MIC4127YME)
+Added Component: Designator=U2_S7(MIC4127YME)
+Added Component: Designator=U2_S8(MIC4127YME)
+Added Component: Designator=U3_S1(MIC4127YME)
+Added Component: Designator=U3_S2(MIC4127YME)
+Added Component: Designator=U3_S3(MIC4127YME)
+Added Component: Designator=U3_S4(MIC4127YME)
+Added Component: Designator=U3_S5(MIC4127YME)
+Added Component: Designator=U3_S6(MIC4127YME)
+Added Component: Designator=U3_S7(MIC4127YME)
+Added Component: Designator=U3_S8(MIC4127YME)
+Added Component: Designator=U4_S1(MIC4127YME)
+Added Component: Designator=U4_S2(MIC4127YME)
+Added Component: Designator=U4_S3(MIC4127YME)
+Added Component: Designator=U4_S4(MIC4127YME)
+Added Component: Designator=U4_S5(MIC4127YME)
+Added Component: Designator=U4_S6(MIC4127YME)
+Added Component: Designator=U4_S7(MIC4127YME)
+Added Component: Designator=U4_S8(MIC4127YME)
+Added Component: Designator=U5_S1(MIC4127YME)
+Added Component: Designator=U5_S2(MIC4127YME)
+Added Component: Designator=U5_S3(MIC4127YME)
+Added Component: Designator=U5_S4(MIC4127YME)
+Added Component: Designator=U5_S5(MIC4127YME)
+Added Component: Designator=U5_S6(MIC4127YME)
+Added Component: Designator=U5_S7(MIC4127YME)
+Added Component: Designator=U5_S8(MIC4127YME)
+Added Pin To Net: NetName=DS1 Pin=U1_S1-14
+Added Net: Name=DS1
+Add Net: Net with name "DS1" already exists
+Added Pin To Net: NetName=DS2 Pin=Header2-6
+Added Net: Name=DS2
+Add Net: Net with name "DS2" already exists
+Added Pin To Net: NetName=DS3 Pin=U1_S3-14
+Added Net: Name=DS3
+Add Net: Net with name "DS3" already exists
+Added Pin To Net: NetName=DS4 Pin=U1_S4-14
+Added Net: Name=DS4
+Add Net: Net with name "DS4" already exists
+Added Pin To Net: NetName=DS5 Pin=U1_S5-14
+Added Net: Name=DS5
+Add Net: Net with name "DS5" already exists
+Added Pin To Net: NetName=DS6 Pin=U1_S6-14
+Added Net: Name=DS6
+Add Net: Net with name "DS6" already exists
+Added Pin To Net: NetName=DS7 Pin=U1_S7-14
+Added Net: Name=DS7
+Add Net: Net with name "DS7" already exists
+Added Pin To Net: NetName=DS8 Pin=U1_S8-14
+Added Net: Name=DS8
+Add Net: Net with name "DS8" already exists
+Added Pin To Net: NetName=DS9 Pin=Header2-1
+Added Net: Name=DS9
+Added Pin To Net: NetName=DS10 Pin=Header2-5
+Added Net: Name=DS10
+Added Pin To Net: NetName=DS11 Pin=Header2-9
+Added Net: Name=DS11
+Added Pin To Net: NetName=DS12 Pin=Header2-13
+Added Net: Name=DS12
+Added Pin To Net: NetName=DS13 Pin=Header2-17
+Added Net: Name=DS13
+Added Pin To Net: NetName=DS14 Pin=Header2-21
+Added Net: Name=DS14
+Added Pin To Net: NetName=DS15 Pin=Header2-25
+Added Net: Name=DS15
+Added Pin To Net: NetName=DS16 Pin=Header2-29
+Added Net: Name=DS16
+Added Pin To Net: NetName=DS17 Pin=Header1-2
+Added Net: Name=DS17
+Added Pin To Net: NetName=DS18 Pin=Header1-6
+Added Net: Name=DS18
+Added Pin To Net: NetName=DS19 Pin=Header1-10
+Added Net: Name=DS19
+Added Pin To Net: NetName=DS20 Pin=Header1-14
+Added Net: Name=DS20
+Added Pin To Net: NetName=DS21 Pin=Header1-18
+Added Net: Name=DS21
+Added Pin To Net: NetName=DS22 Pin=Header1-22
+Added Net: Name=DS22
+Added Pin To Net: NetName=DS23 Pin=Header1-26
+Added Net: Name=DS23
+Added Pin To Net: NetName=DS24 Pin=Header1-30
+Added Net: Name=DS24
+Added Pin To Net: NetName=DS25 Pin=Header1-1
+Added Net: Name=DS25
+Added Pin To Net: NetName=DS26 Pin=Header1-5
+Added Net: Name=DS26
+Added Pin To Net: NetName=DS27 Pin=Header1-9
+Added Net: Name=DS27
+Added Pin To Net: NetName=DS28 Pin=Header1-13
+Added Net: Name=DS28
+Added Pin To Net: NetName=DS29 Pin=Header1-17
+Added Net: Name=DS29
+Added Pin To Net: NetName=DS30 Pin=Header1-21
+Added Net: Name=DS30
+Added Pin To Net: NetName=DS31 Pin=Header1-25
+Added Net: Name=DS31
+Added Pin To Net: NetName=DS32 Pin=Header1-29
+Added Net: Name=DS32
+Added Pin To Net: NetName=GND Pin=1_S1--
+Added Pin To Net: NetName=GND Pin=1_S2--
+Added Pin To Net: NetName=GND Pin=1_S3--
+Added Pin To Net: NetName=GND Pin=1_S4--
+Added Pin To Net: NetName=GND Pin=1_S5--
+Added Pin To Net: NetName=GND Pin=1_S6--
+Added Pin To Net: NetName=GND Pin=1_S7--
+Added Pin To Net: NetName=GND Pin=1_S8--
+Added Pin To Net: NetName=GND Pin=2_S1--
+Added Pin To Net: NetName=GND Pin=2_S2--
+Added Pin To Net: NetName=GND Pin=2_S3--
+Added Pin To Net: NetName=GND Pin=2_S4--
+Added Pin To Net: NetName=GND Pin=2_S5--
+Added Pin To Net: NetName=GND Pin=2_S6--
+Added Pin To Net: NetName=GND Pin=2_S7--
+Added Pin To Net: NetName=GND Pin=2_S8--
+Added Pin To Net: NetName=GND Pin=3_S1--
+Added Pin To Net: NetName=GND Pin=3_S2--
+Added Pin To Net: NetName=GND Pin=3_S3--
+Added Pin To Net: NetName=GND Pin=3_S4--
+Added Pin To Net: NetName=GND Pin=3_S5--
+Added Pin To Net: NetName=GND Pin=3_S6--
+Added Pin To Net: NetName=GND Pin=3_S7--
+Added Pin To Net: NetName=GND Pin=3_S8--
+Added Pin To Net: NetName=GND Pin=4_S1--
+Added Pin To Net: NetName=GND Pin=4_S2--
+Added Pin To Net: NetName=GND Pin=4_S3--
+Added Pin To Net: NetName=GND Pin=4_S4--
+Added Pin To Net: NetName=GND Pin=4_S5--
+Added Pin To Net: NetName=GND Pin=4_S6--
+Added Pin To Net: NetName=GND Pin=4_S7--
+Added Pin To Net: NetName=GND Pin=4_S8--
+Added Pin To Net: NetName=GND Pin=5_S1--
+Added Pin To Net: NetName=GND Pin=5_S2--
+Added Pin To Net: NetName=GND Pin=5_S3--
+Added Pin To Net: NetName=GND Pin=5_S4--
+Added Pin To Net: NetName=GND Pin=5_S5--
+Added Pin To Net: NetName=GND Pin=5_S6--
+Added Pin To Net: NetName=GND Pin=5_S7--
+Added Pin To Net: NetName=GND Pin=5_S8--
+Added Pin To Net: NetName=GND Pin=6_S1--
+Added Pin To Net: NetName=GND Pin=6_S2--
+Added Pin To Net: NetName=GND Pin=6_S3--
+Added Pin To Net: NetName=GND Pin=6_S4--
+Added Pin To Net: NetName=GND Pin=6_S5--
+Added Pin To Net: NetName=GND Pin=6_S6--
+Added Pin To Net: NetName=GND Pin=6_S7--
+Added Pin To Net: NetName=GND Pin=6_S8--
+Added Pin To Net: NetName=GND Pin=7_S1--
+Added Pin To Net: NetName=GND Pin=7_S2--
+Added Pin To Net: NetName=GND Pin=7_S3--
+Added Pin To Net: NetName=GND Pin=7_S4--
+Added Pin To Net: NetName=GND Pin=7_S5--
+Added Pin To Net: NetName=GND Pin=7_S6--
+Added Pin To Net: NetName=GND Pin=7_S7--
+Added Pin To Net: NetName=GND Pin=7_S8--
+Added Pin To Net: NetName=GND Pin=8_S1--
+Added Pin To Net: NetName=GND Pin=8_S2--
+Added Pin To Net: NetName=GND Pin=8_S3--
+Added Pin To Net: NetName=GND Pin=8_S4--
+Added Pin To Net: NetName=GND Pin=8_S5--
+Added Pin To Net: NetName=GND Pin=8_S6--
+Added Pin To Net: NetName=GND Pin=8_S7--
+Added Pin To Net: NetName=GND Pin=8_S8--
+Added Pin To Net: NetName=GND Pin=Header1-3
+Added Pin To Net: NetName=GND Pin=Header1-4
+Added Pin To Net: NetName=GND Pin=Header1-15
+Added Pin To Net: NetName=GND Pin=Header1-16
+Added Pin To Net: NetName=GND Pin=Header1-27
+Added Pin To Net: NetName=GND Pin=Header1-28
+Added Pin To Net: NetName=GND Pin=Header1-39
+Added Pin To Net: NetName=GND Pin=Header1-40
+Added Pin To Net: NetName=GND Pin=Header2-3
+Added Pin To Net: NetName=GND Pin=Header2-4
+Added Pin To Net: NetName=GND Pin=Header2-15
+Added Pin To Net: NetName=GND Pin=Header2-16
+Added Pin To Net: NetName=GND Pin=Header2-27
+Added Pin To Net: NetName=GND Pin=Header2-28
+Added Pin To Net: NetName=GND Pin=Header2-39
+Added Pin To Net: NetName=GND Pin=Header2-40
+Added Pin To Net: NetName=GND Pin=U1_S1-8
+Added Pin To Net: NetName=GND Pin=U1_S1-13
+Added Pin To Net: NetName=GND Pin=U1_S2-8
+Added Pin To Net: NetName=GND Pin=U1_S2-13
+Added Pin To Net: NetName=GND Pin=U1_S3-8
+Added Pin To Net: NetName=GND Pin=U1_S3-13
+Added Pin To Net: NetName=GND Pin=U1_S4-8
+Added Pin To Net: NetName=GND Pin=U1_S4-13
+Added Pin To Net: NetName=GND Pin=U1_S5-8
+Added Pin To Net: NetName=GND Pin=U1_S5-13
+Added Pin To Net: NetName=GND Pin=U1_S6-8
+Added Pin To Net: NetName=GND Pin=U1_S6-13
+Added Pin To Net: NetName=GND Pin=U1_S7-8
+Added Pin To Net: NetName=GND Pin=U1_S7-13
+Added Pin To Net: NetName=GND Pin=U1_S8-8
+Added Pin To Net: NetName=GND Pin=U1_S8-13
+Added Pin To Net: NetName=GND Pin=U2_S1-3
+Added Pin To Net: NetName=GND Pin=U2_S1-3
+Added Pin To Net: NetName=GND Pin=U2_S2-3
+Added Pin To Net: NetName=GND Pin=U2_S2-3
+Added Pin To Net: NetName=GND Pin=U2_S3-3
+Added Pin To Net: NetName=GND Pin=U2_S3-3
+Added Pin To Net: NetName=GND Pin=U2_S4-3
+Added Pin To Net: NetName=GND Pin=U2_S4-3
+Added Pin To Net: NetName=GND Pin=U2_S5-3
+Added Pin To Net: NetName=GND Pin=U2_S5-3
+Added Pin To Net: NetName=GND Pin=U2_S6-3
+Added Pin To Net: NetName=GND Pin=U2_S6-3
+Added Pin To Net: NetName=GND Pin=U2_S7-3
+Added Pin To Net: NetName=GND Pin=U2_S7-3
+Added Pin To Net: NetName=GND Pin=U2_S8-3
+Added Pin To Net: NetName=GND Pin=U2_S8-3
+Added Pin To Net: NetName=GND Pin=U3_S1-3
+Added Pin To Net: NetName=GND Pin=U3_S1-3
+Added Pin To Net: NetName=GND Pin=U3_S2-3
+Added Pin To Net: NetName=GND Pin=U3_S2-3
+Added Pin To Net: NetName=GND Pin=U3_S3-3
+Added Pin To Net: NetName=GND Pin=U3_S3-3
+Added Pin To Net: NetName=GND Pin=U3_S4-3
+Added Pin To Net: NetName=GND Pin=U3_S4-3
+Added Pin To Net: NetName=GND Pin=U3_S5-3
+Added Pin To Net: NetName=GND Pin=U3_S5-3
+Added Pin To Net: NetName=GND Pin=U3_S6-3
+Added Pin To Net: NetName=GND Pin=U3_S6-3
+Added Pin To Net: NetName=GND Pin=U3_S7-3
+Added Pin To Net: NetName=GND Pin=U3_S7-3
+Added Pin To Net: NetName=GND Pin=U3_S8-3
+Added Pin To Net: NetName=GND Pin=U3_S8-3
+Added Pin To Net: NetName=GND Pin=U4_S1-3
+Added Pin To Net: NetName=GND Pin=U4_S1-3
+Added Pin To Net: NetName=GND Pin=U4_S2-3
+Added Pin To Net: NetName=GND Pin=U4_S2-3
+Added Pin To Net: NetName=GND Pin=U4_S3-3
+Added Pin To Net: NetName=GND Pin=U4_S3-3
+Added Pin To Net: NetName=GND Pin=U4_S4-3
+Added Pin To Net: NetName=GND Pin=U4_S4-3
+Added Pin To Net: NetName=GND Pin=U4_S5-3
+Added Pin To Net: NetName=GND Pin=U4_S5-3
+Added Pin To Net: NetName=GND Pin=U4_S6-3
+Added Pin To Net: NetName=GND Pin=U4_S6-3
+Added Pin To Net: NetName=GND Pin=U4_S7-3
+Added Pin To Net: NetName=GND Pin=U4_S7-3
+Added Pin To Net: NetName=GND Pin=U4_S8-3
+Added Pin To Net: NetName=GND Pin=U4_S8-3
+Added Pin To Net: NetName=GND Pin=U5_S1-3
+Added Pin To Net: NetName=GND Pin=U5_S1-3
+Added Pin To Net: NetName=GND Pin=U5_S2-3
+Added Pin To Net: NetName=GND Pin=U5_S2-3
+Added Pin To Net: NetName=GND Pin=U5_S3-3
+Added Pin To Net: NetName=GND Pin=U5_S3-3
+Added Pin To Net: NetName=GND Pin=U5_S4-3
+Added Pin To Net: NetName=GND Pin=U5_S4-3
+Added Pin To Net: NetName=GND Pin=U5_S5-3
+Added Pin To Net: NetName=GND Pin=U5_S5-3
+Added Pin To Net: NetName=GND Pin=U5_S6-3
+Added Pin To Net: NetName=GND Pin=U5_S6-3
+Added Pin To Net: NetName=GND Pin=U5_S7-3
+Added Pin To Net: NetName=GND Pin=U5_S7-3
+Added Pin To Net: NetName=GND Pin=U5_S8-3
+Added Pin To Net: NetName=GND Pin=U5_S8-3
+Added Net: Name=GND
+Added Pin To Net: NetName=INA_1_S1 Pin=U1_S1-1
+Added Pin To Net: NetName=INA_1_S1 Pin=U2_S1-2
+Added Net: Name=INA_1_S1
+Added Pin To Net: NetName=INA_1_S2 Pin=U1_S2-1
+Added Pin To Net: NetName=INA_1_S2 Pin=U2_S2-2
+Added Net: Name=INA_1_S2
+Added Pin To Net: NetName=INA_1_S3 Pin=U1_S3-1
+Added Pin To Net: NetName=INA_1_S3 Pin=U2_S3-2
+Added Net: Name=INA_1_S3
+Added Pin To Net: NetName=INA_1_S4 Pin=U1_S4-1
+Added Pin To Net: NetName=INA_1_S4 Pin=U2_S4-2
+Added Net: Name=INA_1_S4
+Added Pin To Net: NetName=INA_1_S5 Pin=U1_S5-1
+Added Pin To Net: NetName=INA_1_S5 Pin=U2_S5-2
+Added Net: Name=INA_1_S5
+Added Pin To Net: NetName=INA_1_S6 Pin=U1_S6-1
+Added Pin To Net: NetName=INA_1_S6 Pin=U2_S6-2
+Added Net: Name=INA_1_S6
+Added Pin To Net: NetName=INA_1_S7 Pin=U1_S7-1
+Added Pin To Net: NetName=INA_1_S7 Pin=U2_S7-2
+Added Net: Name=INA_1_S7
+Added Pin To Net: NetName=INA_1_S8 Pin=U1_S8-1
+Added Pin To Net: NetName=INA_1_S8 Pin=U2_S8-2
+Added Net: Name=INA_1_S8
+Added Pin To Net: NetName=INA_2_S1 Pin=U1_S1-4
+Added Pin To Net: NetName=INA_2_S1 Pin=U3_S1-2
+Added Net: Name=INA_2_S1
+Added Pin To Net: NetName=INA_2_S2 Pin=U1_S2-4
+Added Pin To Net: NetName=INA_2_S2 Pin=U3_S2-2
+Added Net: Name=INA_2_S2
+Added Pin To Net: NetName=INA_2_S3 Pin=U1_S3-4
+Added Pin To Net: NetName=INA_2_S3 Pin=U3_S3-2
+Added Net: Name=INA_2_S3
+Added Pin To Net: NetName=INA_2_S4 Pin=U1_S4-4
+Added Pin To Net: NetName=INA_2_S4 Pin=U3_S4-2
+Added Net: Name=INA_2_S4
+Added Pin To Net: NetName=INA_2_S5 Pin=U1_S5-4
+Added Pin To Net: NetName=INA_2_S5 Pin=U3_S5-2
+Added Net: Name=INA_2_S5
+Added Pin To Net: NetName=INA_2_S6 Pin=U1_S6-4
+Added Pin To Net: NetName=INA_2_S6 Pin=U3_S6-2
+Added Net: Name=INA_2_S6
+Added Pin To Net: NetName=INA_2_S7 Pin=U1_S7-4
+Added Pin To Net: NetName=INA_2_S7 Pin=U3_S7-2
+Added Net: Name=INA_2_S7
+Added Pin To Net: NetName=INA_2_S8 Pin=U1_S8-4
+Added Pin To Net: NetName=INA_2_S8 Pin=U3_S8-2
+Added Net: Name=INA_2_S8
+Added Pin To Net: NetName=INA_3_S1 Pin=U1_S1-3
+Added Pin To Net: NetName=INA_3_S1 Pin=U4_S1-2
+Added Net: Name=INA_3_S1
+Added Pin To Net: NetName=INA_3_S2 Pin=U1_S2-3
+Added Pin To Net: NetName=INA_3_S2 Pin=U4_S2-2
+Added Net: Name=INA_3_S2
+Added Pin To Net: NetName=INA_3_S3 Pin=U1_S3-3
+Added Pin To Net: NetName=INA_3_S3 Pin=U4_S3-2
+Added Net: Name=INA_3_S3
+Added Pin To Net: NetName=INA_3_S4 Pin=U1_S4-3
+Added Pin To Net: NetName=INA_3_S4 Pin=U4_S4-2
+Added Net: Name=INA_3_S4
+Added Pin To Net: NetName=INA_3_S5 Pin=U1_S5-3
+Added Pin To Net: NetName=INA_3_S5 Pin=U4_S5-2
+Added Net: Name=INA_3_S5
+Added Pin To Net: NetName=INA_3_S6 Pin=U1_S6-3
+Added Pin To Net: NetName=INA_3_S6 Pin=U4_S6-2
+Added Net: Name=INA_3_S6
+Added Pin To Net: NetName=INA_3_S7 Pin=U1_S7-3
+Added Pin To Net: NetName=INA_3_S7 Pin=U4_S7-2
+Added Net: Name=INA_3_S7
+Added Pin To Net: NetName=INA_3_S8 Pin=U1_S8-3
+Added Pin To Net: NetName=INA_3_S8 Pin=U4_S8-2
+Added Net: Name=INA_3_S8
+Added Pin To Net: NetName=INA_4_S1 Pin=U1_S1-7
+Added Pin To Net: NetName=INA_4_S1 Pin=U5_S1-2
+Added Net: Name=INA_4_S1
+Added Pin To Net: NetName=INA_4_S2 Pin=U1_S2-7
+Added Pin To Net: NetName=INA_4_S2 Pin=U5_S2-2
+Added Net: Name=INA_4_S2
+Added Pin To Net: NetName=INA_4_S3 Pin=U1_S3-7
+Added Pin To Net: NetName=INA_4_S3 Pin=U5_S3-2
+Added Net: Name=INA_4_S3
+Added Pin To Net: NetName=INA_4_S4 Pin=U1_S4-7
+Added Pin To Net: NetName=INA_4_S4 Pin=U5_S4-2
+Added Net: Name=INA_4_S4
+Added Pin To Net: NetName=INA_4_S5 Pin=U1_S5-7
+Added Pin To Net: NetName=INA_4_S5 Pin=U5_S5-2
+Added Net: Name=INA_4_S5
+Added Pin To Net: NetName=INA_4_S6 Pin=U1_S6-7
+Added Pin To Net: NetName=INA_4_S6 Pin=U5_S6-2
+Added Net: Name=INA_4_S6
+Added Pin To Net: NetName=INA_4_S7 Pin=U1_S7-7
+Added Pin To Net: NetName=INA_4_S7 Pin=U5_S7-2
+Added Net: Name=INA_4_S7
+Added Pin To Net: NetName=INA_4_S8 Pin=U1_S8-7
+Added Pin To Net: NetName=INA_4_S8 Pin=U5_S8-2
+Added Net: Name=INA_4_S8
+Added Pin To Net: NetName=INB_1_S1 Pin=U1_S1-15
+Added Pin To Net: NetName=INB_1_S1 Pin=U2_S1-4
+Added Net: Name=INB_1_S1
+Added Pin To Net: NetName=INB_1_S2 Pin=U1_S2-15
+Added Pin To Net: NetName=INB_1_S2 Pin=U2_S2-4
+Added Net: Name=INB_1_S2
+Added Pin To Net: NetName=INB_1_S3 Pin=U1_S3-15
+Added Pin To Net: NetName=INB_1_S3 Pin=U2_S3-4
+Added Net: Name=INB_1_S3
+Added Pin To Net: NetName=INB_1_S4 Pin=U1_S4-15
+Added Pin To Net: NetName=INB_1_S4 Pin=U2_S4-4
+Added Net: Name=INB_1_S4
+Added Pin To Net: NetName=INB_1_S5 Pin=U1_S5-15
+Added Pin To Net: NetName=INB_1_S5 Pin=U2_S5-4
+Added Net: Name=INB_1_S5
+Added Pin To Net: NetName=INB_1_S6 Pin=U1_S6-15
+Added Pin To Net: NetName=INB_1_S6 Pin=U2_S6-4
+Added Net: Name=INB_1_S6
+Added Pin To Net: NetName=INB_1_S7 Pin=U1_S7-15
+Added Pin To Net: NetName=INB_1_S7 Pin=U2_S7-4
+Added Net: Name=INB_1_S7
+Added Pin To Net: NetName=INB_1_S8 Pin=U1_S8-15
+Added Pin To Net: NetName=INB_1_S8 Pin=U2_S8-4
+Added Net: Name=INB_1_S8
+Added Pin To Net: NetName=INB_2_S1 Pin=U1_S1-5
+Added Pin To Net: NetName=INB_2_S1 Pin=U3_S1-4
+Added Net: Name=INB_2_S1
+Added Pin To Net: NetName=INB_2_S2 Pin=U1_S2-5
+Added Pin To Net: NetName=INB_2_S2 Pin=U3_S2-4
+Added Net: Name=INB_2_S2
+Added Pin To Net: NetName=INB_2_S3 Pin=U1_S3-5
+Added Pin To Net: NetName=INB_2_S3 Pin=U3_S3-4
+Added Net: Name=INB_2_S3
+Added Pin To Net: NetName=INB_2_S4 Pin=U1_S4-5
+Added Pin To Net: NetName=INB_2_S4 Pin=U3_S4-4
+Added Net: Name=INB_2_S4
+Added Pin To Net: NetName=INB_2_S5 Pin=U1_S5-5
+Added Pin To Net: NetName=INB_2_S5 Pin=U3_S5-4
+Added Net: Name=INB_2_S5
+Added Pin To Net: NetName=INB_2_S6 Pin=U1_S6-5
+Added Pin To Net: NetName=INB_2_S6 Pin=U3_S6-4
+Added Net: Name=INB_2_S6
+Added Pin To Net: NetName=INB_2_S7 Pin=U1_S7-5
+Added Pin To Net: NetName=INB_2_S7 Pin=U3_S7-4
+Added Net: Name=INB_2_S7
+Added Pin To Net: NetName=INB_2_S8 Pin=U1_S8-5
+Added Pin To Net: NetName=INB_2_S8 Pin=U3_S8-4
+Added Net: Name=INB_2_S8
+Added Pin To Net: NetName=INB_3_S1 Pin=U1_S1-2
+Added Pin To Net: NetName=INB_3_S1 Pin=U4_S1-4
+Added Net: Name=INB_3_S1
+Added Pin To Net: NetName=INB_3_S2 Pin=U1_S2-2
+Added Pin To Net: NetName=INB_3_S2 Pin=U4_S2-4
+Added Net: Name=INB_3_S2
+Added Pin To Net: NetName=INB_3_S3 Pin=U1_S3-2
+Added Pin To Net: NetName=INB_3_S3 Pin=U4_S3-4
+Added Net: Name=INB_3_S3
+Added Pin To Net: NetName=INB_3_S4 Pin=U1_S4-2
+Added Pin To Net: NetName=INB_3_S4 Pin=U4_S4-4
+Added Net: Name=INB_3_S4
+Added Pin To Net: NetName=INB_3_S5 Pin=U1_S5-2
+Added Pin To Net: NetName=INB_3_S5 Pin=U4_S5-4
+Added Net: Name=INB_3_S5
+Added Pin To Net: NetName=INB_3_S6 Pin=U1_S6-2
+Added Pin To Net: NetName=INB_3_S6 Pin=U4_S6-4
+Added Net: Name=INB_3_S6
+Added Pin To Net: NetName=INB_3_S7 Pin=U1_S7-2
+Added Pin To Net: NetName=INB_3_S7 Pin=U4_S7-4
+Added Net: Name=INB_3_S7
+Added Pin To Net: NetName=INB_3_S8 Pin=U1_S8-2
+Added Pin To Net: NetName=INB_3_S8 Pin=U4_S8-4
+Added Net: Name=INB_3_S8
+Added Pin To Net: NetName=INB_4_S1 Pin=U1_S1-6
+Added Pin To Net: NetName=INB_4_S1 Pin=U5_S1-4
+Added Net: Name=INB_4_S1
+Added Pin To Net: NetName=INB_4_S2 Pin=U1_S2-6
+Added Pin To Net: NetName=INB_4_S2 Pin=U5_S2-4
+Added Net: Name=INB_4_S2
+Added Pin To Net: NetName=INB_4_S3 Pin=U1_S3-6
+Added Pin To Net: NetName=INB_4_S3 Pin=U5_S3-4
+Added Net: Name=INB_4_S3
+Added Pin To Net: NetName=INB_4_S4 Pin=U1_S4-6
+Added Pin To Net: NetName=INB_4_S4 Pin=U5_S4-4
+Added Net: Name=INB_4_S4
+Added Pin To Net: NetName=INB_4_S5 Pin=U1_S5-6
+Added Pin To Net: NetName=INB_4_S5 Pin=U5_S5-4
+Added Net: Name=INB_4_S5
+Added Pin To Net: NetName=INB_4_S6 Pin=U1_S6-6
+Added Pin To Net: NetName=INB_4_S6 Pin=U5_S6-4
+Added Net: Name=INB_4_S6
+Added Pin To Net: NetName=INB_4_S7 Pin=U1_S7-6
+Added Pin To Net: NetName=INB_4_S7 Pin=U5_S7-4
+Added Net: Name=INB_4_S7
+Added Pin To Net: NetName=INB_4_S8 Pin=U1_S8-6
+Added Pin To Net: NetName=INB_4_S8 Pin=U5_S8-4
+Added Net: Name=INB_4_S8
+Added Pin To Net: NetName=OUTA_1_S1 Pin=1_S1-+
+Added Pin To Net: NetName=OUTA_1_S1 Pin=U2_S1-7
+Added Net: Name=OUTA_1_S1
+Added Pin To Net: NetName=OUTA_1_S2 Pin=1_S2-+
+Added Pin To Net: NetName=OUTA_1_S2 Pin=U2_S2-7
+Added Net: Name=OUTA_1_S2
+Added Pin To Net: NetName=OUTA_1_S3 Pin=1_S3-+
+Added Pin To Net: NetName=OUTA_1_S3 Pin=U2_S3-7
+Added Net: Name=OUTA_1_S3
+Added Pin To Net: NetName=OUTA_1_S4 Pin=1_S4-+
+Added Pin To Net: NetName=OUTA_1_S4 Pin=U2_S4-7
+Added Net: Name=OUTA_1_S4
+Added Pin To Net: NetName=OUTA_1_S5 Pin=1_S5-+
+Added Pin To Net: NetName=OUTA_1_S5 Pin=U2_S5-7
+Added Net: Name=OUTA_1_S5
+Added Pin To Net: NetName=OUTA_1_S6 Pin=1_S6-+
+Added Pin To Net: NetName=OUTA_1_S6 Pin=U2_S6-7
+Added Net: Name=OUTA_1_S6
+Added Pin To Net: NetName=OUTA_1_S7 Pin=1_S7-+
+Added Pin To Net: NetName=OUTA_1_S7 Pin=U2_S7-7
+Added Net: Name=OUTA_1_S7
+Added Pin To Net: NetName=OUTA_1_S8 Pin=1_S8-+
+Added Pin To Net: NetName=OUTA_1_S8 Pin=U2_S8-7
+Added Net: Name=OUTA_1_S8
+Added Pin To Net: NetName=OUTA_2_S1 Pin=2_S1-+
+Added Pin To Net: NetName=OUTA_2_S1 Pin=U3_S1-7
+Added Net: Name=OUTA_2_S1
+Added Pin To Net: NetName=OUTA_2_S2 Pin=2_S2-+
+Added Pin To Net: NetName=OUTA_2_S2 Pin=U3_S2-7
+Added Net: Name=OUTA_2_S2
+Added Pin To Net: NetName=OUTA_2_S3 Pin=2_S3-+
+Added Pin To Net: NetName=OUTA_2_S3 Pin=U3_S3-7
+Added Net: Name=OUTA_2_S3
+Added Pin To Net: NetName=OUTA_2_S4 Pin=2_S4-+
+Added Pin To Net: NetName=OUTA_2_S4 Pin=U3_S4-7
+Added Net: Name=OUTA_2_S4
+Added Pin To Net: NetName=OUTA_2_S5 Pin=2_S5-+
+Added Pin To Net: NetName=OUTA_2_S5 Pin=U3_S5-7
+Added Net: Name=OUTA_2_S5
+Added Pin To Net: NetName=OUTA_2_S6 Pin=2_S6-+
+Added Pin To Net: NetName=OUTA_2_S6 Pin=U3_S6-7
+Added Net: Name=OUTA_2_S6
+Added Pin To Net: NetName=OUTA_2_S7 Pin=2_S7-+
+Added Pin To Net: NetName=OUTA_2_S7 Pin=U3_S7-7
+Added Net: Name=OUTA_2_S7
+Added Pin To Net: NetName=OUTA_2_S8 Pin=2_S8-+
+Added Pin To Net: NetName=OUTA_2_S8 Pin=U3_S8-7
+Added Net: Name=OUTA_2_S8
+Added Pin To Net: NetName=OUTA_3_S1 Pin=3_S1-+
+Added Pin To Net: NetName=OUTA_3_S1 Pin=U4_S1-7
+Added Net: Name=OUTA_3_S1
+Added Pin To Net: NetName=OUTA_3_S2 Pin=3_S2-+
+Added Pin To Net: NetName=OUTA_3_S2 Pin=U4_S2-7
+Added Net: Name=OUTA_3_S2
+Added Pin To Net: NetName=OUTA_3_S3 Pin=3_S3-+
+Added Pin To Net: NetName=OUTA_3_S3 Pin=U4_S3-7
+Added Net: Name=OUTA_3_S3
+Added Pin To Net: NetName=OUTA_3_S4 Pin=3_S4-+
+Added Pin To Net: NetName=OUTA_3_S4 Pin=U4_S4-7
+Added Net: Name=OUTA_3_S4
+Added Pin To Net: NetName=OUTA_3_S5 Pin=3_S5-+
+Added Pin To Net: NetName=OUTA_3_S5 Pin=U4_S5-7
+Added Net: Name=OUTA_3_S5
+Added Pin To Net: NetName=OUTA_3_S6 Pin=3_S6-+
+Added Pin To Net: NetName=OUTA_3_S6 Pin=U4_S6-7
+Added Net: Name=OUTA_3_S6
+Added Pin To Net: NetName=OUTA_3_S7 Pin=3_S7-+
+Added Pin To Net: NetName=OUTA_3_S7 Pin=U4_S7-7
+Added Net: Name=OUTA_3_S7
+Added Pin To Net: NetName=OUTA_3_S8 Pin=3_S8-+
+Added Pin To Net: NetName=OUTA_3_S8 Pin=U4_S8-7
+Added Net: Name=OUTA_3_S8
+Added Pin To Net: NetName=OUTA_4_S1 Pin=4_S1-+
+Added Pin To Net: NetName=OUTA_4_S1 Pin=U5_S1-7
+Added Net: Name=OUTA_4_S1
+Added Pin To Net: NetName=OUTA_4_S2 Pin=4_S2-+
+Added Pin To Net: NetName=OUTA_4_S2 Pin=U5_S2-7
+Added Net: Name=OUTA_4_S2
+Added Pin To Net: NetName=OUTA_4_S3 Pin=4_S3-+
+Added Pin To Net: NetName=OUTA_4_S3 Pin=U5_S3-7
+Added Net: Name=OUTA_4_S3
+Added Pin To Net: NetName=OUTA_4_S4 Pin=4_S4-+
+Added Pin To Net: NetName=OUTA_4_S4 Pin=U5_S4-7
+Added Net: Name=OUTA_4_S4
+Added Pin To Net: NetName=OUTA_4_S5 Pin=4_S5-+
+Added Pin To Net: NetName=OUTA_4_S5 Pin=U5_S5-7
+Added Net: Name=OUTA_4_S5
+Added Pin To Net: NetName=OUTA_4_S6 Pin=4_S6-+
+Added Pin To Net: NetName=OUTA_4_S6 Pin=U5_S6-7
+Added Net: Name=OUTA_4_S6
+Added Pin To Net: NetName=OUTA_4_S7 Pin=4_S7-+
+Added Pin To Net: NetName=OUTA_4_S7 Pin=U5_S7-7
+Added Net: Name=OUTA_4_S7
+Added Pin To Net: NetName=OUTA_4_S8 Pin=4_S8-+
+Added Pin To Net: NetName=OUTA_4_S8 Pin=U5_S8-7
+Added Net: Name=OUTA_4_S8
+Added Pin To Net: NetName=OUTB_1_S1 Pin=5_S1-+
+Added Pin To Net: NetName=OUTB_1_S1 Pin=U2_S1-5
+Added Net: Name=OUTB_1_S1
+Added Pin To Net: NetName=OUTB_1_S2 Pin=5_S2-+
+Added Pin To Net: NetName=OUTB_1_S2 Pin=U2_S2-5
+Added Net: Name=OUTB_1_S2
+Added Pin To Net: NetName=OUTB_1_S3 Pin=5_S3-+
+Added Pin To Net: NetName=OUTB_1_S3 Pin=U2_S3-5
+Added Net: Name=OUTB_1_S3
+Added Pin To Net: NetName=OUTB_1_S4 Pin=5_S4-+
+Added Pin To Net: NetName=OUTB_1_S4 Pin=U2_S4-5
+Added Net: Name=OUTB_1_S4
+Added Pin To Net: NetName=OUTB_1_S5 Pin=5_S5-+
+Added Pin To Net: NetName=OUTB_1_S5 Pin=U2_S5-5
+Added Net: Name=OUTB_1_S5
+Added Pin To Net: NetName=OUTB_1_S6 Pin=5_S6-+
+Added Pin To Net: NetName=OUTB_1_S6 Pin=U2_S6-5
+Added Net: Name=OUTB_1_S6
+Added Pin To Net: NetName=OUTB_1_S7 Pin=5_S7-+
+Added Pin To Net: NetName=OUTB_1_S7 Pin=U2_S7-5
+Added Net: Name=OUTB_1_S7
+Added Pin To Net: NetName=OUTB_1_S8 Pin=5_S8-+
+Added Pin To Net: NetName=OUTB_1_S8 Pin=U2_S8-5
+Added Net: Name=OUTB_1_S8
+Added Pin To Net: NetName=OUTB_2_S1 Pin=6_S1-+
+Added Pin To Net: NetName=OUTB_2_S1 Pin=U3_S1-5
+Added Net: Name=OUTB_2_S1
+Added Pin To Net: NetName=OUTB_2_S2 Pin=6_S2-+
+Added Pin To Net: NetName=OUTB_2_S2 Pin=U3_S2-5
+Added Net: Name=OUTB_2_S2
+Added Pin To Net: NetName=OUTB_2_S3 Pin=6_S3-+
+Added Pin To Net: NetName=OUTB_2_S3 Pin=U3_S3-5
+Added Net: Name=OUTB_2_S3
+Added Pin To Net: NetName=OUTB_2_S4 Pin=6_S4-+
+Added Pin To Net: NetName=OUTB_2_S4 Pin=U3_S4-5
+Added Net: Name=OUTB_2_S4
+Added Pin To Net: NetName=OUTB_2_S5 Pin=6_S5-+
+Added Pin To Net: NetName=OUTB_2_S5 Pin=U3_S5-5
+Added Net: Name=OUTB_2_S5
+Added Pin To Net: NetName=OUTB_2_S6 Pin=6_S6-+
+Added Pin To Net: NetName=OUTB_2_S6 Pin=U3_S6-5
+Added Net: Name=OUTB_2_S6
+Added Pin To Net: NetName=OUTB_2_S7 Pin=6_S7-+
+Added Pin To Net: NetName=OUTB_2_S7 Pin=U3_S7-5
+Added Net: Name=OUTB_2_S7
+Added Pin To Net: NetName=OUTB_2_S8 Pin=6_S8-+
+Added Pin To Net: NetName=OUTB_2_S8 Pin=U3_S8-5
+Added Net: Name=OUTB_2_S8
+Added Pin To Net: NetName=OUTB_3_S1 Pin=7_S1-+
+Added Pin To Net: NetName=OUTB_3_S1 Pin=U4_S1-5
+Added Net: Name=OUTB_3_S1
+Added Pin To Net: NetName=OUTB_3_S2 Pin=7_S2-+
+Added Pin To Net: NetName=OUTB_3_S2 Pin=U4_S2-5
+Added Net: Name=OUTB_3_S2
+Added Pin To Net: NetName=OUTB_3_S3 Pin=7_S3-+
+Added Pin To Net: NetName=OUTB_3_S3 Pin=U4_S3-5
+Added Net: Name=OUTB_3_S3
+Added Pin To Net: NetName=OUTB_3_S4 Pin=7_S4-+
+Added Pin To Net: NetName=OUTB_3_S4 Pin=U4_S4-5
+Added Net: Name=OUTB_3_S4
+Added Pin To Net: NetName=OUTB_3_S5 Pin=7_S5-+
+Added Pin To Net: NetName=OUTB_3_S5 Pin=U4_S5-5
+Added Net: Name=OUTB_3_S5
+Added Pin To Net: NetName=OUTB_3_S6 Pin=7_S6-+
+Added Pin To Net: NetName=OUTB_3_S6 Pin=U4_S6-5
+Added Net: Name=OUTB_3_S6
+Added Pin To Net: NetName=OUTB_3_S7 Pin=7_S7-+
+Added Pin To Net: NetName=OUTB_3_S7 Pin=U4_S7-5
+Added Net: Name=OUTB_3_S7
+Added Pin To Net: NetName=OUTB_3_S8 Pin=7_S8-+
+Added Pin To Net: NetName=OUTB_3_S8 Pin=U4_S8-5
+Added Net: Name=OUTB_3_S8
+Added Pin To Net: NetName=OUTB_4_S1 Pin=8_S1-+
+Added Pin To Net: NetName=OUTB_4_S1 Pin=U5_S1-5
+Added Net: Name=OUTB_4_S1
+Added Pin To Net: NetName=OUTB_4_S2 Pin=8_S2-+
+Added Pin To Net: NetName=OUTB_4_S2 Pin=U5_S2-5
+Added Net: Name=OUTB_4_S2
+Added Pin To Net: NetName=OUTB_4_S3 Pin=8_S3-+
+Added Pin To Net: NetName=OUTB_4_S3 Pin=U5_S3-5
+Added Net: Name=OUTB_4_S3
+Added Pin To Net: NetName=OUTB_4_S4 Pin=8_S4-+
+Added Pin To Net: NetName=OUTB_4_S4 Pin=U5_S4-5
+Added Net: Name=OUTB_4_S4
+Added Pin To Net: NetName=OUTB_4_S5 Pin=8_S5-+
+Added Pin To Net: NetName=OUTB_4_S5 Pin=U5_S5-5
+Added Net: Name=OUTB_4_S5
+Added Pin To Net: NetName=OUTB_4_S6 Pin=8_S6-+
+Added Pin To Net: NetName=OUTB_4_S6 Pin=U5_S6-5
+Added Net: Name=OUTB_4_S6
+Added Pin To Net: NetName=OUTB_4_S7 Pin=8_S7-+
+Added Pin To Net: NetName=OUTB_4_S7 Pin=U5_S7-5
+Added Net: Name=OUTB_4_S7
+Added Pin To Net: NetName=OUTB_4_S8 Pin=8_S8-+
+Added Pin To Net: NetName=OUTB_4_S8 Pin=U5_S8-5
+Added Net: Name=OUTB_4_S8
+Added Pin To Net: NetName=SHCP Pin=Header1-37
+Added Pin To Net: NetName=SHCP Pin=Header1-38
+Added Pin To Net: NetName=SHCP Pin=Header2-37
+Added Pin To Net: NetName=SHCP Pin=Header2-38
+Added Pin To Net: NetName=SHCP Pin=U1_S1-11
+Added Pin To Net: NetName=SHCP Pin=U1_S2-11
+Added Pin To Net: NetName=SHCP Pin=U1_S3-11
+Added Pin To Net: NetName=SHCP Pin=U1_S4-11
+Added Pin To Net: NetName=SHCP Pin=U1_S5-11
+Added Pin To Net: NetName=SHCP Pin=U1_S6-11
+Added Pin To Net: NetName=SHCP Pin=U1_S7-11
+Added Pin To Net: NetName=SHCP Pin=U1_S8-11
+Added Net: Name=SHCP
+Added Pin To Net: NetName=STCP Pin=Header1-33
+Added Pin To Net: NetName=STCP Pin=Header1-34
+Added Pin To Net: NetName=STCP Pin=Header2-33
+Added Pin To Net: NetName=STCP Pin=Header2-34
+Added Pin To Net: NetName=STCP Pin=U1_S1-12
+Added Pin To Net: NetName=STCP Pin=U1_S2-12
+Added Pin To Net: NetName=STCP Pin=U1_S3-12
+Added Pin To Net: NetName=STCP Pin=U1_S4-12
+Added Pin To Net: NetName=STCP Pin=U1_S5-12
+Added Pin To Net: NetName=STCP Pin=U1_S6-12
+Added Pin To Net: NetName=STCP Pin=U1_S7-12
+Added Pin To Net: NetName=STCP Pin=U1_S8-12
+Added Net: Name=STCP
+Added Pin To Net: NetName=VCC Pin=Header1-7
+Added Pin To Net: NetName=VCC Pin=Header1-8
+Added Pin To Net: NetName=VCC Pin=Header1-19
+Added Pin To Net: NetName=VCC Pin=Header1-20
+Added Pin To Net: NetName=VCC Pin=Header1-31
+Added Pin To Net: NetName=VCC Pin=Header1-32
+Added Pin To Net: NetName=VCC Pin=Header2-7
+Added Pin To Net: NetName=VCC Pin=Header2-8
+Added Pin To Net: NetName=VCC Pin=Header2-19
+Added Pin To Net: NetName=VCC Pin=Header2-20
+Added Pin To Net: NetName=VCC Pin=Header2-31
+Added Pin To Net: NetName=VCC Pin=Header2-32
+Added Pin To Net: NetName=VCC Pin=U1_S1-10
+Added Pin To Net: NetName=VCC Pin=U1_S1-16
+Added Pin To Net: NetName=VCC Pin=U1_S2-10
+Added Pin To Net: NetName=VCC Pin=U1_S2-16
+Added Pin To Net: NetName=VCC Pin=U1_S3-10
+Added Pin To Net: NetName=VCC Pin=U1_S3-16
+Added Pin To Net: NetName=VCC Pin=U1_S4-10
+Added Pin To Net: NetName=VCC Pin=U1_S4-16
+Added Pin To Net: NetName=VCC Pin=U1_S5-10
+Added Pin To Net: NetName=VCC Pin=U1_S5-16
+Added Pin To Net: NetName=VCC Pin=U1_S6-10
+Added Pin To Net: NetName=VCC Pin=U1_S6-16
+Added Pin To Net: NetName=VCC Pin=U1_S7-10
+Added Pin To Net: NetName=VCC Pin=U1_S7-16
+Added Pin To Net: NetName=VCC Pin=U1_S8-10
+Added Pin To Net: NetName=VCC Pin=U1_S8-16
+Added Net: Name=VCC
+Added Pin To Net: NetName=VS Pin=Header1-11
+Added Pin To Net: NetName=VS Pin=Header1-12
+Added Pin To Net: NetName=VS Pin=Header1-23
+Added Pin To Net: NetName=VS Pin=Header1-24
+Added Pin To Net: NetName=VS Pin=Header1-35
+Added Pin To Net: NetName=VS Pin=Header1-36
+Added Pin To Net: NetName=VS Pin=Header2-11
+Added Pin To Net: NetName=VS Pin=Header2-12
+Added Pin To Net: NetName=VS Pin=Header2-23
+Added Pin To Net: NetName=VS Pin=Header2-24
+Added Pin To Net: NetName=VS Pin=Header2-35
+Added Pin To Net: NetName=VS Pin=Header2-36
+Added Pin To Net: NetName=VS Pin=U2_S1-6
+Added Pin To Net: NetName=VS Pin=U2_S2-6
+Added Pin To Net: NetName=VS Pin=U2_S3-6
+Added Pin To Net: NetName=VS Pin=U2_S4-6
+Added Pin To Net: NetName=VS Pin=U2_S5-6
+Added Pin To Net: NetName=VS Pin=U2_S6-6
+Added Pin To Net: NetName=VS Pin=U2_S7-6
+Added Pin To Net: NetName=VS Pin=U2_S8-6
+Added Pin To Net: NetName=VS Pin=U3_S1-6
+Added Pin To Net: NetName=VS Pin=U3_S2-6
+Added Pin To Net: NetName=VS Pin=U3_S3-6
+Added Pin To Net: NetName=VS Pin=U3_S4-6
+Added Pin To Net: NetName=VS Pin=U3_S5-6
+Added Pin To Net: NetName=VS Pin=U3_S6-6
+Added Pin To Net: NetName=VS Pin=U3_S7-6
+Added Pin To Net: NetName=VS Pin=U3_S8-6
+Added Pin To Net: NetName=VS Pin=U4_S1-6
+Added Pin To Net: NetName=VS Pin=U4_S2-6
+Added Pin To Net: NetName=VS Pin=U4_S3-6
+Added Pin To Net: NetName=VS Pin=U4_S4-6
+Added Pin To Net: NetName=VS Pin=U4_S5-6
+Added Pin To Net: NetName=VS Pin=U4_S6-6
+Added Pin To Net: NetName=VS Pin=U4_S7-6
+Added Pin To Net: NetName=VS Pin=U4_S8-6
+Added Pin To Net: NetName=VS Pin=U5_S1-6
+Added Pin To Net: NetName=VS Pin=U5_S2-6
+Added Pin To Net: NetName=VS Pin=U5_S3-6
+Added Pin To Net: NetName=VS Pin=U5_S4-6
+Added Pin To Net: NetName=VS Pin=U5_S5-6
+Added Pin To Net: NetName=VS Pin=U5_S6-6
+Added Pin To Net: NetName=VS Pin=U5_S7-6
+Added Pin To Net: NetName=VS Pin=U5_S8-6
+Added Net: Name=VS
+Added Member To Class: ClassName=S1 Member=Component 1_S1 (1) EMIT
+Added Member To Class: ClassName=S2 Member=Component 1_S2 (1) EMIT
+Added Member To Class: ClassName=S3 Member=Component 1_S3 (1) EMIT
+Added Member To Class: ClassName=S4 Member=Component 1_S4 (1) EMIT
+Added Member To Class: ClassName=S5 Member=Component 1_S5 (1) EMIT
+Added Member To Class: ClassName=S6 Member=Component 1_S6 (1) EMIT
+Added Member To Class: ClassName=S7 Member=Component 1_S7 (1) EMIT
+Added Member To Class: ClassName=S8 Member=Component 1_S8 (1) EMIT
+Added Member To Class: ClassName=S1 Member=Component 2_S1 (2) EMIT
+Added Member To Class: ClassName=S2 Member=Component 2_S2 (2) EMIT
+Added Member To Class: ClassName=S3 Member=Component 2_S3 (2) EMIT
+Added Member To Class: ClassName=S4 Member=Component 2_S4 (2) EMIT
+Added Member To Class: ClassName=S5 Member=Component 2_S5 (2) EMIT
+Added Member To Class: ClassName=S6 Member=Component 2_S6 (2) EMIT
+Added Member To Class: ClassName=S7 Member=Component 2_S7 (2) EMIT
+Added Member To Class: ClassName=S8 Member=Component 2_S8 (2) EMIT
+Added Member To Class: ClassName=S1 Member=Component 3_S1 (3) EMIT
+Added Member To Class: ClassName=S2 Member=Component 3_S2 (3) EMIT
+Added Member To Class: ClassName=S3 Member=Component 3_S3 (3) EMIT
+Added Member To Class: ClassName=S4 Member=Component 3_S4 (3) EMIT
+Added Member To Class: ClassName=S5 Member=Component 3_S5 (3) EMIT
+Added Member To Class: ClassName=S6 Member=Component 3_S6 (3) EMIT
+Added Member To Class: ClassName=S7 Member=Component 3_S7 (3) EMIT
+Added Member To Class: ClassName=S8 Member=Component 3_S8 (3) EMIT
+Added Member To Class: ClassName=S1 Member=Component 4_S1 (4) EMIT
+Added Member To Class: ClassName=S2 Member=Component 4_S2 (4) EMIT
+Added Member To Class: ClassName=S3 Member=Component 4_S3 (4) EMIT
+Added Member To Class: ClassName=S4 Member=Component 4_S4 (4) EMIT
+Added Member To Class: ClassName=S5 Member=Component 4_S5 (4) EMIT
+Added Member To Class: ClassName=S6 Member=Component 4_S6 (4) EMIT
+Added Member To Class: ClassName=S7 Member=Component 4_S7 (4) EMIT
+Added Member To Class: ClassName=S8 Member=Component 4_S8 (4) EMIT
+Added Member To Class: ClassName=S1 Member=Component 5_S1 (5) EMIT
+Added Member To Class: ClassName=S2 Member=Component 5_S2 (5) EMIT
+Added Member To Class: ClassName=S3 Member=Component 5_S3 (5) EMIT
+Added Member To Class: ClassName=S4 Member=Component 5_S4 (5) EMIT
+Added Member To Class: ClassName=S5 Member=Component 5_S5 (5) EMIT
+Added Member To Class: ClassName=S6 Member=Component 5_S6 (5) EMIT
+Added Member To Class: ClassName=S7 Member=Component 5_S7 (5) EMIT
+Added Member To Class: ClassName=S8 Member=Component 5_S8 (5) EMIT
+Added Member To Class: ClassName=S1 Member=Component 6_S1 (6) EMIT
+Added Member To Class: ClassName=S2 Member=Component 6_S2 (6) EMIT
+Added Member To Class: ClassName=S3 Member=Component 6_S3 (6) EMIT
+Added Member To Class: ClassName=S4 Member=Component 6_S4 (6) EMIT
+Added Member To Class: ClassName=S5 Member=Component 6_S5 (6) EMIT
+Added Member To Class: ClassName=S6 Member=Component 6_S6 (6) EMIT
+Added Member To Class: ClassName=S7 Member=Component 6_S7 (6) EMIT
+Added Member To Class: ClassName=S8 Member=Component 6_S8 (6) EMIT
+Added Member To Class: ClassName=S1 Member=Component 7_S1 (7) EMIT
+Added Member To Class: ClassName=S2 Member=Component 7_S2 (7) EMIT
+Added Member To Class: ClassName=S3 Member=Component 7_S3 (7) EMIT
+Added Member To Class: ClassName=S4 Member=Component 7_S4 (7) EMIT
+Added Member To Class: ClassName=S5 Member=Component 7_S5 (7) EMIT
+Added Member To Class: ClassName=S6 Member=Component 7_S6 (7) EMIT
+Added Member To Class: ClassName=S7 Member=Component 7_S7 (7) EMIT
+Added Member To Class: ClassName=S8 Member=Component 7_S8 (7) EMIT
+Added Member To Class: ClassName=S1 Member=Component 8_S1 (8) EMIT
+Added Member To Class: ClassName=S2 Member=Component 8_S2 (8) EMIT
+Added Member To Class: ClassName=S3 Member=Component 8_S3 (8) EMIT
+Added Member To Class: ClassName=S4 Member=Component 8_S4 (8) EMIT
+Added Member To Class: ClassName=S5 Member=Component 8_S5 (8) EMIT
+Added Member To Class: ClassName=S6 Member=Component 8_S6 (8) EMIT
+Added Member To Class: ClassName=S7 Member=Component 8_S7 (8) EMIT
+Added Member To Class: ClassName=S8 Member=Component 8_S8 (8) EMIT
+Add Class Member: Failed to add class member : Component C1_S1 (C1) 0.1 uF
+Add Class Member: Failed to add class member : Component C1_S2 (C1) 0.1 uF
+Add Class Member: Failed to add class member : Component C1_S3 (C1) 0.1 uF
+Add Class Member: Failed to add class member : Component C1_S4 (C1) 0.1 uF
+Add Class Member: Failed to add class member : Component C1_S5 (C1) 0.1 uF
+Add Class Member: Failed to add class member : Component C1_S6 (C1) 0.1 uF
+Add Class Member: Failed to add class member : Component C1_S7 (C1) 0.1 uF
+Add Class Member: Failed to add class member : Component C1_S8 (C1) 0.1 uF
+Add Class Member: Failed to add class member : Component C2_S1 (C2) 0.1 uF
+Add Class Member: Failed to add class member : Component C2_S2 (C2) 0.1 uF
+Add Class Member: Failed to add class member : Component C2_S3 (C2) 0.1 uF
+Add Class Member: Failed to add class member : Component C2_S4 (C2) 0.1 uF
+Add Class Member: Failed to add class member : Component C2_S5 (C2) 0.1 uF
+Add Class Member: Failed to add class member : Component C2_S6 (C2) 0.1 uF
+Add Class Member: Failed to add class member : Component C2_S7 (C2) 0.1 uF
+Add Class Member: Failed to add class member : Component C2_S8 (C2) 0.1 uF
+Add Class Member: Failed to add class member : Component C3_S1 (C3) 0.1 uF
+Add Class Member: Failed to add class member : Component C3_S2 (C3) 0.1 uF
+Add Class Member: Failed to add class member : Component C3_S3 (C3) 0.1 uF
+Add Class Member: Failed to add class member : Component C3_S4 (C3) 0.1 uF
+Add Class Member: Failed to add class member : Component C3_S5 (C3) 0.1 uF
+Add Class Member: Failed to add class member : Component C3_S6 (C3) 0.1 uF
+Add Class Member: Failed to add class member : Component C3_S7 (C3) 0.1 uF
+Add Class Member: Failed to add class member : Component C3_S8 (C3) 0.1 uF
+Add Class Member: Failed to add class member : Component C4_S1 (C4) 0.1 uF
+Add Class Member: Failed to add class member : Component C4_S2 (C4) 0.1 uF
+Add Class Member: Failed to add class member : Component C4_S3 (C4) 0.1 uF
+Add Class Member: Failed to add class member : Component C4_S4 (C4) 0.1 uF
+Add Class Member: Failed to add class member : Component C4_S5 (C4) 0.1 uF
+Add Class Member: Failed to add class member : Component C4_S6 (C4) 0.1 uF
+Add Class Member: Failed to add class member : Component C4_S7 (C4) 0.1 uF
+Add Class Member: Failed to add class member : Component C4_S8 (C4) 0.1 uF
+Add Class Member: Failed to add class member : Component C5_S1 (C5) 0.1 uF
+Add Class Member: Failed to add class member : Component C5_S2 (C5) 0.1 uF
+Add Class Member: Failed to add class member : Component C5_S3 (C5) 0.1 uF
+Add Class Member: Failed to add class member : Component C5_S4 (C5) 0.1 uF
+Add Class Member: Failed to add class member : Component C5_S5 (C5) 0.1 uF
+Add Class Member: Failed to add class member : Component C5_S6 (C5) 0.1 uF
+Add Class Member: Failed to add class member : Component C5_S7 (C5) 0.1 uF
+Add Class Member: Failed to add class member : Component C5_S8 (C5) 0.1 uF
+Added Member To Class: ClassName=ToBreakout Member=Component Header1 2x20 SMT Header B27C
+Added Member To Class: ClassName=ToBreakout Member=Component Header2 2x20 SMT Header B27C
+Added Member To Class: ClassName=S1 Member=Component U1_S1 (U1) 74HC595D
+Added Member To Class: ClassName=S2 Member=Component U1_S2 (U1) 74HC595D
+Added Member To Class: ClassName=S3 Member=Component U1_S3 (U1) 74HC595D
+Added Member To Class: ClassName=S4 Member=Component U1_S4 (U1) 74HC595D
+Added Member To Class: ClassName=S5 Member=Component U1_S5 (U1) 74HC595D
+Added Member To Class: ClassName=S6 Member=Component U1_S6 (U1) 74HC595D
+Added Member To Class: ClassName=S7 Member=Component U1_S7 (U1) 74HC595D
+Added Member To Class: ClassName=S8 Member=Component U1_S8 (U1) 74HC595D
+Added Member To Class: ClassName=S1 Member=Component U2_S1 (U2) MOSFET Driver
+Added Member To Class: ClassName=S2 Member=Component U2_S2 (U2) MOSFET Driver
+Added Member To Class: ClassName=S3 Member=Component U2_S3 (U2) MOSFET Driver
+Added Member To Class: ClassName=S4 Member=Component U2_S4 (U2) MOSFET Driver
+Added Member To Class: ClassName=S5 Member=Component U2_S5 (U2) MOSFET Driver
+Added Member To Class: ClassName=S6 Member=Component U2_S6 (U2) MOSFET Driver
+Added Member To Class: ClassName=S7 Member=Component U2_S7 (U2) MOSFET Driver
+Added Member To Class: ClassName=S8 Member=Component U2_S8 (U2) MOSFET Driver
+Added Member To Class: ClassName=S1 Member=Component U3_S1 (U3) MOSFET Driver
+Added Member To Class: ClassName=S2 Member=Component U3_S2 (U3) MOSFET Driver
+Added Member To Class: ClassName=S3 Member=Component U3_S3 (U3) MOSFET Driver
+Added Member To Class: ClassName=S4 Member=Component U3_S4 (U3) MOSFET Driver
+Added Member To Class: ClassName=S5 Member=Component U3_S5 (U3) MOSFET Driver
+Added Member To Class: ClassName=S6 Member=Component U3_S6 (U3) MOSFET Driver
+Added Member To Class: ClassName=S7 Member=Component U3_S7 (U3) MOSFET Driver
+Added Member To Class: ClassName=S8 Member=Component U3_S8 (U3) MOSFET Driver
+Added Member To Class: ClassName=S1 Member=Component U4_S1 (U4) MOSFET Driver
+Added Member To Class: ClassName=S2 Member=Component U4_S2 (U4) MOSFET Driver
+Added Member To Class: ClassName=S3 Member=Component U4_S3 (U4) MOSFET Driver
+Added Member To Class: ClassName=S4 Member=Component U4_S4 (U4) MOSFET Driver
+Added Member To Class: ClassName=S5 Member=Component U4_S5 (U4) MOSFET Driver
+Added Member To Class: ClassName=S6 Member=Component U4_S6 (U4) MOSFET Driver
+Added Member To Class: ClassName=S7 Member=Component U4_S7 (U4) MOSFET Driver
+Added Member To Class: ClassName=S8 Member=Component U4_S8 (U4) MOSFET Driver
+Added Member To Class: ClassName=S1 Member=Component U5_S1 (U5) MOSFET Driver
+Added Member To Class: ClassName=S2 Member=Component U5_S2 (U5) MOSFET Driver
+Added Member To Class: ClassName=S3 Member=Component U5_S3 (U5) MOSFET Driver
+Added Member To Class: ClassName=S4 Member=Component U5_S4 (U5) MOSFET Driver
+Added Member To Class: ClassName=S5 Member=Component U5_S5 (U5) MOSFET Driver
+Added Member To Class: ClassName=S6 Member=Component U5_S6 (U5) MOSFET Driver
+Added Member To Class: ClassName=S7 Member=Component U5_S7 (U5) MOSFET Driver
+Added Member To Class: ClassName=S8 Member=Component U5_S8 (U5) MOSFET Driver
+Added Member To Class: ClassName=DS[1..8] Member=Element[0]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[0]: DS
+Added Member To Class: ClassName=DS[1..8] Member=Element[1]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[1]: DS
+Added Member To Class: ClassName=DS[1..8] Member=Element[2]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[2]: DS
+Added Member To Class: ClassName=DS[1..8] Member=Element[3]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[3]: DS
+Added Member To Class: ClassName=DS[1..8] Member=Element[4]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[4]: DS
+Added Member To Class: ClassName=DS[1..8] Member=Element[5]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[5]: DS
+Added Member To Class: ClassName=DS[1..8] Member=Element[6]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[6]: DS
+Added Member To Class: ClassName=DS[1..8] Member=Element[7]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[7]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[8]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[9]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[10]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[11]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[12]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[13]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[14]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[15]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[16]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[17]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[18]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[19]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[20]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[21]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[22]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[23]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[24]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[25]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[26]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[27]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[28]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[29]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[30]: DS
+Added Member To Class: ClassName=DS[1..32] Member=Element[31]: DS

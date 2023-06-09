@@ -1,0 +1,44 @@
+Added Component: Designator=Daisy Chain(1X02_LOCK_)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J8(SWITCHCRAFT_35RASMT4BHNTRX)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Switchcraft'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "35RASMT4BHNTRX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J9(SWITCHCRAFT_35RASMT4BHNTRX)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Switchcraft'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "35RASMT4BHNTRX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MS(1X02_LOCK_)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J9-1
+Added Pin To Net: NetName=GND Pin=MS-2
+Change Net Name : Old Net Name=Net38_P$1 New Net Name=IO_38
+Change Net Name : Old Net Name=Net42_P$1 New Net Name=IO_42
+Change Net Name : Old Net Name=Net43_P$1 New Net Name=IO_43
+Added Pin To Net: NetName=MS Pin=39-P$1
+Added Pin To Net: NetName=MS Pin=EP4CE6-60
+Added Pin To Net: NetName=MS Pin=MS-1
+Added Net: Name=MS
+Added Pin To Net: NetName=Passthrough'd_Sync Pin=Daisy Chain-2
+Added Pin To Net: NetName=Passthrough'd_Sync Pin=J9-2
+Added Net: Name=Passthrough'd_Sync
+Added Pin To Net: NetName=SYNC Pin=33-P$1
+Added Pin To Net: NetName=SYNC Pin=Daisy Chain-1
+Added Pin To Net: NetName=SYNC Pin=EP4CE6-61
+Added Pin To Net: NetName=SYNC Pin=J8-2
+Added Net: Name=SYNC
+Added Member To Class: ClassName=Headers_Controller Member=Component Daisy Chain Short to Daisy Chain Sync
+Added Member To Class: ClassName=Headers_Controller Member=Component J8 35RASMT4BHNTRX
+Added Member To Class: ClassName=Headers_Controller Member=Component J9 35RASMT4BHNTRX
+Added Member To Class: ClassName=Headers_Controller Member=Component MS Short this to emit a clock signal from SYNC, else make SYNC an input

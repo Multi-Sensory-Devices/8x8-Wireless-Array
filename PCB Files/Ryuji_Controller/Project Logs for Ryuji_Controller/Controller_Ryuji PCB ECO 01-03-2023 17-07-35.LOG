@@ -1,0 +1,253 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=J? NewDesignator=J5
+Change Component Designator: OldDesignator=J? NewDesignator=J6
+Change Component Designator: OldDesignator=J? NewDesignator=J7
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=VR? NewDesignator=VR1
+Add Component: Footprint Not Found 1X03
+Added Component: Designator=T1(PAD.03X.05)
+Added Component: Designator=T2(PAD.03X.05)
+Added Component: Designator=T3(PAD.03X.05)
+Added Component: Designator=T4(PAD.03X.05)
+Added Component: Designator=T5(PAD.03X.05)
+Added Component: Designator=T6(PAD.03X.05)
+Added Component: Designator=T7(PAD.03X.05)
+Added Component: Designator=T8(PAD.03X.05)
+Added Component: Designator=T9(PAD.03X.05)
+Added Component: Designator=T10(PAD.03X.05)
+Added Component: Designator=T11(PAD.03X.05)
+Added Component: Designator=T12(PAD.03X.05)
+Added Component: Designator=T13(PAD.03X.05)
+Added Component: Designator=T14(PAD.03X.05)
+Added Component: Designator=T15(PAD.03X.05)
+Added Component: Designator=T16(PAD.03X.05)
+Added Component: Designator=T17(PAD.03X.05)
+Added Component: Designator=T18(PAD.03X.05)
+Added Component: Designator=T19(PAD.03X.05)
+Added Component: Designator=T20(PAD.03X.05)
+Added Component: Designator=T21(PAD.03X.05)
+Added Component: Designator=T22(PAD.03X.05)
+Added Component: Designator=T23(PAD.03X.05)
+Added Component: Designator=T24(PAD.03X.05)
+Added Component: Designator=T25(PAD.03X.05)
+Added Component: Designator=T26(PAD.03X.05)
+Added Component: Designator=T27(PAD.03X.05)
+Added Component: Designator=T28(PAD.03X.05)
+Added Component: Designator=T29(PAD.03X.05)
+Added Component: Designator=T30(PAD.03X.05)
+Added Component: Designator=T31(PAD.03X.05)
+Added Component: Designator=T32(PAD.03X.05)
+Added Component: Designator=T33(PAD.03X.05)
+Added Component: Designator=T34(PAD.03X.05)
+Added Component: Designator=T35(PAD.03X.05)
+Added Component: Designator=T36(PAD.03X.05)
+Added Component: Designator=T37(PAD.03X.05)
+Added Component: Designator=T38(PAD.03X.05)
+Added Component: Designator=T39(PAD.03X.05)
+Added Component: Designator=T40(PAD.03X.05)
+Added Component: Designator=T41(PAD.03X.05)
+Added Component: Designator=T42(PAD.03X.05)
+Added Component: Designator=T43(PAD.03X.05)
+Added Component: Designator=T44(PAD.03X.05)
+Added Component: Designator=T45(PAD.03X.05)
+Added Component: Designator=T46(PAD.03X.05)
+Added Component: Designator=T47(PAD.03X.05)
+Added Component: Designator=T48(PAD.03X.05)
+Added Component: Designator=T49(PAD.03X.05)
+Added Component: Designator=T50(PAD.03X.05)
+Added Component: Designator=T51(PAD.03X.05)
+Added Component: Designator=T52(PAD.03X.05)
+Added Component: Designator=T53(PAD.03X.05)
+Added Component: Designator=T54(PAD.03X.05)
+Added Component: Designator=T55(PAD.03X.05)
+Added Component: Designator=T56(PAD.03X.05)
+Added Component: Designator=T57(PAD.03X.05)
+Added Component: Designator=T58(PAD.03X.05)
+Added Component: Designator=T59(PAD.03X.05)
+Added Component: Designator=T60(PAD.03X.05)
+Added Component: Designator=T61(PAD.03X.05)
+Added Component: Designator=T62(PAD.03X.05)
+Added Component: Designator=T63(PAD.03X.05)
+Added Component: Designator=T64(PAD.03X.05)
+Added Component: Designator=T65(PAD.03X.05)
+Added Component: Designator=T66(PAD.03X.05)
+Added Component: Designator=T67(PAD.03X.05)
+Added Component: Designator=T68(PAD.03X.05)
+Added Component: Designator=T69(PAD.03X.05)
+Added Component: Designator=T70(PAD.03X.05)
+Added Component: Designator=T71(PAD.03X.05)
+Added Component: Designator=T72(PAD.03X.05)
+Added Component: Designator=T73(PAD.03X.05)
+Added Component: Designator=T74(PAD.03X.05)
+Added Component: Designator=T75(PAD.03X.05)
+Added Component: Designator=T76(PAD.03X.05)
+Added Component: Designator=T77(PAD.03X.05)
+Added Component: Designator=T78(PAD.03X.05)
+Added Component: Designator=T79(PAD.03X.05)
+Add Pin To Net: Unknown Pin: Pin 5V_SEL-1
+Add Pin To Net: Unknown Pin: Pin 5V_SEL-2
+Add Pin To Net: Unknown Pin: Pin 5V_SEL-3
+Added Pin To Net: NetName=sigA30 Pin=T1-P$1
+Added Pin To Net: NetName=sigB29 Pin=T2-P$1
+Added Pin To Net: NetName=sigB30 Pin=T3-P$1
+Added Pin To Net: NetName=sigA29 Pin=T4-P$1
+Added Pin To Net: NetName=sigA26 Pin=T5-P$1
+Added Pin To Net: NetName=TXD Pin=T6-P$1
+Added Pin To Net: NetName=sigB25 Pin=T7-P$1
+Added Pin To Net: NetName=sigB26 Pin=T8-P$1
+Added Pin To Net: NetName=RXD Pin=T9-P$1
+Added Pin To Net: NetName=sigA25 Pin=T10-P$1
+Added Pin To Net: NetName=sigA22 Pin=T11-P$1
+Added Pin To Net: NetName=D5 Pin=T12-P$1
+Added Pin To Net: NetName=MISO Pin=T13-P$1
+Added Pin To Net: NetName=sigB21 Pin=T14-P$1
+Added Pin To Net: NetName=sigB22 Pin=T15-P$1
+Added Pin To Net: NetName=D6 Pin=T16-P$1
+Added Pin To Net: NetName=MOSI Pin=T17-P$1
+Added Pin To Net: NetName=sigA21 Pin=T18-P$1
+Added Pin To Net: NetName=sigA18 Pin=T19-P$1
+Added Pin To Net: NetName=D9 Pin=T20-P$1
+Added Pin To Net: NetName=SCK Pin=T21-P$1
+Added Pin To Net: NetName=sigB17 Pin=T22-P$1
+Added Pin To Net: NetName=sigB18 Pin=T23-P$1
+Added Pin To Net: NetName=D10 Pin=T24-P$1
+Added Pin To Net: NetName=sigA17 Pin=T25-P$1
+Added Pin To Net: NetName=D11 Pin=T26-P$1
+Added Pin To Net: NetName=D12 Pin=T27-P$1
+Added Pin To Net: NetName=sigA14 Pin=T28-P$1
+Added Pin To Net: NetName=sigB13 Pin=T29-P$1
+Added Pin To Net: NetName=sigB14 Pin=T30-P$1
+Added Pin To Net: NetName=sigA13 Pin=T31-P$1
+Added Pin To Net: NetName=sigA10 Pin=T32-P$1
+Added Pin To Net: NetName=sigB9 Pin=T33-P$1
+Added Pin To Net: NetName=sigB10 Pin=T34-P$1
+Added Pin To Net: NetName=sigA9 Pin=T35-P$1
+Added Pin To Net: NetName=sigA6 Pin=T36-P$1
+Added Pin To Net: NetName=sigB5 Pin=T37-P$1
+Added Pin To Net: NetName=sigB6 Pin=T38-P$1
+Added Pin To Net: NetName=sigA5 Pin=T39-P$1
+Added Pin To Net: NetName=sigA2 Pin=T40-P$1
+Added Pin To Net: NetName=sigB1 Pin=T41-P$1
+Added Pin To Net: NetName=sigB2 Pin=T42-P$1
+Added Pin To Net: NetName=sigA1 Pin=T43-P$1
+Added Pin To Net: NetName=sigA32 Pin=T44-P$1
+Added Pin To Net: NetName=sigB31 Pin=T45-P$1
+Added Pin To Net: NetName=sigB32 Pin=T46-P$1
+Added Pin To Net: NetName=sigA31 Pin=T47-P$1
+Added Pin To Net: NetName=sigA28 Pin=T48-P$1
+Added Pin To Net: NetName=sigB27 Pin=T49-P$1
+Added Pin To Net: NetName=sigB28 Pin=T50-P$1
+Added Pin To Net: NetName=sigA27 Pin=T51-P$1
+Added Pin To Net: NetName=sigA24 Pin=T52-P$1
+Added Pin To Net: NetName=SCL Pin=T53-P$1
+Added Pin To Net: NetName=sigB23 Pin=T54-P$1
+Added Pin To Net: NetName=sigB24 Pin=T55-P$1
+Added Pin To Net: NetName=SDA Pin=T56-P$1
+Added Pin To Net: NetName=sigA23 Pin=T57-P$1
+Added Pin To Net: NetName=sigA20 Pin=T58-P$1
+Added Pin To Net: NetName=sigB19 Pin=T59-P$1
+Added Pin To Net: NetName=sigB20 Pin=T60-P$1
+Added Pin To Net: NetName=sigA19 Pin=T61-P$1
+Added Pin To Net: NetName=PDO2 Pin=T62-P$1
+Added Pin To Net: NetName=PDO3 Pin=T63-P$1
+Added Pin To Net: NetName=sigA16 Pin=T64-P$1
+Added Pin To Net: NetName=sigB15 Pin=T65-P$1
+Added Pin To Net: NetName=sigB16 Pin=T66-P$1
+Added Pin To Net: NetName=sigA15 Pin=T67-P$1
+Added Pin To Net: NetName=sigA12 Pin=T68-P$1
+Added Pin To Net: NetName=sigB11 Pin=T69-P$1
+Added Pin To Net: NetName=sigB12 Pin=T70-P$1
+Added Pin To Net: NetName=sigA11 Pin=T71-P$1
+Added Pin To Net: NetName=sigA8 Pin=T72-P$1
+Added Pin To Net: NetName=sigB7 Pin=T73-P$1
+Added Pin To Net: NetName=sigB8 Pin=T74-P$1
+Added Pin To Net: NetName=sigA7 Pin=T75-P$1
+Added Pin To Net: NetName=sigA4 Pin=T76-P$1
+Added Pin To Net: NetName=sigB3 Pin=T77-P$1
+Added Pin To Net: NetName=sigB4 Pin=T78-P$1
+Added Pin To Net: NetName=sigA3 Pin=T79-P$1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR1_1
+Add Class Member: Failed to add class member : Component 5V_SEL Connect jumper to the 5V desired source
+Added Member To Class: ClassName=Headers_Controller Member=Component C1 GRM32ER71A476ME15L
+Added Member To Class: ClassName=Headers_Controller Member=Component J5 pull out
+Added Member To Class: ClassName=Headers_Controller Member=Component J7 Pin pullout
+Added Member To Class: ClassName=Headers_Controller Member=Component T1 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T2 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T3 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T4 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T5 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T6 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T7 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T8 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T9 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T10 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T11 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T12 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T13 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T14 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T15 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T16 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T17 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T18 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T19 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T20 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T21 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T22 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T23 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T24 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T25 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T26 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T27 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T28 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T29 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T30 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T31 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T32 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T33 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T34 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T35 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T36 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T37 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T38 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T39 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T40 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T41 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T42 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T43 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T44 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T45 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T46 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T47 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T48 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T49 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T50 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T51 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T52 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T53 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T54 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T55 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T56 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T57 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T58 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T59 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T60 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T61 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T62 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T63 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T64 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T65 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T66 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T67 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T68 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T69 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T70 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T71 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T72 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T73 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T74 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T75 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T76 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T77 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T78 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component T79 TEST-POINT3X5

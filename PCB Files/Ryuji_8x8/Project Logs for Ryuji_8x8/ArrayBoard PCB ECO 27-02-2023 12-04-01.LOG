@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=1.16 NewDesignator=30
+Change Component Designator: OldDesignator=1.17 NewDesignator=28
+Change Component Designator: OldDesignator=1.23 NewDesignator=24
+Change Component Designator: OldDesignator=1.24 NewDesignator=26
+Change Component Designator: OldDesignator=2.16 NewDesignator=29
+Change Component Designator: OldDesignator=2.17 NewDesignator=27
+Change Component Designator: OldDesignator=2.23 NewDesignator=23
+Change Component Designator: OldDesignator=2.24 NewDesignator=25
+Change Class Name : Old Net Name=1.16_Nets New Net Name=30_Nets
+Change Class Name : Old Net Name=1.17_Nets New Net Name=28_Nets
+Change Class Name : Old Net Name=1.23_Nets New Net Name=24_Nets
+Change Class Name : Old Net Name=1.24_Nets New Net Name=26_Nets
+Change Class Name : Old Net Name=2.16_Nets New Net Name=29_Nets
+Change Class Name : Old Net Name=2.17_Nets New Net Name=27_Nets
+Change Class Name : Old Net Name=2.23_Nets New Net Name=23_Nets
+Change Class Name : Old Net Name=2.24_Nets New Net Name=25_Nets

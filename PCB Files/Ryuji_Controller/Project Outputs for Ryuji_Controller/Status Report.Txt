@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Ryuji_Controller.PrjPcb]
+   Generated File[Controller_Ryuji.TXT]
+   Generated File[Controller_Ryuji.LDP]
+   Generated File[Controller_Ryuji.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:01:12 On 20/03/2023

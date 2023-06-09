@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VBUS_Feather Pin=VBUS_Jumper-2
+Change Component Comment : Designator=Master Old Comment= New Comment=Connect for Master
+Change Component Comment : Designator=Slave Old Comment= New Comment=Connect for Slave
+Added Pin To Net: NetName=MS Pin=Master-1
+Added Pin To Net: NetName=GND Pin=Master-2
+Added Pin To Net: NetName=NetSlave_1 Pin=Slave-1
+Added Pin To Net: NetName=NetSlave_1 Pin=TP1-P$1
+Added Net: Name=NetSlave_1
+Added Pin To Net: NetName=NetSlave_2 Pin=Slave-2
+Added Pin To Net: NetName=NetSlave_2 Pin=TP2-P$1
+Added Net: Name=NetSlave_2
+Added Member To Class: ClassName=Headers_Controller Member=Component Master Connect for Master
+Added Member To Class: ClassName=Headers_Controller Member=Component Slave Connect for Slave

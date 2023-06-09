@@ -1,0 +1,20 @@
+Importer Log Report
+Project : Adafruit nRF52840 Bluefruit Feather Express Rev D.PrjPcb
+
+Section : Analyze Document - C:\Users\benka\Dropbox\DeskPCB\Ryuji_Controller\Resources\Adafruit nRF52840 Bluefruit Feather Express Rev D.brd
+    Analyzing data of C:\Users\benka\Dropbox\DeskPCB\Ryuji_Controller\Resources\Adafruit nRF52840 Bluefruit Feather Express Rev D.brd
+    Load settings
+    Load layers 152
+    Load board
+    Load Library "microbuilder"
+    Load Packages 18
+    Load Library "adafruit2"
+    Load Packages 1
+    Load Library "testpad"
+    Load Packages 2
+    ERROR: Unhandled typepackages3d
+    Load Library "feather_silks"
+    Load Packages 2
+    ERROR: Unhandled typemfgpreviewcolors
+    ERROR: Unhandled typeerrors
+EndSection

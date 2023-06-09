@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=SCK Pin=EP4CE6-62
+Added Pin To Net: NetName=RXD Pin=EP4CE6-63
+Added Pin To Net: NetName=MOSI Pin=EP4CE6-64
+Added Pin To Net: NetName=TXD Pin=EP4CE6-65
+Added Pin To Net: NetName=MISO Pin=EP4CE6-66

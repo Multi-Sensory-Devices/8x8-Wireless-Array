@@ -1,0 +1,357 @@
+Removed Pin From Net: NetName=3.3V Pin=MS1-2
+Removed Pin From Net: NetName=A0 Pin=MS1-5
+Removed Pin From Net: NetName=A1 Pin=MS1-6
+Removed Pin From Net: NetName=D13 Pin=MS1-25
+Removed Pin From Net: NetName=GND Pin=MS2-23
+Added Component: Designator=3V3_EN(SMT-JUMPER_2_NC_TRACE_SILK)
+Add Component: Footprint Not Found 1X03
+Added Component: Designator=C?(CAP0805)
+Add component (AddParameter): Name = "PROD_ID"; Value = "CAP-08280"; VariantName = "[No Variations]"
+Added Component: Designator=C?(EIA6032-NOM)
+Add component (AddParameter): Name = "PROD_ID"; Value = "CAP-09538"; VariantName = "[No Variations]"
+Added Component: Designator=J?(1X10 _ LOCK)
+Added Component: Designator=J?(1X06_LOCK)
+Added Component: Designator=J?(1X04_LOCK)
+Add component (AddParameter): Name = "PROD_ID"; Value = "CONN-09696"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-0805)
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRCW0603470RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OC_MOUSER"; Value = "71-CRCW0603-470-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "Resistor"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Add Component: Footprint Not Found PAD.03X.05
+Added Component: Designator=VR?(OOKA-78SR)
+Add component (AddParameter): Name = "Datasheet"; Value = "http://www.farnell.com/datasheets/1904473.pdf?_ga=2.85272922.296638663.1549285494-96194751.1546862067"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline Package 2.54 mm Pitch, 15.1 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "D2PAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=VS_Jumper(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=VS(LED-0805 - RED)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://docs-emea.rs-online.com/webdocs/1302/0900766b81302e21.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "0805"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=3V3_EN-1
+Add Pin To Net: Unknown Pin: Pin 5V_SEL-2
+Added Pin To Net: NetName=VS Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VBAT Pin=J?-1
+Added Pin To Net: NetName=VBUS Pin=J?-3
+Added Pin To Net: NetName=D13 Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=A0 Pin=J?-5
+Added Pin To Net: NetName=A1 Pin=J?-6
+Added Pin To Net: NetName=A2 Pin=J?-7
+Added Pin To Net: NetName=A3 Pin=J?-8
+Added Pin To Net: NetName=A4 Pin=J?-9
+Added Pin To Net: NetName=A5 Pin=J?-10
+Added Pin To Net: NetName=SCL Pin=MS3-1
+Added Pin To Net: NetName=SDA Pin=MS3-2
+Added Pin To Net: NetName=GND Pin=MS3-4
+Added Pin To Net: NetName=GND Pin=MS3-8
+Added Pin To Net: NetName=GND Pin=MS3-8
+Added Pin To Net: NetName=GND Pin=MS3-8
+Added Pin To Net: NetName=GND Pin=R?-2
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Add Pin To Net: Unknown Pin: Pin T?-P$1
+Added Pin To Net: NetName=GND Pin=VR?-GND
+Added Pin To Net: NetName=VS Pin=VR?-IN
+Added Pin To Net: NetName=VS Pin=VS-+
+Added Pin To Net: NetName=VS Pin=VS_Jumper-2
+Added Pin To Net: NetName=EXT_5V Pin=VR?-OUT
+Added Net: Name=EXT_5V
+Added Pin To Net: NetName=Feather_3V3 Pin=MS1-2
+Added Net: Name=Feather_3V3
+Added Pin To Net: NetName=Feather_3V4 Pin=J?-2
+Added Net: Name=Feather_3V4
+Added Pin To Net: NetName=Feather_AREF Pin=J?-3
+Added Pin To Net: NetName=Feather_AREF Pin=MS1-3
+Added Net: Name=Feather_AREF
+Added Pin To Net: NetName=Feather_EN Pin=3V3_EN-2
+Added Pin To Net: NetName=Feather_EN Pin=J?-2
+Added Pin To Net: NetName=Feather_EN Pin=MS1-27
+Added Net: Name=Feather_EN
+Added Pin To Net: NetName=Feather_RESET Pin=J?-1
+Added Pin To Net: NetName=Feather_RESET Pin=MS1-1
+Added Net: Name=Feather_RESET
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=VS--
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=PD_A\L\E\R\T\ Pin=J?-3
+Added Pin To Net: NetName=PD_A\L\E\R\T\ Pin=MS3-11
+Added Net: Name=PD_A\L\E\R\T\
+Added Pin To Net: NetName=PD_D+ Pin=J?-4
+Added Pin To Net: NetName=PD_D+ Pin=MS3-10
+Added Net: Name=PD_D+
+Added Pin To Net: NetName=PD_D- Pin=J?-5
+Added Pin To Net: NetName=PD_D- Pin=MS3-9
+Added Net: Name=PD_D-
+Added Pin To Net: NetName=PD_G\P\I\O\ Pin=J?-1
+Added Pin To Net: NetName=PD_G\P\I\O\ Pin=MS3-13
+Added Net: Name=PD_G\P\I\O\
+Added Pin To Net: NetName=PD_RESET Pin=J?-2
+Added Pin To Net: NetName=PD_RESET Pin=MS3-12
+Added Net: Name=PD_RESET
+Added Pin To Net: NetName=PD_VIN Pin=J?-6
+Added Pin To Net: NetName=PD_VIN Pin=MS3-7
+Added Net: Name=PD_VIN
+Added Pin To Net: NetName=PDO2 Pin=MS1-6
+Added Pin To Net: NetName=PDO2 Pin=MS3-5
+Added Net: Name=PDO2
+Added Pin To Net: NetName=PDO3 Pin=MS1-5
+Added Pin To Net: NetName=PDO3 Pin=MS3-6
+Added Net: Name=PDO3
+Added Pin To Net: NetName=sigA6 Pin=J2-12
+Added Net: Name=sigA6
+Added Pin To Net: NetName=VDD Pin=MS3-3
+Added Net: Name=VDD
+Added Pin To Net: NetName=VSINK Pin=MS3-14
+Added Pin To Net: NetName=VSINK Pin=MS3-14
+Added Pin To Net: NetName=VSINK Pin=VS_Jumper-1
+Added Net: Name=VSINK
+Added Member To Class: ClassName=Headers_Controller Member=Component 3V3_EN Normally closed trace jumper    This jumper has a trace between two pads so it's normally closed (NC). Use a razor knife to open the connection. For best results follow the IPC guidelines for cutting traces: Cutout at least 0.063 mm (0.005 in).  Remove all loose material to clean up the cut area.  Seal the cut with an approved epoxy.       Reapply solder to reclose the connection.
+Add Class Member: Failed to add class member : Component 5V_SEL Connect jumper to the 5V desired source
+Added Member To Class: ClassName=Headers_Controller Member=Component C? 0.33uF
+Added Member To Class: ClassName=Headers_Controller Member=Component C? GRM32ER71A476ME15L
+Added Member To Class: ClassName=Headers_Controller Member=Component J? pull out
+Added Member To Class: ClassName=Headers_Controller Member=Component J? Pin pullout
+Added Member To Class: ClassName=Headers_Controller Member=Component J? Pulled out pins
+Added Member To Class: ClassName=Headers_Controller Member=Component R? 3K BOURNS CRT0805-BY-3001ELF
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Add Class Member: Failed to add class member : Component T? TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component VR? OKI-78SR-5
+Added Member To Class: ClassName=Headers_Controller Member=Component VS_Jumper Short to connect VS to Vsink, open to add filters
+Added Member To Class: ClassName=Headers_Controller Member=Component VS Red WURTH 150080RS75000

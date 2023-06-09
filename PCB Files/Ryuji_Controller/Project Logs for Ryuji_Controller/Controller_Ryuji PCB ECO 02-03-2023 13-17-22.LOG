@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=MS1 NewDesignator=nRF52480
+Change Component Designator: OldDesignator=MS2 NewDesignator=EP4CE6
+Change Component Designator: OldDesignator=MS3 NewDesignator=PD SINK
+Change Component Designator: OldDesignator=VR1 NewDesignator=5VREG

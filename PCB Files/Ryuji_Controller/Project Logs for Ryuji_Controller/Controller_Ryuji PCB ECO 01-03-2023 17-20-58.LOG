@@ -1,0 +1,19 @@
+Added Component: Designator=MS3(Sparkfun STUSB4500)
+Added Pin To Net: NetName=SCL Pin=MS3-1
+Added Pin To Net: NetName=SDA Pin=MS3-2
+Added Pin To Net: NetName=VDD Pin=MS3-3
+Added Pin To Net: NetName=GND Pin=MS3-4
+Added Pin To Net: NetName=PDO2 Pin=MS3-5
+Added Pin To Net: NetName=PDO3 Pin=MS3-6
+Added Pin To Net: NetName=PD_VIN Pin=MS3-7
+Added Pin To Net: NetName=GND Pin=MS3-8
+Added Pin To Net: NetName=GND Pin=MS3-8
+Added Pin To Net: NetName=GND Pin=MS3-8
+Added Pin To Net: NetName=PD_D- Pin=MS3-9
+Added Pin To Net: NetName=PD_D+ Pin=MS3-10
+Added Pin To Net: NetName=PD_A\L\E\R\T\ Pin=MS3-11
+Added Pin To Net: NetName=PD_RESET Pin=MS3-12
+Added Pin To Net: NetName=PD_G\P\I\O\ Pin=MS3-13
+Added Pin To Net: NetName=VSINK Pin=MS3-14
+Added Pin To Net: NetName=VSINK Pin=MS3-14
+Added Member To Class: ClassName=Headers_Controller Member=Component MS3 Sparkfun STUSB4500

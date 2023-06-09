@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=IO_39 Pin=39-P$1
+Removed Pin From Net: NetName=IO_43 Pin=43-P$1
+Removed Pin From Net: NetName=SYNC Pin=DSync-02
+Removed Pin From Net: NetName=D9 Pin=EP4CE6-71
+Removed Pin From Net: NetName=D10 Pin=EP4CE6-72
+Removed Pin From Net: NetName=D5 Pin=EP4CE6-73
+Removed Pin From Net: NetName=D6 Pin=EP4CE6-74
+Removed Member From Class: ClassName=Headers_Controller Member=39
+Removed Member From Class: ClassName=Headers_Controller Member=43
+Removed Member From Class: ClassName=Headers_Controller Member=DIO
+Removed Member From Class: ClassName=Headers_Controller Member=DSync
+Change Component Designator: OldDesignator=MS NewDesignator=Master
+Added Component: Designator=J?(1X06_LOCK)
+Added Component: Designator=LINK_A(SMT-JUMPER_2_NC_TRACE_SILK)
+Added Component: Designator=LINK_B(SMT-JUMPER_2_NC_TRACE_SILK)
+Add Component: Footprint Not Found 2X8_NOSILK
+Added Component: Designator=R2(RES-0805)
+Add component (AddParameter): Name = "MF"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "CRCW0603470RFKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "OC_MOUSER"; Value = "71-CRCW0603-470-E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = "Resistor"; VariantName = "[No Variations]"
+Added Component: Designator=Slave(SAMTEC_TSW-102-09-G-S-RA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samtec Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-102-09-G-S-RA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP1(PAD.03X.05)
+Added Component: Designator=TP2(PAD.03X.05)
+Added Pin To Net: NetName=SYNC Pin=LINK_A-2
+Add Pin To Net: Unknown Pin: Pin MONITOR-1
+Add Pin To Net: Unknown Pin: Pin MONITOR-2
+Add Pin To Net: Unknown Pin: Pin MONITOR-3
+Add Pin To Net: Unknown Pin: Pin MONITOR-4
+Add Pin To Net: Unknown Pin: Pin MONITOR-7
+Add Pin To Net: Unknown Pin: Pin MONITOR-8
+Add Pin To Net: Unknown Pin: Pin MONITOR-9
+Add Pin To Net: Unknown Pin: Pin MONITOR-10
+Add Pin To Net: Unknown Pin: Pin MONITOR-13
+Add Pin To Net: Unknown Pin: Pin MONITOR-14
+Add Pin To Net: Unknown Pin: Pin MONITOR-15
+Add Pin To Net: Unknown Pin: Pin MONITOR-16
+Added Pin To Net: NetName=MS Pin=R2-1
+Added Pin To Net: NetName=3.3V Pin=R2-2
+Added Pin To Net: NetName=IO_1 Pin=EP4CE6-73
+Added Net: Name=IO_1
+Added Pin To Net: NetName=IO_2 Pin=EP4CE6-74
+Added Net: Name=IO_2
+Added Pin To Net: NetName=IO_3 Pin=EP4CE6-71
+Added Net: Name=IO_3
+Added Pin To Net: NetName=IO_7 Pin=EP4CE6-72
+Added Net: Name=IO_7
+Added Pin To Net: NetName=MISC_SYNC Pin=EP4CE6-57
+Added Pin To Net: NetName=MISC_SYNC Pin=LINK_A-3
+Added Pin To Net: NetName=MISC_SYNC Pin=LINK_B-2
+Added Net: Name=MISC_SYNC
+Added Pin To Net: NetName=NetLINK_A_1 Pin=LINK_A-1
+Added Pin To Net: NetName=NetLINK_A_1 Pin=LINK_B-2
+Added Net: Name=NetLINK_A_1
+Added Pin To Net: NetName=NetLINK_B_1 Pin=LINK_B-1
+Added Pin To Net: NetName=NetLINK_B_1 Pin=LINK_B-3
+Added Net: Name=NetLINK_B_1
+Added Pin To Net: NetName=NetSlave_01 Pin=Slave-01
+Added Pin To Net: NetName=NetSlave_01 Pin=TP1-P$1
+Added Net: Name=NetSlave_01
+Added Pin To Net: NetName=NetSlave_02 Pin=Slave-02
+Added Pin To Net: NetName=NetSlave_02 Pin=TP2-P$1
+Added Net: Name=NetSlave_02
+Added Member To Class: ClassName=Headers_Controller Member=Component J? Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)   Arduino Stackable Header - 6 Pin (PRT-09280)        For SCREWTERMINALS and SPRING TERMINALS visit here:  Screw Terimnals on SparkFun.com (5mm/3.5mm/2.54mm spacing)       This device is also useful as a general connection point to wire up your design to another part of your project. Our various solder wires solder well into these plated through hole pads.  Hook-Up Wire - Assortment (Stranded, 22 AWG) (PRT-11375)   Hook-Up Wire - Assortment (Solid Core, 22 AWG) (PRT-11367)   View the entire wire category on our website here
+Added Member To Class: ClassName=Headers_Controller Member=Component LINK_A 35RASMT4BHNTRX
+Added Member To Class: ClassName=Headers_Controller Member=Component LINK_B 35RASMT4BHNTRX
+Add Class Member: Failed to add class member : Component MONITOR Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections    You can populate with any combo of single row headers, but if you'd like an exact match, check this:  Header - 2x8 (Male, 0.1") (PRT-13156)       On any of the 0.1 inch spaced packages, you can populate with these:  Break Away Headers - Straight (PRT-00116)   Break Away Male Headers - Right Angle (PRT-00553)   Female Headers (PRT-00115)   Break Away Headers - Machine Pin (PRT-00117)   Break Away Female Headers - Swiss Machine Pin (PRT-00743)
+Added Member To Class: ClassName=Headers_Controller Member=Component R2 10K
+Added Member To Class: ClassName=Headers_Controller Member=Component Slave TSW-102-09-G-S-RA
+Added Member To Class: ClassName=Headers_Controller Member=Component TP1 TEST-POINT3X5
+Added Member To Class: ClassName=Headers_Controller Member=Component TP2 TEST-POINT3X5

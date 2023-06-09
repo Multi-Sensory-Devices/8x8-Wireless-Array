@@ -1,0 +1,46 @@
+Importer Log Report
+Project : SparkFun_STUSB4500_USB-PD.PrjPcb
+
+Section : Analyze Document - C:\Users\benka\Dropbox\DeskPCB\Ryuji_Controller\Resources\SparkFun_STUSB4500_USB-PD.brd
+    Analyzing data of C:\Users\benka\Dropbox\DeskPCB\Ryuji_Controller\Resources\SparkFun_STUSB4500_USB-PD.brd
+    Load settings
+    Load layers 138
+    Load board
+    Load Library "SparkFun-Capacitors"
+    Load Packages 1
+    Load Library "SparkFun-Aesthetics"
+    Load Packages 6
+    Load Library "SparkFun-Connectors"
+    Load Packages 6
+    Load Library "SparkFun-Jumpers"
+    Load Packages 2
+    ERROR: Unhandled typepackages3d
+    Load Library "SparkFun-DiscreteSemi"
+    Load Packages 3
+    Load Library "SparkFun-Resistors"
+    Load Packages 1
+    Load Library "SparkFun-Switches"
+    Load Packages 1
+    Load Library "SparkFun-IC-Power"
+    Load Packages 1
+    Load Library "SparkFun-LED"
+    Load Packages 1
+    Load Library "SparkFun-Hardware"
+    Load Packages 1
+    Load Library "buzzard_labels (2)"
+    Load Packages 3
+    Load Library "buzzard_labels (3)"
+    Load Packages 5
+    Load Library "buzzard_labels (4)"
+    Load Packages 7
+    Load Library "buzzard_labels (7)"
+    Load Packages 2
+    Load Library "buzzard_labels (10)"
+    Load Packages 3
+    Load Library "buzzard_labels"
+    Load Packages 2
+    Load Library "buzzard_labels (1)"
+    Load Packages 2
+    ERROR: Unhandled typemfgpreviewcolors
+    ERROR: Unhandled typeerrors
+EndSection

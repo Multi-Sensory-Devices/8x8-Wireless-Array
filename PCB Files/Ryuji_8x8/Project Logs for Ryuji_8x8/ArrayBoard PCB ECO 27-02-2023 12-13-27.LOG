@@ -1,0 +1,80 @@
+Change Component Designator: OldDesignator=21 NewDesignator=19
+Change Component Designator: OldDesignator=22 NewDesignator=20
+Change Class Name : Old Net Name=21_Nets New Net Name=19_Nets
+Change Class Name : Old Net Name=22_Nets New Net Name=20_Nets
+Change Class Name : Old Net Name=23_Nets New Net Name=2.23_Nets
+Change Class Name : Old Net Name=24_Nets New Net Name=1.23_Nets
+Change Class Name : Old Net Name=25_Nets New Net Name=2.24_Nets
+Change Class Name : Old Net Name=26_Nets New Net Name=1.24_Nets
+Change Class Name : Old Net Name=27_Nets New Net Name=2.17_Nets
+Change Class Name : Old Net Name=28_Nets New Net Name=1.17_Nets
+Change Class Name : Old Net Name=29_Nets New Net Name=2.18_Nets
+Change Class Name : Old Net Name=30_Nets New Net Name=1.18_Nets
+Change Class Name : Old Net Name=31_Nets New Net Name=2.19_Nets
+Change Class Name : Old Net Name=32_Nets New Net Name=1.19_Nets
+Change Class Name : Old Net Name=33_Nets New Net Name=2.20_Nets
+Change Class Name : Old Net Name=34_Nets New Net Name=1.20_Nets
+Change Class Name : Old Net Name=35_Nets New Net Name=2.13_Nets
+Change Class Name : Old Net Name=36_Nets New Net Name=1.13_Nets
+Change Class Name : Old Net Name=37_Nets New Net Name=2.14_Nets
+Change Class Name : Old Net Name=38_Nets New Net Name=1.14_Nets
+Change Class Name : Old Net Name=39_Nets New Net Name=2.15_Nets
+Change Class Name : Old Net Name=40_Nets New Net Name=1.15_Nets
+Change Class Name : Old Net Name=41_Nets New Net Name=2.16_Nets
+Change Class Name : Old Net Name=42_Nets New Net Name=1.16_Nets
+Change Class Name : Old Net Name=43_Nets New Net Name=2.9_Nets
+Change Class Name : Old Net Name=44_Nets New Net Name=1.9_Nets
+Change Class Name : Old Net Name=45_Nets New Net Name=2.10_Nets
+Change Class Name : Old Net Name=46_Nets New Net Name=1.10_Nets
+Change Class Name : Old Net Name=47_Nets New Net Name=2.11_Nets
+Change Class Name : Old Net Name=48_Nets New Net Name=1.11_Nets
+Change Class Name : Old Net Name=49_Nets New Net Name=2.12_Nets
+Change Class Name : Old Net Name=50_Nets New Net Name=1.12_Nets
+Change Class Name : Old Net Name=51_Nets New Net Name=2.5_Nets
+Change Class Name : Old Net Name=52_Nets New Net Name=1.5_Nets
+Change Class Name : Old Net Name=53_Nets New Net Name=2.6_Nets
+Change Class Name : Old Net Name=54_Nets New Net Name=1.6_Nets
+Change Class Name : Old Net Name=55_Nets New Net Name=2.7_Nets
+Change Class Name : Old Net Name=56_Nets New Net Name=1.7_Nets
+Change Class Name : Old Net Name=57_Nets New Net Name=2.8_Nets
+Change Class Name : Old Net Name=58_Nets New Net Name=1.8_Nets
+Change Class Name : Old Net Name=59_Nets New Net Name=2.1_Nets
+Change Class Name : Old Net Name=60_Nets New Net Name=1.1_Nets
+Added Member To Class: ClassName=1 Member=Component 1.1 (1) EMIT
+Added Member To Class: ClassName=5 Member=Component 1.5 (1) EMIT
+Added Member To Class: ClassName=6 Member=Component 1.6 (1) EMIT
+Added Member To Class: ClassName=7 Member=Component 1.7 (1) EMIT
+Added Member To Class: ClassName=8 Member=Component 1.8 (1) EMIT
+Added Member To Class: ClassName=9 Member=Component 1.9 (1) EMIT
+Added Member To Class: ClassName=10 Member=Component 1.10 (1) EMIT
+Added Member To Class: ClassName=11 Member=Component 1.11 (1) EMIT
+Added Member To Class: ClassName=12 Member=Component 1.12 (1) EMIT
+Added Member To Class: ClassName=13 Member=Component 1.13 (1) EMIT
+Added Member To Class: ClassName=14 Member=Component 1.14 (1) EMIT
+Added Member To Class: ClassName=15 Member=Component 1.15 (1) EMIT
+Added Member To Class: ClassName=16 Member=Component 1.16 (1) EMIT
+Added Member To Class: ClassName=17 Member=Component 1.17 (1) EMIT
+Added Member To Class: ClassName=18 Member=Component 1.18 (1) EMIT
+Added Member To Class: ClassName=19 Member=Component 1.19 (1) EMIT
+Added Member To Class: ClassName=20 Member=Component 1.20 (1) EMIT
+Added Member To Class: ClassName=23 Member=Component 1.23 (1) EMIT
+Added Member To Class: ClassName=24 Member=Component 1.24 (1) EMIT
+Added Member To Class: ClassName=1 Member=Component 2.1 (2) EMIT
+Added Member To Class: ClassName=5 Member=Component 2.5 (2) EMIT
+Added Member To Class: ClassName=6 Member=Component 2.6 (2) EMIT
+Added Member To Class: ClassName=7 Member=Component 2.7 (2) EMIT
+Added Member To Class: ClassName=8 Member=Component 2.8 (2) EMIT
+Added Member To Class: ClassName=9 Member=Component 2.9 (2) EMIT
+Added Member To Class: ClassName=10 Member=Component 2.10 (2) EMIT
+Added Member To Class: ClassName=11 Member=Component 2.11 (2) EMIT
+Added Member To Class: ClassName=12 Member=Component 2.12 (2) EMIT
+Added Member To Class: ClassName=13 Member=Component 2.13 (2) EMIT
+Added Member To Class: ClassName=14 Member=Component 2.14 (2) EMIT
+Added Member To Class: ClassName=15 Member=Component 2.15 (2) EMIT
+Added Member To Class: ClassName=16 Member=Component 2.16 (2) EMIT
+Added Member To Class: ClassName=17 Member=Component 2.17 (2) EMIT
+Added Member To Class: ClassName=18 Member=Component 2.18 (2) EMIT
+Added Member To Class: ClassName=19 Member=Component 2.19 (2) EMIT
+Added Member To Class: ClassName=20 Member=Component 2.20 (2) EMIT
+Added Member To Class: ClassName=23 Member=Component 2.23 (2) EMIT
+Added Member To Class: ClassName=24 Member=Component 2.24 (2) EMIT

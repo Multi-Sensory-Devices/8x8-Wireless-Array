@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MS Pin=EP4CE6-60
+Added Pin To Net: NetName=MS Pin=EP4CE6-61
+Added Pin To Net: NetName=IO_39 Pin=EP4CE6-60
+Added Net: Name=IO_39

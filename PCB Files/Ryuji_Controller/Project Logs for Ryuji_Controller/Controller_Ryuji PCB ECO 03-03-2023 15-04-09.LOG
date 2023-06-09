@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PDO2 Pin=T62-P$1
+Removed Pin From Net: NetName=PDO3 Pin=T63-P$1
+Removed Member From Class: ClassName=Headers_Controller Member=T62
+Removed Member From Class: ClassName=Headers_Controller Member=T63

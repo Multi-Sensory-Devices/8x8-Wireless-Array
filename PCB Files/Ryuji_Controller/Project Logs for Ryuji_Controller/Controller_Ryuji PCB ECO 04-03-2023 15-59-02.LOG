@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=SYNC Pin=33-P$1
+Removed Pin From Net: NetName=MS Pin=39-P$1
+Removed Pin From Net: NetName=MS Pin=EP4CE6-60
+Removed Pin From Net: NetName=SYNC Pin=EP4CE6-61
+Added Pin To Net: NetName=MS Pin=33-P$1
+Added Pin To Net: NetName=SYNC Pin=38-P$1
+Added Pin To Net: NetName=SYNC Pin=EP4CE6-59
+Added Pin To Net: NetName=MS Pin=EP4CE6-61
+Added Pin To Net: NetName=IO_39 Pin=39-P$1
+Added Pin To Net: NetName=IO_39 Pin=EP4CE6-60
+Added Net: Name=IO_39

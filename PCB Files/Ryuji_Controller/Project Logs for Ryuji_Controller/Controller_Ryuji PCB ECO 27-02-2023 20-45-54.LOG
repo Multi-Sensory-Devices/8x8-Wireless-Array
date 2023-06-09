@@ -1,0 +1,146 @@
+Added Pin To Net: NetName=GND Pin=J1-01
+Added Pin To Net: NetName=GND Pin=J1-19
+Added Pin To Net: NetName=GND Pin=J2-01
+Added Pin To Net: NetName=GND Pin=J2-19
+Added Pin To Net: NetName=GND Pin=J3-01
+Added Pin To Net: NetName=GND Pin=J3-19
+Added Pin To Net: NetName=GND Pin=J4-01
+Added Pin To Net: NetName=GND Pin=J4-19
+Added Net: Name=GND
+Added Pin To Net: NetName=sigA1 Pin=J2-17
+Added Net: Name=sigA1
+Added Pin To Net: NetName=sigA2 Pin=J2-16
+Added Net: Name=sigA2
+Added Pin To Net: NetName=sigA3 Pin=J4-17
+Added Net: Name=sigA3
+Added Pin To Net: NetName=sigA4 Pin=J4-16
+Added Net: Name=sigA4
+Added Pin To Net: NetName=sigA5 Pin=J2-13
+Added Net: Name=sigA5
+Added Pin To Net: NetName=sigA6 Pin=J2-12
+Added Net: Name=sigA6
+Added Pin To Net: NetName=sigA7 Pin=J4-13
+Added Net: Name=sigA7
+Added Pin To Net: NetName=sigA8 Pin=J4-12
+Added Net: Name=sigA8
+Added Pin To Net: NetName=sigA9 Pin=J2-09
+Added Net: Name=sigA9
+Added Pin To Net: NetName=sigA10 Pin=J2-08
+Added Net: Name=sigA10
+Added Pin To Net: NetName=sigA11 Pin=J4-09
+Added Net: Name=sigA11
+Added Pin To Net: NetName=sigA12 Pin=J4-08
+Added Net: Name=sigA12
+Added Pin To Net: NetName=sigA13 Pin=J2-05
+Added Net: Name=sigA13
+Added Pin To Net: NetName=sigA14 Pin=J2-04
+Added Net: Name=sigA14
+Added Pin To Net: NetName=sigA15 Pin=J4-05
+Added Net: Name=sigA15
+Added Pin To Net: NetName=sigA16 Pin=J4-04
+Added Net: Name=sigA16
+Added Pin To Net: NetName=sigA17 Pin=J1-17
+Added Net: Name=sigA17
+Added Pin To Net: NetName=sigA18 Pin=J1-16
+Added Net: Name=sigA18
+Added Pin To Net: NetName=sigA19 Pin=J3-17
+Added Net: Name=sigA19
+Added Pin To Net: NetName=sigA20 Pin=J3-16
+Added Net: Name=sigA20
+Added Pin To Net: NetName=sigA21 Pin=J1-13
+Added Net: Name=sigA21
+Added Pin To Net: NetName=sigA22 Pin=J1-12
+Added Net: Name=sigA22
+Added Pin To Net: NetName=sigA23 Pin=J3-13
+Added Net: Name=sigA23
+Added Pin To Net: NetName=sigA24 Pin=J3-12
+Added Net: Name=sigA24
+Added Pin To Net: NetName=sigA25 Pin=J1-09
+Added Net: Name=sigA25
+Added Pin To Net: NetName=sigA26 Pin=J1-08
+Added Net: Name=sigA26
+Added Pin To Net: NetName=sigA27 Pin=J3-09
+Added Net: Name=sigA27
+Added Pin To Net: NetName=sigA28 Pin=J3-08
+Added Net: Name=sigA28
+Added Pin To Net: NetName=sigA29 Pin=J1-05
+Added Net: Name=sigA29
+Added Pin To Net: NetName=sigA30 Pin=J1-04
+Added Net: Name=sigA30
+Added Pin To Net: NetName=sigA31 Pin=J3-05
+Added Net: Name=sigA31
+Added Pin To Net: NetName=sigA32 Pin=J3-04
+Added Net: Name=sigA32
+Added Pin To Net: NetName=sigB1 Pin=J2-15
+Added Net: Name=sigB1
+Added Pin To Net: NetName=sigB2 Pin=J2-18
+Added Net: Name=sigB2
+Added Pin To Net: NetName=sigB3 Pin=J4-15
+Added Net: Name=sigB3
+Added Pin To Net: NetName=sigB4 Pin=J4-18
+Added Net: Name=sigB4
+Added Pin To Net: NetName=sigB5 Pin=J2-11
+Added Net: Name=sigB5
+Added Pin To Net: NetName=sigB6 Pin=J2-14
+Added Net: Name=sigB6
+Added Pin To Net: NetName=sigB7 Pin=J4-11
+Added Net: Name=sigB7
+Added Pin To Net: NetName=sigB8 Pin=J4-14
+Added Net: Name=sigB8
+Added Pin To Net: NetName=sigB9 Pin=J2-07
+Added Net: Name=sigB9
+Added Pin To Net: NetName=sigB10 Pin=J2-10
+Added Net: Name=sigB10
+Added Pin To Net: NetName=sigB11 Pin=J4-07
+Added Net: Name=sigB11
+Added Pin To Net: NetName=sigB12 Pin=J4-10
+Added Net: Name=sigB12
+Added Pin To Net: NetName=sigB13 Pin=J2-03
+Added Net: Name=sigB13
+Added Pin To Net: NetName=sigB14 Pin=J2-06
+Added Net: Name=sigB14
+Added Pin To Net: NetName=sigB15 Pin=J4-03
+Added Net: Name=sigB15
+Added Pin To Net: NetName=sigB16 Pin=J4-06
+Added Net: Name=sigB16
+Added Pin To Net: NetName=sigB17 Pin=J1-15
+Added Net: Name=sigB17
+Added Pin To Net: NetName=sigB18 Pin=J1-18
+Added Net: Name=sigB18
+Added Pin To Net: NetName=sigB19 Pin=J3-15
+Added Net: Name=sigB19
+Added Pin To Net: NetName=sigB20 Pin=J3-18
+Added Net: Name=sigB20
+Added Pin To Net: NetName=sigB21 Pin=J1-11
+Added Net: Name=sigB21
+Added Pin To Net: NetName=sigB22 Pin=J1-14
+Added Net: Name=sigB22
+Added Pin To Net: NetName=sigB23 Pin=J3-11
+Added Net: Name=sigB23
+Added Pin To Net: NetName=sigB24 Pin=J3-14
+Added Net: Name=sigB24
+Added Pin To Net: NetName=sigB25 Pin=J1-07
+Added Net: Name=sigB25
+Added Pin To Net: NetName=sigB26 Pin=J1-10
+Added Net: Name=sigB26
+Added Pin To Net: NetName=sigB27 Pin=J3-07
+Added Net: Name=sigB27
+Added Pin To Net: NetName=sigB28 Pin=J3-10
+Added Net: Name=sigB28
+Added Pin To Net: NetName=sigB29 Pin=J1-03
+Added Net: Name=sigB29
+Added Pin To Net: NetName=sigB30 Pin=J1-06
+Added Net: Name=sigB30
+Added Pin To Net: NetName=sigB31 Pin=J3-03
+Added Net: Name=sigB31
+Added Pin To Net: NetName=sigB32 Pin=J3-06
+Added Net: Name=sigB32
+Added Pin To Net: NetName=VS Pin=J1-02
+Added Pin To Net: NetName=VS Pin=J1-20
+Added Pin To Net: NetName=VS Pin=J2-02
+Added Pin To Net: NetName=VS Pin=J2-20
+Added Pin To Net: NetName=VS Pin=J3-02
+Added Pin To Net: NetName=VS Pin=J3-20
+Added Pin To Net: NetName=VS Pin=J4-02
+Added Pin To Net: NetName=VS Pin=J4-20
+Added Net: Name=VS

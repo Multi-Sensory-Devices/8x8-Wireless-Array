@@ -1,0 +1,44 @@
+Change Component DesignItemId : Designator=J1 Old DesignItemId=SSW-110-22-G-D-VS New DesignItemId=B27c-2x10-BSAB1-G
+Change Component DesignItemId : Designator=J2 Old DesignItemId=SSW-110-22-G-D-VS New DesignItemId=B27c-2x10-BSAB1-G
+Change Component DesignItemId : Designator=J3 Old DesignItemId=SSW-110-22-G-D-VS New DesignItemId=B27c-2x10-BSAB1-G
+Change Component DesignItemId : Designator=J4 Old DesignItemId=SSW-110-22-G-D-VS New DesignItemId=B27c-2x10-BSAB1-G
+Change Footprint: Cannot match pads with new footprint in component :J1 Footprint:B27C SMT2x10
+Change Footprint: Cannot match pads with new footprint in component :J2 Footprint:B27C SMT2x10
+Change Footprint: Cannot match pads with new footprint in component :J3 Footprint:B27C SMT2x10
+Change Footprint: Cannot match pads with new footprint in component :J4 Footprint:B27C SMT2x10
+Change Component Comment : Designator=J1 Old Comment=SSW-110-22-G-D-VS New Comment=B27c-2x10-BSAB1-G
+Change Component Comment : Designator=J2 Old Comment=SSW-110-22-G-D-VS New Comment=B27c-2x10-BSAB1-G
+Change Component Comment : Designator=J3 Old Comment=SSW-110-22-G-D-VS New Comment=B27c-2x10-BSAB1-G
+Change Component Comment : Designator=J4 Old Comment=SSW-110-22-G-D-VS New Comment=B27c-2x10-BSAB1-G
+Change Component Library : Designator=J1 Old Library=SSW-110-22-G-D-VS.IntLib New Library=InteractLab.SchLib
+Change Component Library : Designator=J2 Old Library=SSW-110-22-G-D-VS.IntLib New Library=InteractLab.SchLib
+Change Component Library : Designator=J3 Old Library=SSW-110-22-G-D-VS.IntLib New Library=InteractLab.SchLib
+Change Component Library : Designator=J4 Old Library=SSW-110-22-G-D-VS.IntLib New Library=InteractLab.SchLib
+Change component parameters: Designator = "J1" ("J1"); Footprint = "SAMTEC_SSW-110-22-G-D-VS"; UniqueID = "\APXJGLJM\FMVVBFXA" ("\APXJGLJM\FMVVBFXA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B27c-2x10-BSAB1-G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "SAMTEC_SSW-110-22-G-D-VS"; UniqueID = "\APXJGLJM\TPUIYLYU" ("\APXJGLJM\TPUIYLYU")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B27c-2x10-BSAB1-G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "SAMTEC_SSW-110-22-G-D-VS"; UniqueID = "\APXJGLJM\YMEOCCWA" ("\APXJGLJM\YMEOCCWA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B27c-2x10-BSAB1-G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4" ("J4"); Footprint = "SAMTEC_SSW-110-22-G-D-VS"; UniqueID = "\APXJGLJM\AWRMRIQD" ("\APXJGLJM\AWRMRIQD")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B27c-2x10-BSAB1-G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

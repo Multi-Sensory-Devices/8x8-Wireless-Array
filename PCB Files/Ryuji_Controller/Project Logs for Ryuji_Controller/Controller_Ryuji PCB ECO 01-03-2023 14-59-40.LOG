@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=MS? Old Footprint=FEATHER BLE NRF52480 New Footprint=FEATHERWING_NODIM
+Change Component Designator: OldDesignator=J5 NewDesignator=MS2
+Change Component Designator: OldDesignator=MS? NewDesignator=MS1
+Change Component Library : Designator=MS1 Old Library=microbuilder.IntLib New Library=InteractLab.SchLib
+Add Class Member: Failed to add class member : Component MS3 Sparkfun STUSB4500

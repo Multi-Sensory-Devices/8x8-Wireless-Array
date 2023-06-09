@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=VS Pin=J1-20
+Added Pin To Net: NetName=VS Pin=J2-20
+Added Pin To Net: NetName=VS Pin=J3-20
+Added Member To Class: ClassName=J3_Nets Member=Wire VS
